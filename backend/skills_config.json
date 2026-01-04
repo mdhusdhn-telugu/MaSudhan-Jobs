@@ -1,0 +1,31 @@
+{
+  "search_queries": [
+    "React Developer",
+    "Frontend Developer",
+    "Python Developer",
+    "Software Engineer Fresher"
+  ],
+  "locations": [
+    "India",
+    "Remote"
+  ],
+  "skills_to_match": [
+    "React", "TypeScript", "JavaScript", "Python", 
+    "Redux", "SQL", "Git", "GitHub", "HTML", "CSS"
+  ],
+  "experience_level": "0-2 years",
+  "blacklisted_companies": [
+    "Dice", 
+    "Cannon Search", 
+    "CyberCoders",
+    "Revature" 
+  ],
+  "blacklisted_titles": [
+    "Senior",
+    "Lead",
+    "Principal",
+    "Manager",
+    "Architect",
+    "Sr."
+  ]
+}%

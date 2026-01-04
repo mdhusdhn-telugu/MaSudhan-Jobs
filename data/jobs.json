@@ -1,0 +1,634 @@
+[
+    {
+        "id": "7604348083222903850",
+        "title": "AI INTERN",
+        "company": "iCore Software Systems pvt. ltd.",
+        "location": "N\u0101val\u016br",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009985879983",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Django",
+                "Flask",
+                "Docker"
+            ],
+            "cover_letter_hook": "As a developer skilled in Python, TypeScript, Git, I can immediately contribute to your AI INTERN role."
+        }
+    },
+    {
+        "id": "-6931386544705501324",
+        "title": "AI INTERN",
+        "company": "ICore Software Systems Limited",
+        "location": "Navalur, TN, IN",
+        "date_posted": "2026-01-03",
+        "job_url": "https://in.indeed.com/viewjob?jk=ff4b26cfd8e0006b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Django",
+                "Flask",
+                "Docker"
+            ],
+            "cover_letter_hook": "As a developer skilled in Python, TypeScript, Git, I can immediately contribute to your AI INTERN role."
+        }
+    },
+    {
+        "id": "5641967761630887672",
+        "title": "Front End Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4351099893",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front End Developer Intern role."
+        }
+    },
+    {
+        "id": "626766469680223834",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4330260378",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front-End Developer Intern role."
+        }
+    },
+    {
+        "id": "6007593408170792696",
+        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4349396864",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 15,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front-End Developer Intern (HTML, CSS, JavaScript, React)) role."
+        }
+    },
+    {
+        "id": "-771328759871244348",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4350798296",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Frontend Developer role."
+        }
+    },
+    {
+        "id": "-7446669463335836236",
+        "title": "Web Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4351250050",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Web Developer Intern role."
+        }
+    },
+    {
+        "id": "4852420592275396541",
+        "title": "Frontend Developer",
+        "company": "Webkit24",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4330260093",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Frontend Developer role."
+        }
+    },
+    {
+        "id": "4980692995759351615",
+        "title": "Front End Developers",
+        "company": "aimlabs",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4330102827",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front End Developers role."
+        }
+    },
+    {
+        "id": "-4002374748339360524",
+        "title": "Web Developer",
+        "company": "PinnacleU",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4351210435",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Web Developer role."
+        }
+    },
+    {
+        "id": "-4529821395653556007",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4349387435",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front-End Developer Intern role."
+        }
+    },
+    {
+        "id": "-8132369342267291712",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "None",
+        "job_url": "https://www.linkedin.com/jobs/view/4354510718",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Front-End Developer Intern role."
+        }
+    },
+    {
+        "id": "-6623483806145649720",
+        "title": "React.JS Developer Interns",
+        "company": "Unikwork",
+        "location": "Surat",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986144964",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your React.JS Developer Interns role."
+        }
+    },
+    {
+        "id": "2009539246569971638",
+        "title": "MERN Full Stack Intern",
+        "company": "REPOXAI",
+        "location": "Mananthavady",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986083577",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 66,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Docker",
+                "Tailwind"
+            ],
+            "cover_letter_hook": "As a developer skilled in MySQL, React, Git, I can immediately contribute to your MERN Full Stack Intern role."
+        }
+    },
+    {
+        "id": "-8473072419029315478",
+        "title": "Full Stack Developer Intern",
+        "company": "ms techfort",
+        "location": "India",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986095653",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 75,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "AWS"
+            ],
+            "cover_letter_hook": "As a developer skilled in React, Git, GitHub, I can immediately contribute to your Full Stack Developer Intern role."
+        }
+    },
+    {
+        "id": "4705663786248641277",
+        "title": "React.JS Developer Interns",
+        "company": "Unikwork",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=3f0c2cb562561007",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your React.JS Developer Interns role."
+        }
+    },
+    {
+        "id": "2121572329959182190",
+        "title": "Full Stack Developer Intern",
+        "company": "ms techfort",
+        "location": "MH, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=7bb10fc66d6af22a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 75,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "AWS"
+            ],
+            "cover_letter_hook": "As a developer skilled in React, Git, GitHub, I can immediately contribute to your Full Stack Developer Intern role."
+        }
+    },
+    {
+        "id": "7225499906914008825",
+        "title": "MERN Full Stack Intern",
+        "company": "REPOXAI",
+        "location": "Mananthavady, KL, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=f5b8092393c93d69",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 66,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Docker",
+                "Tailwind"
+            ],
+            "cover_letter_hook": "As a developer skilled in MySQL, React, Git, I can immediately contribute to your MERN Full Stack Intern role."
+        }
+    },
+    {
+        "id": "-3199161342274540297",
+        "title": "Frontend Developer (next.js)",
+        "company": "Norric",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "nan",
+        "job_url": "https://www.linkedin.com/jobs/view/4349368136",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Frontend Developer (next.js) role."
+        }
+    },
+    {
+        "id": "-2691099110517638460",
+        "title": "Junior Flutter Developer",
+        "company": "recruitwale",
+        "location": "Surat",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986154087",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in Git, I can immediately contribute to your Junior Flutter Developer role."
+        }
+    },
+    {
+        "id": "-8258333899330463545",
+        "title": "Software Developer",
+        "company": "Wehoware Technologies",
+        "location": "Hyder\u0101b\u0101d",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986066468",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in JavaScript, I can immediately contribute to your Software Developer role."
+        }
+    },
+    {
+        "id": "-2732072286992354314",
+        "title": "Junior Flutter Developer",
+        "company": "recruitwale",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=56b2fa7f213cd644",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in Git, I can immediately contribute to your Junior Flutter Developer role."
+        }
+    },
+    {
+        "id": "-1239963695212885630",
+        "title": "Software Developer",
+        "company": "Wehoware Technologies",
+        "location": "TS, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=55f7d6e2804cfeba",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in JavaScript, I can immediately contribute to your Software Developer role."
+        }
+    },
+    {
+        "id": "-8044329909233802828",
+        "title": "Software Backend Engineer",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "nan",
+        "job_url": "https://www.linkedin.com/jobs/view/4349856494",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Software Backend Engineer role."
+        }
+    },
+    {
+        "id": "8936457583335146491",
+        "title": "Node Js Full stack developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "nan",
+        "job_url": "https://www.linkedin.com/jobs/view/4330170299",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Node Js Full stack developer role."
+        }
+    },
+    {
+        "id": "2893530349363493960",
+        "title": "Software Engineer - Backend Development",
+        "company": "Picarro",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "nan",
+        "job_url": "https://www.linkedin.com/jobs/view/4279448304",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Software Engineer - Backend Development role."
+        }
+    },
+    {
+        "id": "2508040574898754514",
+        "title": "PHP Developer Intern / MySQL DBA Intern",
+        "company": "Sprint Technologies",
+        "location": "Bally Jagachha",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009985938898",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in MySQL, HTML, CSS, I can immediately contribute to your PHP Developer Intern / MySQL DBA Intern role."
+        }
+    },
+    {
+        "id": "-5110466073806223649",
+        "title": "Web Developer Intern",
+        "company": "KERDIA ONLINE SOLUTIONS LLP",
+        "location": "India",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009985880077",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Web Developer Intern role."
+        }
+    },
+    {
+        "id": "-1288219307010077399",
+        "title": "Web Designer/Developer",
+        "company": "Travarsa Private Limited",
+        "location": "Calcutta",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986134290",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your Web Designer/Developer role."
+        }
+    },
+    {
+        "id": "-894265024904522725",
+        "title": "QA Automation Engineer Intern",
+        "company": "iCore Software Systems pvt. ltd.",
+        "location": "N\u0101val\u016br",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009985877691",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in Git, GitHub, I can immediately contribute to your QA Automation Engineer Intern role."
+        }
+    },
+    {
+        "id": "2242089084263634679",
+        "title": "Java Developer \u2013 Fresher/Intern/Any Graduate",
+        "company": "Coderwing",
+        "location": "Indore",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986100409",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your Java Developer \u2013 Fresher/Intern/Any Graduate role."
+        }
+    },
+    {
+        "id": "-5032113183176149429",
+        "title": "Python intern",
+        "company": "Entrike InfoTech",
+        "location": "Calicut",
+        "date_posted": "2026-01-04",
+        "job_url": "https://www.glassdoor.co.in/job-listing/j?jl=1009986078935",
+        "site": "glassdoor",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 75,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Django",
+                "Flask"
+            ],
+            "cover_letter_hook": "As a developer skilled in Python, MySQL, Git, I can immediately contribute to your Python intern role."
+        }
+    },
+    {
+        "id": "5152099477382804458",
+        "title": "Web Designer/Developer",
+        "company": "Travarsa Private Limited",
+        "location": "WB, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=c8e5b707192ab09e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your Web Designer/Developer role."
+        }
+    },
+    {
+        "id": "-3698992244986312027",
+        "title": "Java Developer \u2013 Fresher/Intern/Any Graduate",
+        "company": "Coderwing",
+        "location": "MP, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=38a64c840a2edc2c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in HTML, CSS, JavaScript, I can immediately contribute to your Java Developer \u2013 Fresher/Intern/Any Graduate role."
+        }
+    },
+    {
+        "id": "-5199693427902317561",
+        "title": "Python intern",
+        "company": "Entrike InfoTech",
+        "location": "KL, IN",
+        "date_posted": "2026-01-04",
+        "job_url": "https://in.indeed.com/viewjob?jk=22662202007cbb6a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 75,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [
+                "Django",
+                "Flask"
+            ],
+            "cover_letter_hook": "As a developer skilled in Python, MySQL, Git, I can immediately contribute to your Python intern role."
+        }
+    },
+    {
+        "id": "50223737524593557",
+        "title": "PHP Developer Intern / MySQL DBA Intern",
+        "company": "T-Mobile Premium Retailers",
+        "location": "Bally, WB, IN",
+        "date_posted": "2026-01-03",
+        "job_url": "https://in.indeed.com/viewjob?jk=51c355b25d0e6da4",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in MySQL, HTML, CSS, I can immediately contribute to your PHP Developer Intern / MySQL DBA Intern role."
+        }
+    },
+    {
+        "id": "-593914908373789602",
+        "title": "Web Developer Intern",
+        "company": "Unknown",
+        "location": "KL, IN",
+        "date_posted": "2026-01-03",
+        "job_url": "https://in.indeed.com/viewjob?jk=1bf173bae46dbf16",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 0,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in , I can immediately contribute to your Web Developer Intern role."
+        }
+    },
+    {
+        "id": "5103276724737346479",
+        "title": "QA Automation Engineer Intern",
+        "company": "ICore Software Systems Limited",
+        "location": "Navalur, TN, IN",
+        "date_posted": "2026-01-03",
+        "job_url": "https://in.indeed.com/viewjob?jk=9f4607a3c1fdf951",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100,
+            "salary_estimate": "Not Disclosed",
+            "skill_gap": [],
+            "cover_letter_hook": "As a developer skilled in Git, GitHub, I can immediately contribute to your QA Automation Engineer Intern role."
+        }
+    }
+]
