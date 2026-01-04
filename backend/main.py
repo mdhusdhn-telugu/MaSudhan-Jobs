@@ -8,7 +8,7 @@ from jobspy import scrape_jobs
 from datetime import datetime
 import re
 
-# --- CLOUD CONFIG (Loads from GitHub Secrets) ---
+# --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_PASS = os.environ.get("GMAIL_PASS")
 TO_EMAIL   = os.environ.get("TO_EMAIL")
@@ -29,23 +29,26 @@ except Exception:
         "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript", "Git", "GitHub"], 
         "skills_desired": ["Django", "Flask", "Redux", "AWS", "Docker", "Tailwind"],     
         "experience_level": "Entry",
+        
+        # FILTERS
         "blacklisted_companies": ["Dice", "Sporty", "rossover", "Braintrust", "Toptal", "CyberCoders", "Hirist"], 
-        "blacklisted_titles": ["Senior", "Lead", "Principal", "Architect", "Sr.", "Manager"]
+        "blacklisted_titles": ["Senior", "Lead", "Principal", "Architect", "Sr.", "Manager", "Head"],
+        
+        # NEW: BAN THESE TECHS
+        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "swift", "kotlin", "java developer", "php developer"] 
     }
 
 def send_email_alert(job_count, top_jobs):
     if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 {job_count} New Jobs Ready - MaSudhan's Feed"
-    
-    # Netlify URL (We will update this dynamically or use a generic link)
-    dashboard_url = "https://masudhans-jobs.netlify.app" 
+    subject = f"🚀 {job_count} Clean Jobs for MaSudhan (No Flutter!)"
+    dashboard_url = "https://masudhans-jobs.netlify.app" # <--- Update this if you have your real link
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>The cloud scraper finished. <b>{job_count} fresh jobs</b> are waiting.</p>
+        <p>I found <b>{job_count} jobs</b> matching your exact stack (Python/React).</p>
         <p><b>Top Picks:</b></p>
         <ul>
     """
@@ -55,7 +58,7 @@ def send_email_alert(job_count, top_jobs):
         
     body += f"""
         </ul>
-        <p><a href="{dashboard_url}">Open Dashboard</a></p>
+        <p><a href="{dashboard_url}">Open Your Dashboard</a></p>
       </body>
     </html>
     """
@@ -93,11 +96,20 @@ def analyze_job(job_description, job_title, company, date_posted):
     description_lower = job_description.lower()
     title_lower = job_title.lower()
     
+    # 1. Company Filter
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
+
+    # 2. Title Filter (Seniority)
     for title_block in CONFIG['blacklisted_titles']:
         if title_block.lower() in title_lower: return {"is_suitable": False}
+
+    # 3. Tech Stack Filter (No Flutter/Mobile)
+    for bad_keyword in CONFIG['blacklisted_keywords']:
+        if bad_keyword in title_lower or bad_keyword in description_lower:
+             return {"is_suitable": False, "reason": f"Contains {bad_keyword}"}
             
+    # 4. Skill Match
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in description_lower]
     missing_skills = [s for s in CONFIG['skills_desired'] if s.lower() in description_lower]
     
@@ -106,7 +118,7 @@ def analyze_job(job_description, job_title, company, date_posted):
     if "python" in title_lower or "react" in title_lower: match_score += 15
     match_score = min(int(match_score), 100)
 
-    hook = f"Hey, check out this {job_title} role at {company}. It matches my stack!"
+    hook = f"Hey, check out this {job_title} role at {company}. It matches my Python/React stack!"
 
     return {
         "is_suitable": True,
@@ -121,29 +133,36 @@ def clean_val(value):
     return str(value)
 
 def main():
-    print("🚀 Starting Cloud Scraper...")
+    print("🚀 Starting Cloud Scraper (Strict Mode)...")
     all_jobs = []
     
     for query in CONFIG['search_queries']:
         try:
-            # Using Indeed/Glassdoor can be tricky in cloud due to bot protection.
-            # We prioritize LinkedIn/Glassdoor for reliability in CI/CD.
+            # We fetch a bit more to account for the ones we will delete
             jobs = scrape_jobs(
                 site_name=["linkedin", "glassdoor"], 
                 search_term=query,
                 location="India",
-                results_wanted=8, 
+                results_wanted=15, 
                 hours_old=24,
                 country_indeed='india'
             )
             all_jobs.append(jobs)
         except Exception as e:
-            print(f"   Error: {e}")
+            print(f"   Error scraping {query}: {e}")
 
     if not all_jobs: return
 
     jobs_df = pd.concat(all_jobs, ignore_index=True)
-    jobs_df.drop_duplicates(subset=['job_url'], inplace=True)
+    
+    # --- IMPROVED DEDUPLICATION ---
+    # Create clean columns for comparison
+    jobs_df['title_clean'] = jobs_df['title'].astype(str).str.lower().str.strip()
+    jobs_df['company_clean'] = jobs_df['company'].astype(str).str.lower().str.strip()
+    
+    # Remove duplicates based on Title + Company (ignoring the URL)
+    jobs_df.drop_duplicates(subset=['title_clean', 'company_clean'], inplace=True)
+    # ------------------------------
     
     processed_jobs = []
     for index, row in jobs_df.iterrows():
@@ -168,11 +187,10 @@ def main():
         })
         print(f"✅ Saved: {title}")
 
-    # Ensure directories exist
+    # Save to both locations
     os.makedirs('data', exist_ok=True)
     os.makedirs('frontend/public/data', exist_ok=True)
 
-    # Save to both locations so Netlify picks it up
     with open('data/jobs.json', 'w') as f:
         json.dump(processed_jobs, f, indent=4)
     with open('frontend/public/data/jobs.json', 'w') as f:
