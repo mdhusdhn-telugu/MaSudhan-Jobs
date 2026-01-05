@@ -1,6 +1,6 @@
 [
     {
-        "id": "-7969482440786288320",
+        "id": "3008818650890721049",
         "title": "Full Stack Developer",
         "company": "2CQR AUTOMATION PVT LTD",
         "location": "TN, IN",
@@ -14,7 +14,21 @@
         }
     },
     {
-        "id": "-2361826543452567501",
+        "id": "2428758489264056734",
+        "title": "Backend Developer Fresher",
+        "company": "RW Infotech Private Limited",
+        "location": "PB, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=59aa8392c9c40836",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77,
+            "share_message": "Hey! Found this job: Backend Developer Fresher at RW Infotech Private Limited. Check it out!"
+        }
+    },
+    {
+        "id": "6159147363184725569",
         "title": "React Native Developer",
         "company": "Gemburg",
         "location": "MH, IN",
@@ -28,7 +42,49 @@
         }
     },
     {
-        "id": "-5582108258083778452",
+        "id": "-2812378015455789971",
+        "title": "React Developer",
+        "company": "Unknown",
+        "location": "DL, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=471b3b2c237ab584",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62,
+            "share_message": "Hey! Found this job: React Developer at Unknown. Check it out!"
+        }
+    },
+    {
+        "id": "-7542457231696305860",
+        "title": "Angular Developer",
+        "company": "ProSer Industries",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=0af7e8ed08eb910c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Angular Developer at ProSer Industries. Check it out!"
+        }
+    },
+    {
+        "id": "2413173570368240700",
+        "title": "PHP Web Developer",
+        "company": "Kanagala Technologies Pvt Ltd",
+        "location": "Mangalagiri, AP, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=ee60b66e5affdc94",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: PHP Web Developer at Kanagala Technologies Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "220776868942362821",
         "title": "Python developer Jr / Sr",
         "company": "Hindustan Software House",
         "location": "KL, IN",
@@ -42,7 +98,7 @@
         }
     },
     {
-        "id": "-1296223005021282821",
+        "id": "9149948808730406017",
         "title": "React Developer",
         "company": "ktree.com",
         "location": "Hyderabad, Telangana, India",
@@ -56,7 +112,7 @@
         }
     },
     {
-        "id": "-3108880127866223793",
+        "id": "-6999948235521630263",
         "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
         "location": "",
@@ -70,7 +126,7 @@
         }
     },
     {
-        "id": "97820680560000326",
+        "id": "9001656897098753297",
         "title": "React Developer",
         "company": "Synechron",
         "location": "Mulshi, Maharashtra, India",
@@ -84,7 +140,7 @@
         }
     },
     {
-        "id": "-2358131022065715229",
+        "id": "-8077279255953405640",
         "title": "React JS Developer",
         "company": "Tata Consultancy Services",
         "location": "",
@@ -98,7 +154,7 @@
         }
     },
     {
-        "id": "-2934406166960549894",
+        "id": "5968411576282847557",
         "title": "Python - Front End Developer",
         "company": "Cube Hub Inc.",
         "location": "",
@@ -112,7 +168,7 @@
         }
     },
     {
-        "id": "4987212551479376782",
+        "id": "2768543098717154961",
         "title": "MEAN Stack Developer",
         "company": "Promatics Technologies Private Limited",
         "location": "PB, IN",
@@ -126,7 +182,21 @@
         }
     },
     {
-        "id": "-3072893087356184009",
+        "id": "-6347883714474656550",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TS, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=0feecfeeda983d93",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "-821432078398382741",
         "title": "Embedded QA Engineer - Intern",
         "company": "CIMCON Software (India) Pvt Ltd",
         "location": "GJ, IN",
