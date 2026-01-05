@@ -34,21 +34,21 @@ except Exception:
         "blacklisted_companies": ["Dice", "Sporty", "rossover", "Braintrust", "Toptal", "CyberCoders", "Hirist"], 
         "blacklisted_titles": ["Senior", "Lead", "Principal", "Architect", "Sr.", "Manager", "Head"],
         
-        # NEW: BAN THESE TECHS
+        # TECH BLOCKER
         "blacklisted_keywords": ["flutter", "dart", "android", "ios", "swift", "kotlin", "java developer", "php developer"] 
     }
 
 def send_email_alert(job_count, top_jobs):
     if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 {job_count} Clean Jobs for MaSudhan (No Flutter!)"
-    dashboard_url = "https://masudhans-jobs.netlify.app" # <--- Update this if you have your real link
+    subject = f"🚀 {job_count} High-Quality Jobs (Matches > 30%)"
+    dashboard_url = "https://masudhans-jobs.netlify.app"
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>I found <b>{job_count} jobs</b> matching your exact stack (Python/React).</p>
+        <p>I found <b>{job_count} active jobs</b> that match your stack (score > 30%).</p>
         <p><b>Top Picks:</b></p>
         <ul>
     """
@@ -96,11 +96,15 @@ def analyze_job(job_description, job_title, company, date_posted):
     description_lower = job_description.lower()
     title_lower = job_title.lower()
     
-    # 1. Company Filter
+    # 1. EXPIRED JOB DETECTOR
+    expired_keywords = ["no longer accepting", "job closed", "job expired", "no longer active"]
+    for phrase in expired_keywords:
+        if phrase in description_lower:
+            return {"is_suitable": False, "reason": "Job Expired/Closed"}
+
+    # 2. Company & Title Filter
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
-
-    # 2. Title Filter (Seniority)
     for title_block in CONFIG['blacklisted_titles']:
         if title_block.lower() in title_lower: return {"is_suitable": False}
 
@@ -109,14 +113,19 @@ def analyze_job(job_description, job_title, company, date_posted):
         if bad_keyword in title_lower or bad_keyword in description_lower:
              return {"is_suitable": False, "reason": f"Contains {bad_keyword}"}
             
-    # 4. Skill Match
+    # 4. Skill Match Calculation
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in description_lower]
     missing_skills = [s for s in CONFIG['skills_desired'] if s.lower() in description_lower]
     
     total_relevant = len(skills_found) + len(missing_skills)
     match_score = (len(skills_found) / max(total_relevant, 1)) * 100
+    
     if "python" in title_lower or "react" in title_lower: match_score += 15
     match_score = min(int(match_score), 100)
+
+    # 5. LOW SCORE FILTER (< 30%)
+    if match_score < 30:
+        return {"is_suitable": False, "reason": f"Score too low ({match_score}%)"}
 
     hook = f"Hey, check out this {job_title} role at {company}. It matches my Python/React stack!"
 
@@ -133,17 +142,17 @@ def clean_val(value):
     return str(value)
 
 def main():
-    print("🚀 Starting Cloud Scraper (Strict Mode)...")
+    print("🚀 Starting Cloud Scraper (Strict >30% Mode)...")
     all_jobs = []
     
     for query in CONFIG['search_queries']:
         try:
-            # We fetch a bit more to account for the ones we will delete
+            # Fetch more jobs because we are filtering many out
             jobs = scrape_jobs(
                 site_name=["linkedin", "glassdoor"], 
                 search_term=query,
                 location="India",
-                results_wanted=15, 
+                results_wanted=20, 
                 hours_old=24,
                 country_indeed='india'
             )
@@ -155,14 +164,11 @@ def main():
 
     jobs_df = pd.concat(all_jobs, ignore_index=True)
     
-    # --- IMPROVED DEDUPLICATION ---
-    # Create clean columns for comparison
+    # --- DEDUPLICATION ---
     jobs_df['title_clean'] = jobs_df['title'].astype(str).str.lower().str.strip()
     jobs_df['company_clean'] = jobs_df['company'].astype(str).str.lower().str.strip()
-    
-    # Remove duplicates based on Title + Company (ignoring the URL)
     jobs_df.drop_duplicates(subset=['title_clean', 'company_clean'], inplace=True)
-    # ------------------------------
+    # ---------------------
     
     processed_jobs = []
     for index, row in jobs_df.iterrows():
@@ -185,7 +191,7 @@ def main():
             "site": clean_val(row.get('site', 'unknown')),
             "analysis": analysis
         })
-        print(f"✅ Saved: {title}")
+        print(f"✅ Saved: {title} ({analysis['match_score']}%)")
 
     # Save to both locations
     os.makedirs('data', exist_ok=True)
@@ -196,7 +202,7 @@ def main():
     with open('frontend/public/data/jobs.json', 'w') as f:
         json.dump(processed_jobs, f, indent=4)
         
-    print(f"🎉 Saved {len(processed_jobs)} jobs.")
+    print(f"🎉 Saved {len(processed_jobs)} qualified jobs.")
     send_email_alert(len(processed_jobs), processed_jobs)
 
 if __name__ == "__main__":
