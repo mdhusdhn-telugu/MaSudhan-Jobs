@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from jobspy import scrape_jobs
 from datetime import datetime
-import re
+import time
 
 # --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
@@ -23,38 +23,33 @@ except Exception:
             "Python Developer Entry Level",
             "Junior Frontend Developer", 
             "React Developer Intern",
-            "Junior Full Stack Developer",
-            "Web Developer Fresher"
+            "Junior Full Stack Developer"
         ],
-        "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript", "Git", "GitHub"], 
-        "skills_desired": ["Django", "Flask", "Redux", "AWS", "Docker", "Tailwind"],     
-        "experience_level": "Entry",
+        "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript"], 
+        "skills_desired": ["Django", "Flask", "AWS"],     
         
         # FILTERS
-        "blacklisted_companies": ["Dice", "Sporty", "rossover", "Braintrust", "Toptal", "CyberCoders", "Hirist"], 
-        "blacklisted_titles": ["Senior", "Lead", "Principal", "Architect", "Sr.", "Manager", "Head"],
-        
-        # TECH BLOCKER
-        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "swift", "kotlin", "java developer", "php developer"] 
+        "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders"], 
+        "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Architect"],
+        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "native"] 
     }
 
 def send_email_alert(job_count, top_jobs):
     if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 {job_count} High-Quality Jobs (Matches > 30%)"
+    subject = f"🚀 {job_count} Jobs Found (Top Match: {top_jobs[0]['analysis']['match_score']}%)"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>I found <b>{job_count} active jobs</b> that match your stack (score > 30%).</p>
-        <p><b>Top Picks:</b></p>
+        <p>I found <b>{job_count} jobs</b>. Here are the best matches:</p>
         <ul>
     """
-    
+    # Show top 5 sorted jobs
     for job in top_jobs[:5]:
-        body += f"<li><b>{job['title']}</b> at {job['company']} ({job['analysis']['match_score']}%)</li>"
+        body += f"<li><b>{job['analysis']['match_score']}% Match</b>: {job['title']} at {job['company']}</li>"
         
     body += f"""
         </ul>
@@ -69,7 +64,6 @@ def send_email_alert(job_count, top_jobs):
         msg['To'] = TO_EMAIL
         msg['Subject'] = subject
         msg.attach(MIMEText(body, 'html'))
-
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login(GMAIL_USER, GMAIL_PASS)
@@ -79,96 +73,84 @@ def send_email_alert(job_count, top_jobs):
     except Exception as e:
         print(f"⚠️ Email Failed: {e}")
 
-def normalize_salary(description):
-    desc_lower = description.lower()
-    lpa_match = re.search(r'(\d+)\s?-?\s?(\d+)?\s?lpa', desc_lower)
-    if lpa_match:
-        min_sal = float(lpa_match.group(1))
-        max_sal = float(lpa_match.group(2)) if lpa_match.group(2) else min_sal
-        return f"₹{min_sal}L - ₹{max_sal}L PA"
-    mo_match = re.search(r'(\d+)k\s?/mo', desc_lower)
-    if mo_match:
-        val = float(mo_match.group(1)) * 12 / 100 
-        return f"~₹{val:.1f}L PA"
-    return "Not Disclosed"
-
-def analyze_job(job_description, job_title, company, date_posted):
+def analyze_job(job_description, job_title, company):
     description_lower = job_description.lower()
     title_lower = job_title.lower()
     
-    # 1. EXPIRED JOB DETECTOR
-    expired_keywords = ["no longer accepting", "job closed", "job expired", "no longer active"]
-    for phrase in expired_keywords:
-        if phrase in description_lower:
-            return {"is_suitable": False, "reason": "Job Expired/Closed"}
-
-    # 2. Company & Title Filter
+    # 1. Company & Title Filter
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
     for title_block in CONFIG['blacklisted_titles']:
         if title_block.lower() in title_lower: return {"is_suitable": False}
 
-    # 3. Tech Stack Filter (No Flutter/Mobile)
+    # 2. Tech Stack Filter
     for bad_keyword in CONFIG['blacklisted_keywords']:
         if bad_keyword in title_lower or bad_keyword in description_lower:
              return {"is_suitable": False, "reason": f"Contains {bad_keyword}"}
             
-    # 4. Skill Match Calculation
+    # 3. Match Score Calculation
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in description_lower]
-    missing_skills = [s for s in CONFIG['skills_desired'] if s.lower() in description_lower]
+    # Simple logic: 80% weight on skills, 20% bonus for title match
+    match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 80
     
-    total_relevant = len(skills_found) + len(missing_skills)
-    match_score = (len(skills_found) / max(total_relevant, 1)) * 100
-    
-    if "python" in title_lower or "react" in title_lower: match_score += 15
+    if "python" in title_lower or "react" in title_lower or "developer" in title_lower:
+        match_score += 20
+        
     match_score = min(int(match_score), 100)
 
-    # 5. LOW SCORE FILTER (< 30%)
-    if match_score < 30:
-        return {"is_suitable": False, "reason": f"Score too low ({match_score}%)"}
-
-    hook = f"Hey, check out this {job_title} role at {company}. It matches my Python/React stack!"
+    if match_score < 10: # Keep low threshold to ensure data flow
+        return {"is_suitable": False, "reason": "Low Match"}
 
     return {
         "is_suitable": True,
         "match_score": match_score,
-        "salary_estimate": normalize_salary(description_lower),
-        "skill_gap": missing_skills,
-        "share_message": hook
+        "share_message": f"Check out this {job_title} at {company}"
     }
 
 def clean_val(value):
     if pd.isna(value) or str(value).lower() == "nan": return "Unknown"
     return str(value)
 
-def main():
-    print("🚀 Starting Cloud Scraper (Strict >30% Mode)...")
+def perform_scraping(hours):
+    print(f"🔎 Scraping jobs from last {hours} hours...")
     all_jobs = []
-    
     for query in CONFIG['search_queries']:
         try:
-            # Fetch more jobs because we are filtering many out
+            # Added Indeed and ZipRecruiter
             jobs = scrape_jobs(
-                site_name=["linkedin", "glassdoor"], 
+                site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
                 location="India",
-                results_wanted=20, 
-                hours_old=24,
+                results_wanted=15, 
+                hours_old=hours,
                 country_indeed='india'
             )
             all_jobs.append(jobs)
         except Exception as e:
             print(f"   Error scraping {query}: {e}")
+            
+    if not all_jobs: return pd.DataFrame()
+    return pd.concat(all_jobs, ignore_index=True)
 
-    if not all_jobs: return
-
-    jobs_df = pd.concat(all_jobs, ignore_index=True)
+def main():
+    print("🚀 Starting Smart Scraper...")
     
-    # --- DEDUPLICATION ---
+    # --- PHASE 1: Try 24 Hours ---
+    jobs_df = perform_scraping(24)
+
+    # --- PHASE 2: Fallback to 35 Hours ---
+    if jobs_df.empty:
+        print("⚠️ No jobs found in last 24h. Expanding search to 35h...")
+        jobs_df = perform_scraping(35)
+        
+    if jobs_df.empty:
+        print("❌ Still no jobs found. Exiting.")
+        return
+
+    # Deduplicate
     jobs_df['title_clean'] = jobs_df['title'].astype(str).str.lower().str.strip()
     jobs_df['company_clean'] = jobs_df['company'].astype(str).str.lower().str.strip()
     jobs_df.drop_duplicates(subset=['title_clean', 'company_clean'], inplace=True)
-    # ---------------------
     
     processed_jobs = []
     for index, row in jobs_df.iterrows():
@@ -176,9 +158,9 @@ def main():
         company = clean_val(row.get('company'))
         desc = clean_val(row.get('description'))
         url = clean_val(row.get('job_url'))
-        date_posted = row.get('date_posted', datetime.now().date())
+        date_posted = str(datetime.now().date())
 
-        analysis = analyze_job(desc, title, company, date_posted)
+        analysis = analyze_job(desc, title, company)
         if not analysis['is_suitable']: continue
 
         processed_jobs.append({
@@ -186,23 +168,26 @@ def main():
             "title": title,
             "company": company,
             "location": clean_val(row.get('location')),
-            "date_posted": str(date_posted),
+            "date_posted": date_posted,
             "job_url": url,
             "site": clean_val(row.get('site', 'unknown')),
             "analysis": analysis
         })
         print(f"✅ Saved: {title} ({analysis['match_score']}%)")
 
-    # Save to both locations
+    # --- SORTING: Highest Match First ---
+    processed_jobs.sort(key=lambda x: x['analysis']['match_score'], reverse=True)
+
+    # Save
     os.makedirs('data', exist_ok=True)
     os.makedirs('frontend/public/data', exist_ok=True)
-
+    
     with open('data/jobs.json', 'w') as f:
         json.dump(processed_jobs, f, indent=4)
     with open('frontend/public/data/jobs.json', 'w') as f:
         json.dump(processed_jobs, f, indent=4)
         
-    print(f"🎉 Saved {len(processed_jobs)} qualified jobs.")
+    print(f"🎉 Saved {len(processed_jobs)} jobs (Sorted by Match).")
     send_email_alert(len(processed_jobs), processed_jobs)
 
 if __name__ == "__main__":
