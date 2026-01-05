@@ -176,6 +176,41 @@ header p {
   transition: background 0.2s;
 }
 
+/* Add this at the bottom of App.css */
+.actions {
+  display: flex;
+  gap: 10px;
+  margin-top: auto; /* Pushes buttons to bottom */
+}
+
+.apply-btn {
+  flex: 2; /* Takes up more space */
+  background: #0f172a;
+  color: white;
+  text-align: center;
+  padding: 0.75rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.share-btn {
+  flex: 1; /* Takes up less space */
+  background: #e2e8f0;
+  color: #334155;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.share-btn:hover {
+  background: #cbd5e1;
+}
+
 .apply-btn:hover {
   background: #1e293b;
 }
