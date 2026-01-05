@@ -1,202 +1,62 @@
 [
     {
-        "id": "2251521611855075835",
-        "title": "React.JS Developer Interns",
-        "company": "Unikwork",
-        "location": "GJ, IN",
+        "id": "-1505984082873438748",
+        "title": "Python developer Jr / Sr",
+        "company": "Hindustan Software House",
+        "location": "KL, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=2dca2e49c892f4eb",
+        "job_url": "https://in.indeed.com/viewjob?jk=cf39be07d9ac4af8",
         "site": "indeed",
         "analysis": {
             "is_suitable": true,
-            "match_score": 60,
-            "share_message": "Check out this React.JS Developer Interns at Unikwork"
+            "match_score": 48,
+            "share_message": "Hey! Found this job: Python developer Jr / Sr at Hindustan Software House. Check it out!"
         }
     },
     {
-        "id": "2798928420871946539",
-        "title": "Python Developer",
-        "company": "Infosys",
-        "location": "Bengaluru, Karnataka, India",
+        "id": "-7746210323811386725",
+        "title": "Backend Developer Intern",
+        "company": "Kishor",
+        "location": "Remote, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4322807316",
+        "job_url": "https://in.indeed.com/viewjob?jk=b866d80897876a8e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: Backend Developer Intern at Kishor. Check it out!"
+        }
+    },
+    {
+        "id": "-7399761709816691511",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330194211",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
             "match_score": 20,
-            "share_message": "Check out this Python Developer at Infosys"
+            "share_message": "Hey! Found this job: Front End Developer Intern (HTML, CSS, JavaScript, React) at Wake Up Whistle. Check it out!"
         }
     },
     {
-        "id": "-8701802376387535131",
-        "title": "Python Developer",
-        "company": "PwC India",
-        "location": "Kolkata, West Bengal, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4327635170",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer at PwC India"
-        }
-    },
-    {
-        "id": "-203382243909473623",
-        "title": "Python Developer",
-        "company": "LTIMindtree",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4351193135",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer at LTIMindtree"
-        }
-    },
-    {
-        "id": "-8806636040824995698",
-        "title": "Associate - Python Data Engineer - GDC",
-        "company": "PwC India",
-        "location": "Kolkata, West Bengal, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4291069034",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Associate - Python Data Engineer - GDC at PwC India"
-        }
-    },
-    {
-        "id": "-1324086976917346118",
-        "title": "Software Engineer (Python)",
-        "company": "UiPath",
-        "location": "Jaipur, Rajasthan, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4301008519",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer (Python) at UiPath"
-        }
-    },
-    {
-        "id": "-6855847800218665029",
-        "title": "Python Developer",
-        "company": "Tata Consultancy Services",
+        "id": "6043506007654119760",
+        "title": "React Developer",
+        "company": "ktree.com",
         "location": "Hyderabad, Telangana, India",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330083207",
+        "job_url": "https://www.linkedin.com/jobs/view/4349389228",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
             "match_score": 20,
-            "share_message": "Check out this Python Developer at Tata Consultancy Services"
+            "share_message": "Hey! Found this job: React Developer at ktree.com. Check it out!"
         }
     },
     {
-        "id": "-3949014333404251976",
-        "title": "Python Developer Intern",
-        "company": "Zenithbyte",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330056352",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer Intern at Zenithbyte"
-        }
-    },
-    {
-        "id": "2117206379873905838",
-        "title": "Python Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354530809",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer Intern at Infrabyte Consulting"
-        }
-    },
-    {
-        "id": "-1629252635209671425",
-        "title": "Python Developer",
-        "company": "Prudent Technologies and Consulting, Inc.",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4326481478",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer at Prudent Technologies and Consulting, Inc."
-        }
-    },
-    {
-        "id": "2173859178218482747",
-        "title": "Python Developer Intern",
-        "company": "SKOOLLAGE",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354305984",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Developer Intern at SKOOLLAGE"
-        }
-    },
-    {
-        "id": "1983064211959966912",
-        "title": "SQL or Python Developer",
-        "company": "HRM Counsel",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354501632",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this SQL or Python Developer at HRM Counsel"
-        }
-    },
-    {
-        "id": "-8696255776673972390",
-        "title": "IN_Associate_Python Developer_Advisory Corporate_Advisory _ Bangalore",
-        "company": "PwC India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4291067234",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this IN_Associate_Python Developer_Advisory Corporate_Advisory _ Bangalore at PwC India"
-        }
-    },
-    {
-        "id": "6605682062784910524",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330154280",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Front-End Developer Intern at Dexter's Tech"
-        }
-    },
-    {
-        "id": "484035668671028321",
+        "id": "8539335383780373",
         "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
         "location": "",
@@ -206,623 +66,77 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 20,
-            "share_message": "Check out this Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs"
+            "share_message": "Hey! Found this job: Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs. Check it out!"
         }
     },
     {
-        "id": "8926349769142997114",
-        "title": "Frontend Developer",
-        "company": "Webkit24",
+        "id": "-3737689309197816000",
+        "title": "React Developer",
+        "company": "Synechron",
+        "location": "Mulshi, Maharashtra, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330270944",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Developer at Synechron. Check it out!"
+        }
+    },
+    {
+        "id": "4082396549544207891",
+        "title": "Python - Front End Developer",
+        "company": "Cube Hub Inc.",
         "location": "",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330260093",
+        "job_url": "https://www.linkedin.com/jobs/view/4330252408",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
             "match_score": 20,
-            "share_message": "Check out this Frontend Developer at Webkit24"
+            "share_message": "Hey! Found this job: Python - Front End Developer at Cube Hub Inc.. Check it out!"
         }
     },
     {
-        "id": "1754070535811532695",
-        "title": "Frontend Developer",
-        "company": "GoodSpace AI",
-        "location": "",
+        "id": "-3694812128254606306",
+        "title": "MEAN Stack Developer",
+        "company": "Promatics Technologies Private Limited",
+        "location": "PB, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4350798296",
-        "site": "linkedin",
+        "job_url": "https://in.indeed.com/viewjob?jk=c7cc5191ee8e8047",
+        "site": "indeed",
         "analysis": {
             "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer at GoodSpace AI"
+            "match_score": 14,
+            "share_message": "Hey! Found this job: MEAN Stack Developer at Promatics Technologies Private Limited. Check it out!"
         }
     },
     {
-        "id": "-6160419014012330732",
-        "title": "Frontend Developer Intern(On-Site)",
-        "company": "EnxtAI",
-        "location": "Noida, Uttar Pradesh, India",
+        "id": "-6696751867482179719",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "DL, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4327069069",
-        "site": "linkedin",
+        "job_url": "https://in.indeed.com/viewjob?jk=360cb5520c3753a6",
+        "site": "indeed",
         "analysis": {
             "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer Intern(On-Site) at EnxtAI"
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
         }
     },
     {
-        "id": "5706720408752687917",
-        "title": "Front-End Developer Intern",
-        "company": "UM IT Solutions",
-        "location": "",
+        "id": "6592451625103991179",
+        "title": "Embedded QA Engineer - Intern",
+        "company": "CIMCON Software (India) Pvt Ltd",
+        "location": "GJ, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354561892",
-        "site": "linkedin",
+        "job_url": "https://in.indeed.com/viewjob?jk=1460fbbb603477f5",
+        "site": "indeed",
         "analysis": {
             "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Front-End Developer Intern at UM IT Solutions"
-        }
-    },
-    {
-        "id": "-6051118153058203670",
-        "title": "Framer Developer (Web / No-Code)",
-        "company": "Posha",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4342757844",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Framer Developer (Web / No-Code) at Posha"
-        }
-    },
-    {
-        "id": "8998261411674590043",
-        "title": "Frontend Developer Intern",
-        "company": "Techinovativ",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330065368",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer Intern at Techinovativ"
-        }
-    },
-    {
-        "id": "-8391602517971870442",
-        "title": "Web Developer Intern",
-        "company": "Zenithbyte",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330222639",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Web Developer Intern at Zenithbyte"
-        }
-    },
-    {
-        "id": "1108028673732573143",
-        "title": "Frontend Developer (next.js)",
-        "company": "Norric",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349368136",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer (next.js) at Norric"
-        }
-    },
-    {
-        "id": "2170584320454648592",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330029615",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Full Stack Web Developer Intern at Dexter's Tech"
-        }
-    },
-    {
-        "id": "7560802251877780840",
-        "title": "Frontend Developer",
-        "company": "Miamin Systems",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330183810",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer at Miamin Systems"
-        }
-    },
-    {
-        "id": "-3505996798640977503",
-        "title": "Frontend Engineer (React / Angular) \u2013 Remote",
-        "company": "Eightfolds Software Technologies Pvt. Ltd.",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330056066",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Engineer (React / Angular) \u2013 Remote at Eightfolds Software Technologies Pvt. Ltd."
-        }
-    },
-    {
-        "id": "-2963011303944731478",
-        "title": "Web Developer Intern",
-        "company": "Webs IT Solution",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354600173",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Web Developer Intern at Webs IT Solution"
-        }
-    },
-    {
-        "id": "9162442053018091811",
-        "title": "Web Developer Intern",
-        "company": "WEBBOOST SOLUTION IT SERVICES",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354373002",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Web Developer Intern at WEBBOOST SOLUTION IT SERVICES"
-        }
-    },
-    {
-        "id": "3103419043638255321",
-        "title": "Frontend Developer (React / Next.js)",
-        "company": "Bitogrid Technologies Pvt Ltd",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330142893",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer (React / Next.js) at Bitogrid Technologies Pvt Ltd"
-        }
-    },
-    {
-        "id": "-7971799740759960591",
-        "title": "Frontend Developer",
-        "company": "ZakApps",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330055552",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer at ZakApps"
-        }
-    },
-    {
-        "id": "-1724119376756950643",
-        "title": "Frontend Developer II",
-        "company": "Planview",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4341949367",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer II at Planview"
-        }
-    },
-    {
-        "id": "-8963548835159470499",
-        "title": "JavaScript Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354382919",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this JavaScript Developer at Best Job Tool"
-        }
-    },
-    {
-        "id": "7765227754501170254",
-        "title": "Software Backend Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349856494",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Backend Engineer at eBay"
-        }
-    },
-    {
-        "id": "-2329574257054108180",
-        "title": "Backend Engineer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330212006",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Backend Engineer at Scoutit"
-        }
-    },
-    {
-        "id": "2809012027418054379",
-        "title": "Software Engineer - Backend Development",
-        "company": "Picarro",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4279448304",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer - Backend Development at Picarro"
-        }
-    },
-    {
-        "id": "-4994276896150752174",
-        "title": "Python Back-end Developer Intern (Generative AI)",
-        "company": "Sereno\u00ae",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330063755",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Python Back-end Developer Intern (Generative AI) at Sereno\u00ae"
-        }
-    },
-    {
-        "id": "6433012924420324783",
-        "title": "Back-End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354324243",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Back-End Developer Intern at Infrabyte Consulting"
-        }
-    },
-    {
-        "id": "2400851249254598992",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Unified Mentor Jobs",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349369495",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Full Stack Web Developer Intern at Unified Mentor Jobs"
-        }
-    },
-    {
-        "id": "-2348091699051637725",
-        "title": "Full Stack Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330212008",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Full Stack Engineer at Zetheta Algorithms Private Limited"
-        }
-    },
-    {
-        "id": "2386497219116501401",
-        "title": "Software Development Engineer, Amazon Smart Vehicles",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4312929636",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Development Engineer, Amazon Smart Vehicles at Amazon"
-        }
-    },
-    {
-        "id": "823716130661221139",
-        "title": "Application Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330202121",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Application Developer at Accenture services Pvt Ltd"
-        }
-    },
-    {
-        "id": "2240675431450449261",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330072866",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Custom Software Engineer at Accenture services Pvt Ltd"
-        }
-    },
-    {
-        "id": "-6344732125105197022",
-        "title": "Software Development Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330072869",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Development Engineer at Accenture services Pvt Ltd"
-        }
-    },
-    {
-        "id": "1385642015842094854",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4313247678",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Custom Software Engineer at Accenture in India"
-        }
-    },
-    {
-        "id": "6721800144093632735",
-        "title": "Data Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330028781",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Data Engineer at Accenture services Pvt Ltd"
-        }
-    },
-    {
-        "id": "9057936509536916504",
-        "title": "AEM Frontend Developer",
-        "company": "Cognizant",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4319385618",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this AEM Frontend Developer at Cognizant"
-        }
-    },
-    {
-        "id": "-3313721825715533100",
-        "title": "Software Engineer Intern",
-        "company": "RECRIVIO",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349309767",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer Intern at RECRIVIO"
-        }
-    },
-    {
-        "id": "-8598806788480894760",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330172305",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer at Zetheta Algorithms Private Limited"
-        }
-    },
-    {
-        "id": "969637835250174273",
-        "title": "Software Engineer",
-        "company": "Capgemini",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4346313306",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer at Capgemini"
-        }
-    },
-    {
-        "id": "8705645602799280141",
-        "title": "Software Engineer I",
-        "company": "JPMorganChase",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4310231702",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer I at JPMorganChase"
-        }
-    },
-    {
-        "id": "8525388317009372455",
-        "title": "Full Stack (Java, Springboot & Angular/React) Developer",
-        "company": "PwC India",
-        "location": "Kolkata, West Bengal, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4327082336",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Full Stack (Java, Springboot & Angular/React) Developer at PwC India"
-        }
-    },
-    {
-        "id": "634550910784478037",
-        "title": "Software Engineer",
-        "company": "Icertis",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4333415790",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer at Icertis"
-        }
-    },
-    {
-        "id": "2164099183400634866",
-        "title": "Software Development Engineer Fullstack I",
-        "company": "TELUS Digital",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4227262798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Development Engineer Fullstack I at TELUS Digital"
-        }
-    },
-    {
-        "id": "3118029497962909691",
-        "title": "Software Engineer",
-        "company": "Lam Research",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4280815950",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer at Lam Research"
-        }
-    },
-    {
-        "id": "7759991683198943169",
-        "title": "Associate Software Engineer",
-        "company": "Scoutit",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330192231",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Associate Software Engineer at Scoutit"
-        }
-    },
-    {
-        "id": "-6880060872196626260",
-        "title": "Software Engineer, PhD, Early Career, Campus, 2025 Start",
-        "company": "Google",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4256162034",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer, PhD, Early Career, Campus, 2025 Start at Google"
-        }
-    },
-    {
-        "id": "-4122705986596634856",
-        "title": "Software Engineer, PhD, Early Career, 2026",
-        "company": "Google",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4319903729",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer, PhD, Early Career, 2026 at Google"
-        }
-    },
-    {
-        "id": "7501169510905895612",
-        "title": "Systems Engineer \u2013 Command Center",
-        "company": "Comscore, Inc.",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4302188978",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Systems Engineer \u2013 Command Center at Comscore, Inc."
-        }
-    },
-    {
-        "id": "5332658247259316028",
-        "title": "Software Engineer - Reliability Engineer (Release Quality)",
-        "company": "SimCorp",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4243545864",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Software Engineer - Reliability Engineer (Release Quality) at SimCorp"
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Embedded QA Engineer - Intern at CIMCON Software (India) Pvt Ltd. Check it out!"
         }
     }
 ]
