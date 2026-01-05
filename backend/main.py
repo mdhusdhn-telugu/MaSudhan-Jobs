@@ -6,54 +6,74 @@ from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from jobspy import scrape_jobs
 from datetime import datetime
-import time
 
 # --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_PASS = os.environ.get("GMAIL_PASS")
 TO_EMAIL   = os.environ.get("TO_EMAIL")
 
-# --- JOB CONFIG ---
+# --- MASTER JOB CONFIG ---
 try:
     with open('backend/skills_config.json', 'r') as f:
         CONFIG = json.load(f)
 except Exception:
     CONFIG = {
         "search_queries": [
+            # --- 1. CORE TECH STACK (Startups & Mid-Size) ---
             "Python Developer Entry Level",
-            "Junior Frontend Developer", 
+            "Junior Python Developer",
             "React Developer Intern",
-            "Junior Full Stack Developer"
+            "Junior React Developer",
+            "Frontend Developer Fresher",
+            "Junior Full Stack Developer",
+            "Django Developer Intern",
+            
+            # --- 2. MNC & MASS HIRING (Amazon, TCS, Wipro, etc.) ---
+            "Amazon University Hiring Software",
+            "TCS NQT Fresher",
+            "Accenture Associate Software Engineer",
+            "Capgemini Fresher Analyst",
+            "Cognizant GenC Programmer",
+            "Wipro Project Engineer Fresher",
+            "Off Campus Drive Batch 2024 2025",
+            "Graduate Engineer Trainee Software",
+            
+            # --- 3. GENERIC FRESHER ROLES (Catches missed opportunities) ---
+            "Software Engineer Intern India",
+            "Software Developer Fresher India",
+            "Junior Software Engineer",
+            "Early Career Software Engineer"
         ],
-        "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript"], 
-        "skills_desired": ["Django", "Flask", "AWS"],     
         
-        # FILTERS
-        "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders"], 
-        "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Architect"],
-        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "native"] 
+        # YOUR SKILLS (Used for scoring)
+        "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript", "Git"], 
+        
+        # STRICT FILTERS (To save your time)
+        "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Relevel", "Hirist"], 
+        "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Architect", "Sr.", "Head", "Staff"],
+        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "marketing", "support", "bpo", "telecaller"] 
     }
 
 def send_email_alert(job_count, top_jobs):
     if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 {job_count} Jobs Found (Top Match: {top_jobs[0]['analysis']['match_score']}%)"
+    subject = f"🚀 {job_count} Jobs Found (Startup + MNC)"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>I found <b>{job_count} jobs</b>. Here are the best matches:</p>
+        <p>Your bot finished the daily hunt. <b>{job_count} jobs</b> passed the filters.</p>
+        <p><b>Today's Top Matches:</b></p>
         <ul>
     """
-    # Show top 5 sorted jobs
     for job in top_jobs[:5]:
         body += f"<li><b>{job['analysis']['match_score']}% Match</b>: {job['title']} at {job['company']}</li>"
         
     body += f"""
         </ul>
-        <p><a href="{dashboard_url}">Open Your Dashboard</a></p>
+        <p><a href="{dashboard_url}">Open Dashboard</a></p>
       </body>
     </html>
     """
@@ -90,15 +110,17 @@ def analyze_job(job_description, job_title, company):
             
     # 3. Match Score Calculation
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in description_lower]
-    # Simple logic: 80% weight on skills, 20% bonus for title match
+    # 80% weight on skills
     match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 80
     
-    if "python" in title_lower or "react" in title_lower or "developer" in title_lower:
+    # Bonus for Title Match or MNC Keywords
+    if "python" in title_lower or "react" in title_lower or "developer" in title_lower or "engineer" in title_lower:
         match_score += 20
         
     match_score = min(int(match_score), 100)
 
-    if match_score < 10: # Keep low threshold to ensure data flow
+    # Low Threshold to ensure you see everything relevant
+    if match_score < 10: 
         return {"is_suitable": False, "reason": "Low Match"}
 
     return {
@@ -116,7 +138,7 @@ def perform_scraping(hours):
     all_jobs = []
     for query in CONFIG['search_queries']:
         try:
-            # Added Indeed and ZipRecruiter
+            # Added ZipRecruiter and Indeed for maximum coverage
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
@@ -133,15 +155,15 @@ def perform_scraping(hours):
     return pd.concat(all_jobs, ignore_index=True)
 
 def main():
-    print("🚀 Starting Smart Scraper...")
+    print("🚀 Starting Ultimate Scraper...")
     
-    # --- PHASE 1: Try 24 Hours ---
+    # Try last 24 hours first
     jobs_df = perform_scraping(24)
 
-    # --- PHASE 2: Fallback to 35 Hours ---
+    # If empty, look back 36 hours (Safety Net)
     if jobs_df.empty:
-        print("⚠️ No jobs found in last 24h. Expanding search to 35h...")
-        jobs_df = perform_scraping(35)
+        print("⚠️ No jobs found in last 24h. Expanding search...")
+        jobs_df = perform_scraping(36)
         
     if jobs_df.empty:
         print("❌ Still no jobs found. Exiting.")
@@ -173,9 +195,9 @@ def main():
             "site": clean_val(row.get('site', 'unknown')),
             "analysis": analysis
         })
-        print(f"✅ Saved: {title} ({analysis['match_score']}%)")
+        print(f"✅ Saved: {title}")
 
-    # --- SORTING: Highest Match First ---
+    # Sort by Highest Match
     processed_jobs.sort(key=lambda x: x['analysis']['match_score'], reverse=True)
 
     # Save
@@ -187,7 +209,7 @@ def main():
     with open('frontend/public/data/jobs.json', 'w') as f:
         json.dump(processed_jobs, f, indent=4)
         
-    print(f"🎉 Saved {len(processed_jobs)} jobs (Sorted by Match).")
+    print(f"🎉 Saved {len(processed_jobs)} jobs.")
     send_email_alert(len(processed_jobs), processed_jobs)
 
 if __name__ == "__main__":
