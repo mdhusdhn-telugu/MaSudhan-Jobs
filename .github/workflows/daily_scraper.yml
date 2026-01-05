@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install pandas requests python-jobspy
+          pip install pandas requests python-jobspy lxml openpyxl
 
       - name: Run Scraper
         env:
