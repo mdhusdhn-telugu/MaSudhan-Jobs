@@ -1,6 +1,6 @@
 [
     {
-        "id": "256424592379602216",
+        "id": "2571779519452820321",
         "title": "Python Developer (Django)",
         "company": "SIGAI TECHNOLOGIES PVT LTD",
         "location": "KL, IN",
@@ -14,21 +14,7 @@
         }
     },
     {
-        "id": "1291088470442853169",
-        "title": "Full Stack Developer",
-        "company": "2CQR AUTOMATION PVT LTD",
-        "location": "TN, IN",
-        "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=f7d26c2701351a1f",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 85,
-            "share_message": "Hey! Found this job: Full Stack Developer at 2CQR AUTOMATION PVT LTD. Check it out!"
-        }
-    },
-    {
-        "id": "-1119206514479463390",
+        "id": "-4085691697197235239",
         "title": "Full Stack Python Developer",
         "company": "LIT Growth Agency",
         "location": "GJ, IN",
@@ -42,7 +28,7 @@
         }
     },
     {
-        "id": "1250792744957516520",
+        "id": "-213589912450565250",
         "title": "Backend Developer Fresher",
         "company": "RW Infotech Private Limited",
         "location": "PB, IN",
@@ -56,21 +42,49 @@
         }
     },
     {
-        "id": "1221849842359344411",
-        "title": "React Native Developer",
-        "company": "Gemburg",
+        "id": "-4803954804774187366",
+        "title": "Dotnet Developer",
+        "company": "Intelogik Solutions",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=a1f5a56f9c865419",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Dotnet Developer at Intelogik Solutions. Check it out!"
+        }
+    },
+    {
+        "id": "8933967684260118401",
+        "title": "Jr-Level Frontend Developer (DTMNext)",
+        "company": "BMW TechWorks India",
         "location": "MH, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=713e3e7e90eab272",
+        "job_url": "https://in.indeed.com/viewjob?jk=a55fc956a2e09cac",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Jr-Level Frontend Developer (DTMNext) at BMW TechWorks India. Check it out!"
+        }
+    },
+    {
+        "id": "5035940934004875596",
+        "title": "AI Cloud-Native Application Developer (Python)",
+        "company": "Oracle",
+        "location": "IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=f802c545e10d4d46",
         "site": "indeed",
         "analysis": {
             "is_suitable": true,
             "match_score": 62,
-            "share_message": "Hey! Found this job: React Native Developer at Gemburg. Check it out!"
+            "share_message": "Hey! Found this job: AI Cloud-Native Application Developer (Python) at Oracle. Check it out!"
         }
     },
     {
-        "id": "-8905826209274178373",
+        "id": "3697498573457767144",
         "title": "React.js Intern",
         "company": "Codes For Tomorrow",
         "location": "MP, IN",
@@ -84,7 +98,7 @@
         }
     },
     {
-        "id": "-5854061320380705101",
+        "id": "-8139354345732022217",
         "title": "React Developer",
         "company": "Unknown",
         "location": "DL, IN",
@@ -98,21 +112,7 @@
         }
     },
     {
-        "id": "-8941393703335420331",
-        "title": "Jr. MERN Stack Developer",
-        "company": "WisewayTec",
-        "location": "PB, IN",
-        "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=4882933f4726705a",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57,
-            "share_message": "Hey! Found this job: Jr. MERN Stack Developer at WisewayTec. Check it out!"
-        }
-    },
-    {
-        "id": "-3057583699940003697",
+        "id": "3020996913528284215",
         "title": "Angular Developer",
         "company": "ProSer Industries",
         "location": "Remote, IN",
@@ -126,7 +126,7 @@
         }
     },
     {
-        "id": "8140159240756649939",
+        "id": "5588983517524434557",
         "title": "PHP Web Developer",
         "company": "Kanagala Technologies Pvt Ltd",
         "location": "Mangalagiri, AP, IN",
@@ -140,7 +140,7 @@
         }
     },
     {
-        "id": "-2863204653120076498",
+        "id": "-2350477728215826756",
         "title": "Full Stack Developer (.Net and Angular) 5-8 Years",
         "company": "NoblQ",
         "location": "TN, IN",
@@ -154,12 +154,12 @@
         }
     },
     {
-        "id": "1938332085024435501",
+        "id": "2566126927540567526",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
         "location": "",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330175019",
+        "job_url": "https://www.linkedin.com/jobs/view/4330291077",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
@@ -168,7 +168,7 @@
         }
     },
     {
-        "id": "-8536289147766149206",
+        "id": "7026741787118685997",
         "title": "React Developer",
         "company": "ktree.com",
         "location": "Hyderabad, Telangana, India",
@@ -182,7 +182,7 @@
         }
     },
     {
-        "id": "6428618593341245444",
+        "id": "6904498273792902381",
         "title": "React Developer",
         "company": "Synechron",
         "location": "Mulshi, Maharashtra, India",
@@ -196,7 +196,21 @@
         }
     },
     {
-        "id": "-5107296157385502292",
+        "id": "5252886347006439912",
+        "title": "Frontend Developer (React)",
+        "company": "MaxIQ",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4351315164",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React) at MaxIQ. Check it out!"
+        }
+    },
+    {
+        "id": "-9131986593499235529",
         "title": "Fullstack Developer (React + Python)",
         "company": "SAS",
         "location": "Pune, Maharashtra, India",
@@ -210,21 +224,35 @@
         }
     },
     {
-        "id": "4440734310755309897",
-        "title": "MEAN Stack Developer",
-        "company": "Promatics Technologies Private Limited",
-        "location": "PB, IN",
+        "id": "-6356674961122610892",
+        "title": "Dot Net Architect (Contractual, Remote)",
+        "company": "Prognova Partners Pvt Ltd",
+        "location": "Remote, IN",
         "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=c7cc5191ee8e8047",
+        "job_url": "https://in.indeed.com/viewjob?jk=9d28ef9797df6dd4",
         "site": "indeed",
         "analysis": {
             "is_suitable": true,
             "match_score": 14,
-            "share_message": "Hey! Found this job: MEAN Stack Developer at Promatics Technologies Private Limited. Check it out!"
+            "share_message": "Hey! Found this job: Dot Net Architect (Contractual, Remote) at Prognova Partners Pvt Ltd. Check it out!"
         }
     },
     {
-        "id": "5982093886340363816",
+        "id": "-5463120709278147585",
+        "title": "Full-Stack Developer Intern (Node.js & Angular)",
+        "company": "Kommuno Technologies Pvt Ltd",
+        "location": "CH, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=bbaf97e121c33daf",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Full-Stack Developer Intern (Node.js & Angular) at Kommuno Technologies Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "-7354240546383792687",
         "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
         "company": "Amazon.com",
         "location": "TS, IN",
@@ -238,7 +266,7 @@
         }
     },
     {
-        "id": "1993182238615886929",
+        "id": "-1367655777677836648",
         "title": "Product Management Intern",
         "company": "Sense Talent Labs, Inc.",
         "location": "KA, IN",
@@ -252,7 +280,7 @@
         }
     },
     {
-        "id": "-7250793543274329985",
+        "id": "5476756453470782605",
         "title": "Embedded QA Engineer - Intern",
         "company": "CIMCON Software (India) Pvt Ltd",
         "location": "GJ, IN",
@@ -263,6 +291,20 @@
             "is_suitable": true,
             "match_score": 14,
             "share_message": "Hey! Found this job: Embedded QA Engineer - Intern at CIMCON Software (India) Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "-3161780753242271948",
+        "title": "Software Development Engineer II (Backend) - Adtech",
+        "company": "JioStar",
+        "location": "KA, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=f1854e3f4d89622b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Development Engineer II (Backend) - Adtech at JioStar. Check it out!"
         }
     }
 ]
