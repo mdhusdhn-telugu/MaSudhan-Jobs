@@ -2,8 +2,8 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: "30 14 * * *"
-  workflow_dispatch:
+    - cron: "30 14 * * *" # Runs at 8:00 PM IST
+  workflow_dispatch:      # Allows manual run
 
 permissions:
   contents: write
@@ -21,6 +21,7 @@ jobs:
         with:
           python-version: "3.10"
 
+      # THIS FIXES THE CRASH (lxml/openpyxl)
       - name: Install Dependencies
         run: |
           pip install pandas requests python-jobspy lxml openpyxl
@@ -32,6 +33,7 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: python backend/main.py
 
+      # THIS FIXES THE "REJECTED" ERROR (pull --rebase)
       - name: Commit and Push Changes
         run: |
           git config --global user.name "MaSudhan Bot"
