@@ -2,8 +2,8 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: "30 14 * * *" # Runs at 8:00 PM IST
-  workflow_dispatch:      # Allows manual run
+    - cron: "30 14 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,7 +21,6 @@ jobs:
         with:
           python-version: "3.10"
 
-      # THIS FIXES THE CRASH (lxml/openpyxl)
       - name: Install Dependencies
         run: |
           pip install pandas requests python-jobspy lxml openpyxl
@@ -33,12 +32,19 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: python backend/main.py
 
-      # THIS FIXES THE "REJECTED" ERROR (pull --rebase)
       - name: Commit and Push Changes
         run: |
           git config --global user.name "MaSudhan Bot"
           git config --global user.email "bot@masudhan.com"
-          git pull --rebase origin main
+          
+          # 1. Stage the files
           git add data/jobs.json frontend/public/data/jobs.json
+          
+          # 2. Save (Commit) them locally FIRST
           git commit -m "Auto-update jobs [skip ci]" || echo "No changes to commit"
+          
+          # 3. NOW it is safe to pull updates
+          git pull --rebase origin main
+          
+          # 4. Finally push
           git push
