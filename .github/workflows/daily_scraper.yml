@@ -2,9 +2,8 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    # Runs at 14:30 UTC = 8:00 PM IST
     - cron: "30 14 * * *"
-  workflow_dispatch: # Allows you to click "Run Now" manually to test
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -37,7 +36,7 @@ jobs:
         run: |
           git config --global user.name "MaSudhan Bot"
           git config --global user.email "bot@masudhan.com"
+          git pull origin main --rebase
           git add data/jobs.json frontend/public/data/jobs.json
           git commit -m "Auto-update jobs [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin main
           git push
