@@ -1,6 +1,6 @@
 [
     {
-        "id": "-8166439931796153475",
+        "id": "-2841075614552799961",
         "title": "Fresher Frontend Developer",
         "company": "White Soft Info",
         "location": "Remote, IN",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "id": "7649824995464436405",
+        "id": "7789193944231432827",
         "title": "React JS Developer Intern",
         "company": "mxpertz",
         "location": "MP, IN",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "9178194952283222312",
+        "id": "6044708715755653951",
         "title": "Full Stack Python Developer",
         "company": "LIT Growth Agency",
         "location": "GJ, IN",
@@ -42,7 +42,7 @@
         }
     },
     {
-        "id": "-5915659176544766481",
+        "id": "-1368832768426217149",
         "title": "LLM Full Stack Engineer",
         "company": "Accenture",
         "location": "TS, IN",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "id": "1807119530778027699",
+        "id": "-6496985426240672564",
         "title": "AI / ML Engineer",
         "company": "Accenture",
         "location": "TS, IN",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "id": "3788072075838635402",
+        "id": "4495638285466782091",
         "title": "React.js Intern",
         "company": "Codes For Tomorrow",
         "location": "MP, IN",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "-9003254329144640663",
+        "id": "4286958027652558546",
         "title": "React Developer",
         "company": "Unknown",
         "location": "DL, IN",
@@ -98,7 +98,21 @@
         }
     },
     {
-        "id": "7105436704834494176",
+        "id": "3229186736367227984",
+        "title": "Sr .NET developer",
+        "company": "DecisivEdge",
+        "location": "MH, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=8a2ad6bc6c555bc8",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Sr .NET developer at DecisivEdge. Check it out!"
+        }
+    },
+    {
+        "id": "-1525720233708225737",
         "title": "Junior PHP Developer",
         "company": "Qwickbit technologies pvt ltd",
         "location": "KA, IN",
@@ -112,7 +126,7 @@
         }
     },
     {
-        "id": "3102305609488901670",
+        "id": "1764303493547090849",
         "title": "PHP Web Developer",
         "company": "Kanagala Technologies Pvt Ltd",
         "location": "Mangalagiri, AP, IN",
@@ -126,21 +140,7 @@
         }
     },
     {
-        "id": "4286571634524906997",
-        "title": "Frontend Developer (React)",
-        "company": "MaxIQ",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4351315164",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Frontend Developer (React) at MaxIQ. Check it out!"
-        }
-    },
-    {
-        "id": "-4783917190507295717",
+        "id": "7643424514098675504",
         "title": "Front End Developer (React)",
         "company": "Embrace Software Inc",
         "location": "",
@@ -154,7 +154,21 @@
         }
     },
     {
-        "id": "8685582123018376665",
+        "id": "-9187801075503804318",
+        "title": "Frontend Developer (React)",
+        "company": "MaxIQ",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4351315164",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React) at MaxIQ. Check it out!"
+        }
+    },
+    {
+        "id": "-6322134560718487168",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
         "location": "",
@@ -168,7 +182,7 @@
         }
     },
     {
-        "id": "-6653631136382189364",
+        "id": "-828171317624828519",
         "title": "React Developer",
         "company": "ktree.com",
         "location": "Hyderabad, Telangana, India",
@@ -182,7 +196,7 @@
         }
     },
     {
-        "id": "5147184587324830111",
+        "id": "-3544650598334407553",
         "title": "Front End React Js Developer_Pune",
         "company": "Tata Consultancy Services",
         "location": "Pune, Maharashtra, India",
@@ -196,7 +210,7 @@
         }
     },
     {
-        "id": "8006505406299062334",
+        "id": "3722529633190619761",
         "title": "React Developer",
         "company": "Synechron",
         "location": "Mulshi, Maharashtra, India",
@@ -210,7 +224,7 @@
         }
     },
     {
-        "id": "9160146539720903690",
+        "id": "-5931851367866756979",
         "title": "Associate Software Engineer - Intern (React JS + Python)",
         "company": "Vcheck",
         "location": "Pune, Maharashtra, India",
@@ -224,7 +238,7 @@
         }
     },
     {
-        "id": "-4008923522958574154",
+        "id": "1682847296007794248",
         "title": "Fullstack Developer (React + Python)",
         "company": "SAS",
         "location": "Pune, Maharashtra, India",
@@ -238,7 +252,7 @@
         }
     },
     {
-        "id": "-4389148566901850105",
+        "id": "446442909843792654",
         "title": "Full-Stack Developer Intern (Node.js & Angular)",
         "company": "Kommuno Technologies Pvt Ltd",
         "location": "CH, IN",
@@ -252,21 +266,7 @@
         }
     },
     {
-        "id": "4365091291205775709",
-        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
-        "company": "Amazon.com",
-        "location": "DL, IN",
-        "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=1cc9fee82fd8936c",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
-        }
-    },
-    {
-        "id": "-6621249424923888050",
+        "id": "-7888648574898511600",
         "title": "Product Management Intern",
         "company": "Sense Talent Labs, Inc.",
         "location": "KA, IN",
@@ -280,7 +280,7 @@
         }
     },
     {
-        "id": "-4862137712471527335",
+        "id": "-7076084621818834503",
         "title": "Embedded QA Engineer - Intern",
         "company": "CIMCON Software (India) Pvt Ltd",
         "location": "GJ, IN",
@@ -294,7 +294,7 @@
         }
     },
     {
-        "id": "37806855203421393",
+        "id": "-6822849302490480024",
         "title": "Software Development Engineer II (Backend) - Adtech",
         "company": "JioStar",
         "location": "KA, IN",
