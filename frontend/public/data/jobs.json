@@ -1,6 +1,6 @@
 [
     {
-        "id": "-1603142992357813057",
+        "id": "4812422986825665096",
         "title": "Python Developer (Django)",
         "company": "SIGAI TECHNOLOGIES PVT LTD",
         "location": "KL, IN",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "id": "-8502073969660862808",
+        "id": "-7538385954895002991",
         "title": "Full Stack Developer",
         "company": "2CQR AUTOMATION PVT LTD",
         "location": "TN, IN",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "-3851061123104986771",
+        "id": "-3003838502393456189",
         "title": "Backend Developer Fresher",
         "company": "RW Infotech Private Limited",
         "location": "PB, IN",
@@ -42,7 +42,7 @@
         }
     },
     {
-        "id": "-3448153228040867669",
+        "id": "-6224796754032222051",
         "title": "React Native Developer",
         "company": "Gemburg",
         "location": "MH, IN",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "id": "-41183529121871759",
+        "id": "-2404499431178493848",
         "title": "React Developer",
         "company": "Unknown",
         "location": "DL, IN",
@@ -70,7 +70,21 @@
         }
     },
     {
-        "id": "1875918374820419668",
+        "id": "-500706208989879410",
+        "title": "Jr. MERN Stack Developer",
+        "company": "WisewayTec",
+        "location": "PB, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=4882933f4726705a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Jr. MERN Stack Developer at WisewayTec. Check it out!"
+        }
+    },
+    {
+        "id": "-8844994270658767815",
         "title": "Angular Developer",
         "company": "ProSer Industries",
         "location": "Remote, IN",
@@ -84,7 +98,7 @@
         }
     },
     {
-        "id": "5216901319926790131",
+        "id": "7748112797424379150",
         "title": "PHP Web Developer",
         "company": "Kanagala Technologies Pvt Ltd",
         "location": "Mangalagiri, AP, IN",
@@ -98,7 +112,7 @@
         }
     },
     {
-        "id": "5119344501933279925",
+        "id": "-409932360373201791",
         "title": "Python developer Jr / Sr",
         "company": "Hindustan Software House",
         "location": "KL, IN",
@@ -112,21 +126,7 @@
         }
     },
     {
-        "id": "7077428311897345452",
-        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349396864",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs. Check it out!"
-        }
-    },
-    {
-        "id": "9097707688415016821",
+        "id": "-8078016821404950142",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
         "location": "",
@@ -140,7 +140,21 @@
         }
     },
     {
-        "id": "6735696271170681920",
+        "id": "5872014407315202925",
+        "title": "React Developer",
+        "company": "ktree.com",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4349389228",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Developer at ktree.com. Check it out!"
+        }
+    },
+    {
+        "id": "-3571943943026020454",
         "title": "React Developer",
         "company": "Synechron",
         "location": "Mulshi, Maharashtra, India",
@@ -154,7 +168,7 @@
         }
     },
     {
-        "id": "5162980159931210765",
+        "id": "-1877802035485126006",
         "title": "React JS Developer",
         "company": "People Prime Worldwide",
         "location": "Pune, Maharashtra, India",
@@ -168,21 +182,7 @@
         }
     },
     {
-        "id": "3628713246403584034",
-        "title": "React JS Developer",
-        "company": "Tata Consultancy Services",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330194528",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: React JS Developer at Tata Consultancy Services. Check it out!"
-        }
-    },
-    {
-        "id": "7897816321108993693",
+        "id": "-1919253242771024169",
         "title": "Python - Front End Developer",
         "company": "Cube Hub Inc.",
         "location": "",
@@ -196,7 +196,7 @@
         }
     },
     {
-        "id": "-8652798033061932909",
+        "id": "4928930997824057786",
         "title": "MEAN Stack Developer",
         "company": "Promatics Technologies Private Limited",
         "location": "PB, IN",
@@ -210,7 +210,7 @@
         }
     },
     {
-        "id": "-9031979634687755206",
+        "id": "-1327527492327459762",
         "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
         "company": "Amazon.com",
         "location": "TS, IN",
@@ -224,7 +224,7 @@
         }
     },
     {
-        "id": "496085708132475203",
+        "id": "817096201247969646",
         "title": "Embedded QA Engineer - Intern",
         "company": "CIMCON Software (India) Pvt Ltd",
         "location": "GJ, IN",
