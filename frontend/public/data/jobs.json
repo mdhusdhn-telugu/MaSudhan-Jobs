@@ -1,6 +1,6 @@
 [
     {
-        "id": "2703288787234442898",
+        "id": "8798259065798256568",
         "title": "React.JS Developer Interns",
         "company": "Unikwork",
         "location": "GJ, IN",
@@ -14,7 +14,7 @@
         }
     },
     {
-        "id": "1133576610722991239",
+        "id": "4445623007462649333",
         "title": "Python developer Jr / Sr",
         "company": "Hindustan Software House",
         "location": "KL, IN",
@@ -28,7 +28,7 @@
         }
     },
     {
-        "id": "-4189826265892081456",
+        "id": "8396234986283598029",
         "title": "Web Application Developer Intern",
         "company": "Aarya Global Consulting",
         "location": "MH, IN",
@@ -42,7 +42,7 @@
         }
     },
     {
-        "id": "-991035414148730426",
+        "id": "2141125727767063928",
         "title": "Full Stack Developer Intern",
         "company": "ms techfort",
         "location": "MH, IN",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "id": "6273529536533494339",
+        "id": "-6522580033362492731",
         "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
         "location": "",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "id": "6546759430241290260",
+        "id": "-3855901247185645473",
         "title": "Frontend Developer",
         "company": "Webkit24",
         "location": "",
@@ -84,7 +84,7 @@
         }
     },
     {
-        "id": "8052467348696928570",
+        "id": "5210606533289981158",
         "title": "Frontend Developer",
         "company": "GoodSpace AI",
         "location": "",
@@ -98,7 +98,7 @@
         }
     },
     {
-        "id": "-2857414108933437397",
+        "id": "6565131454989813104",
         "title": "Framer Developer (Web / No-Code)",
         "company": "Posha",
         "location": "Bengaluru, Karnataka, India",
@@ -112,7 +112,21 @@
         }
     },
     {
-        "id": "-2682688381242472065",
+        "id": "-2898646938765202030",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330154280",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Front-End Developer Intern at Dexter's Tech"
+        }
+    },
+    {
+        "id": "-3283001318354032128",
         "title": "Web Developer Intern",
         "company": "Zenithbyte",
         "location": "",
@@ -126,119 +140,7 @@
         }
     },
     {
-        "id": "-4191761475614205342",
-        "title": "Frontend Engineer (React / Angular) \u2013 Remote",
-        "company": "Eightfolds Software Technologies Pvt. Ltd.",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330056066",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Engineer (React / Angular) \u2013 Remote at Eightfolds Software Technologies Pvt. Ltd."
-        }
-    },
-    {
-        "id": "6862217015895188076",
-        "title": "JavaScript Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354382919",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this JavaScript Developer at Best Job Tool"
-        }
-    },
-    {
-        "id": "-4855484290653677360",
-        "title": "Web Developer Intern",
-        "company": "Webs IT Solution",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354600173",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Web Developer Intern at Webs IT Solution"
-        }
-    },
-    {
-        "id": "-6958584751964875740",
-        "title": "AEM Frontend Developer",
-        "company": "Cognizant",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4319385618",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this AEM Frontend Developer at Cognizant"
-        }
-    },
-    {
-        "id": "-7568851539503328123",
-        "title": "Frontend Developer II",
-        "company": "Planview",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4341949367",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer II at Planview"
-        }
-    },
-    {
-        "id": "2348311222848011148",
-        "title": "Frontend Developer",
-        "company": "Miamin Systems",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330183810",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer at Miamin Systems"
-        }
-    },
-    {
-        "id": "8136438042004524225",
-        "title": "Web Developer Intern",
-        "company": "WEBBOOST SOLUTION IT SERVICES",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4354373002",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Web Developer Intern at WEBBOOST SOLUTION IT SERVICES"
-        }
-    },
-    {
-        "id": "8600552149726874913",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330029615",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Full Stack Web Developer Intern at Dexter's Tech"
-        }
-    },
-    {
-        "id": "-8816483299638725907",
+        "id": "1349206139942506956",
         "title": "Front-End Developer Intern",
         "company": "UM IT Solutions",
         "location": "",
@@ -252,7 +154,105 @@
         }
     },
     {
-        "id": "1519901063139581572",
+        "id": "-1433621291105779246",
+        "title": "JavaScript Developer",
+        "company": "Best Job Tool",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4354382919",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this JavaScript Developer at Best Job Tool"
+        }
+    },
+    {
+        "id": "4765953329806413079",
+        "title": "Frontend Engineer (React / Angular) \u2013 Remote",
+        "company": "Eightfolds Software Technologies Pvt. Ltd.",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330056066",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Frontend Engineer (React / Angular) \u2013 Remote at Eightfolds Software Technologies Pvt. Ltd."
+        }
+    },
+    {
+        "id": "8263910238533954502",
+        "title": "Web Developer Intern",
+        "company": "Webs IT Solution",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4354600173",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Web Developer Intern at Webs IT Solution"
+        }
+    },
+    {
+        "id": "-4949879567560201091",
+        "title": "AEM Frontend Developer",
+        "company": "Cognizant",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4319385618",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this AEM Frontend Developer at Cognizant"
+        }
+    },
+    {
+        "id": "8604194582636075212",
+        "title": "Frontend Developer II",
+        "company": "Planview",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4341949367",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Frontend Developer II at Planview"
+        }
+    },
+    {
+        "id": "3346654329752195556",
+        "title": "Frontend Developer",
+        "company": "Miamin Systems",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330183810",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Frontend Developer at Miamin Systems"
+        }
+    },
+    {
+        "id": "1695616936600922496",
+        "title": "Web Developer Intern",
+        "company": "WEBBOOST SOLUTION IT SERVICES",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4354373002",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Web Developer Intern at WEBBOOST SOLUTION IT SERVICES"
+        }
+    },
+    {
+        "id": "1395998525152925530",
         "title": "Frontend Developer Intern(On-Site)",
         "company": "EnxtAI",
         "location": "Noida, Uttar Pradesh, India",
@@ -266,21 +266,7 @@
         }
     },
     {
-        "id": "8126825865789719797",
-        "title": "Frontend Developer (next.js)",
-        "company": "Norric",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4349368136",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Check out this Frontend Developer (next.js) at Norric"
-        }
-    },
-    {
-        "id": "926105773670271609",
+        "id": "6091491966925314543",
         "title": "Intern React JS",
         "company": "PPStack",
         "location": "",
@@ -294,17 +280,31 @@
         }
     },
     {
-        "id": "449232842378769752",
-        "title": "Java Full Stack Developer",
-        "company": "Persistent Systems",
-        "location": "Pune, Maharashtra, India",
+        "id": "305491230803695785",
+        "title": "Frontend Developer (next.js)",
+        "company": "Norric",
+        "location": "Bengaluru, Karnataka, India",
         "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4351321643",
+        "job_url": "https://www.linkedin.com/jobs/view/4349368136",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
             "match_score": 20,
-            "share_message": "Check out this Java Full Stack Developer at Persistent Systems"
+            "share_message": "Check out this Frontend Developer (next.js) at Norric"
+        }
+    },
+    {
+        "id": "1246069633530090758",
+        "title": "Full Stack Web Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330029615",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Check out this Full Stack Web Developer Intern at Dexter's Tech"
         }
     }
 ]
