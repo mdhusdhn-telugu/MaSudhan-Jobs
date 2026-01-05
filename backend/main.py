@@ -5,67 +5,56 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from jobspy import scrape_jobs
-from datetime import datetime
+from datetime import datetime, timezone
 
 # --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_PASS = os.environ.get("GMAIL_PASS")
 TO_EMAIL   = os.environ.get("TO_EMAIL")
 
-# --- MASTER JOB CONFIG ---
-try:
-    with open('backend/skills_config.json', 'r') as f:
-        CONFIG = json.load(f)
-except Exception:
-    CONFIG = {
-        "search_queries": [
-            # --- 1. CORE TECH STACK (Startups & Mid-Size) ---
-            "Python Developer Entry Level",
-            "Junior Python Developer",
-            "React Developer Intern",
-            "Junior React Developer",
-            "Frontend Developer Fresher",
-            "Junior Full Stack Developer",
-            "Django Developer Intern",
-            
-            # --- 2. MNC & MASS HIRING (Amazon, TCS, Wipro, etc.) ---
-            "Amazon University Hiring Software",
-            "TCS NQT Fresher",
-            "Accenture Associate Software Engineer",
-            "Capgemini Fresher Analyst",
-            "Cognizant GenC Programmer",
-            "Wipro Project Engineer Fresher",
-            "Off Campus Drive Batch 2024 2025",
-            "Graduate Engineer Trainee Software",
-            
-            # --- 3. GENERIC FRESHER ROLES (Catches missed opportunities) ---
-            "Software Engineer Intern India",
-            "Software Developer Fresher India",
-            "Junior Software Engineer",
-            "Early Career Software Engineer"
-        ],
-        
-        # YOUR SKILLS (Used for scoring)
-        "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript", "Git"], 
-        
-        # STRICT FILTERS (To save your time)
-        "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Relevel", "Hirist"], 
-        "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Architect", "Sr.", "Head", "Staff"],
-        "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "marketing", "support", "bpo", "telecaller"] 
-    }
+# --- MASTER CONFIG ---
+CONFIG = {
+    "search_queries": [
+        "Python Developer Entry Level",
+        "Junior React Developer",
+        "Frontend Developer Fresher",
+        "Amazon University Hiring Software",
+        "TCS NQT Fresher",
+        "Accenture Associate Software Engineer",
+        "Off Campus Drive Batch 2024 2025",
+        "Software Engineer Intern India",
+        "Junior Full Stack Developer",
+        "Wipro Fresher Hiring"
+    ],
+    "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript"], 
+    "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Hirist"], 
+    "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Sr.", "Head"],
+    "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "bpo"] 
+}
+
+def is_8pm_ist():
+    # GitHub runs in UTC. 8 PM IST is roughly 2:30 PM UTC (14:30).
+    # We check if the current UTC hour is 14 (which covers 7:30 PM - 8:30 PM IST)
+    current_utc = datetime.now(timezone.utc)
+    return current_utc.hour == 14
 
 def send_email_alert(job_count, top_jobs):
+    # ONLY send email if it's 8 PM IST (approx)
+    if not is_8pm_ist(): 
+        print("🕒 Not 8 PM yet. Skipping email.")
+        return
+
     if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 {job_count} Jobs Found (Startup + MNC)"
+    subject = f"🚀 {job_count} Jobs (Daily Summary)"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>Your bot finished the daily hunt. <b>{job_count} jobs</b> passed the filters.</p>
-        <p><b>Today's Top Matches:</b></p>
+        <p>Here is your 8 PM summary. The bot has been updating all day.</p>
+        <p><b>Top Fresh Picks:</b></p>
         <ul>
     """
     for job in top_jobs[:5]:
@@ -73,7 +62,7 @@ def send_email_alert(job_count, top_jobs):
         
     body += f"""
         </ul>
-        <p><a href="{dashboard_url}">Open Dashboard</a></p>
+        <p><a href="{dashboard_url}">Open Live Dashboard</a></p>
       </body>
     </html>
     """
@@ -93,82 +82,60 @@ def send_email_alert(job_count, top_jobs):
     except Exception as e:
         print(f"⚠️ Email Failed: {e}")
 
-def analyze_job(job_description, job_title, company):
-    description_lower = job_description.lower()
-    title_lower = job_title.lower()
+def analyze_job(desc, title, company):
+    desc_lower = desc.lower()
+    title_lower = title.lower()
     
-    # 1. Company & Title Filter
+    # 1. Filters
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
     for title_block in CONFIG['blacklisted_titles']:
         if title_block.lower() in title_lower: return {"is_suitable": False}
+    for bad_kw in CONFIG['blacklisted_keywords']:
+        if bad_kw in title_lower: return {"is_suitable": False}
 
-    # 2. Tech Stack Filter
-    for bad_keyword in CONFIG['blacklisted_keywords']:
-        if bad_keyword in title_lower or bad_keyword in description_lower:
-             return {"is_suitable": False, "reason": f"Contains {bad_keyword}"}
-            
-    # 3. Match Score Calculation
-    skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in description_lower]
-    # 80% weight on skills
-    match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 80
-    
-    # Bonus for Title Match or MNC Keywords
-    if "python" in title_lower or "react" in title_lower or "developer" in title_lower or "engineer" in title_lower:
+    # 2. Score
+    skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in desc_lower]
+    match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 100
+    if "python" in title_lower or "react" in title_lower or "fresh" in title_lower:
         match_score += 20
-        
     match_score = min(int(match_score), 100)
 
-    # Low Threshold to ensure you see everything relevant
-    if match_score < 10: 
-        return {"is_suitable": False, "reason": "Low Match"}
+    if match_score < 10: return {"is_suitable": False}
 
     return {
         "is_suitable": True,
         "match_score": match_score,
-        "share_message": f"Check out this {job_title} at {company}"
+        "share_message": f"Hey! Found this job: {title} at {company}. Check it out!"
     }
 
 def clean_val(value):
     if pd.isna(value) or str(value).lower() == "nan": return "Unknown"
     return str(value)
 
-def perform_scraping(hours):
-    print(f"🔎 Scraping jobs from last {hours} hours...")
+def main():
+    print("🚀 Starting Hourly Scraper...")
     all_jobs = []
+    
+    # Scrape last 24h of data (always ensures overlap so list is never empty)
     for query in CONFIG['search_queries']:
         try:
-            # Added ZipRecruiter and Indeed for maximum coverage
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
                 location="India",
-                results_wanted=15, 
-                hours_old=hours,
+                results_wanted=10, 
+                hours_old=24, 
                 country_indeed='india'
             )
             all_jobs.append(jobs)
         except Exception as e:
             print(f"   Error scraping {query}: {e}")
-            
-    if not all_jobs: return pd.DataFrame()
-    return pd.concat(all_jobs, ignore_index=True)
 
-def main():
-    print("🚀 Starting Ultimate Scraper...")
+    if not all_jobs: return
+
+    jobs_df = pd.concat(all_jobs, ignore_index=True)
     
-    # Try last 24 hours first
-    jobs_df = perform_scraping(24)
-
-    # If empty, look back 36 hours (Safety Net)
-    if jobs_df.empty:
-        print("⚠️ No jobs found in last 24h. Expanding search...")
-        jobs_df = perform_scraping(36)
-        
-    if jobs_df.empty:
-        print("❌ Still no jobs found. Exiting.")
-        return
-
     # Deduplicate
     jobs_df['title_clean'] = jobs_df['title'].astype(str).str.lower().str.strip()
     jobs_df['company_clean'] = jobs_df['company'].astype(str).str.lower().str.strip()
@@ -178,10 +145,9 @@ def main():
     for index, row in jobs_df.iterrows():
         title = clean_val(row.get('title'))
         company = clean_val(row.get('company'))
-        desc = clean_val(row.get('description'))
         url = clean_val(row.get('job_url'))
-        date_posted = str(datetime.now().date())
-
+        desc = clean_val(row.get('description'))
+        
         analysis = analyze_job(desc, title, company)
         if not analysis['is_suitable']: continue
 
@@ -190,26 +156,22 @@ def main():
             "title": title,
             "company": company,
             "location": clean_val(row.get('location')),
-            "date_posted": date_posted,
+            "date_posted": str(datetime.now().date()),
             "job_url": url,
             "site": clean_val(row.get('site', 'unknown')),
             "analysis": analysis
         })
-        print(f"✅ Saved: {title}")
 
-    # Sort by Highest Match
+    # Sort: Highest Match First
     processed_jobs.sort(key=lambda x: x['analysis']['match_score'], reverse=True)
 
     # Save
     os.makedirs('data', exist_ok=True)
     os.makedirs('frontend/public/data', exist_ok=True)
-    
-    with open('data/jobs.json', 'w') as f:
-        json.dump(processed_jobs, f, indent=4)
-    with open('frontend/public/data/jobs.json', 'w') as f:
-        json.dump(processed_jobs, f, indent=4)
+    with open('data/jobs.json', 'w') as f: json.dump(processed_jobs, f, indent=4)
+    with open('frontend/public/data/jobs.json', 'w') as f: json.dump(processed_jobs, f, indent=4)
         
-    print(f"🎉 Saved {len(processed_jobs)} jobs.")
+    print(f"✅ Saved {len(processed_jobs)} active jobs.")
     send_email_alert(len(processed_jobs), processed_jobs)
 
 if __name__ == "__main__":
