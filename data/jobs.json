@@ -1,6 +1,34 @@
 [
     {
-        "id": "385182100398770888",
+        "id": "-7969482440786288320",
+        "title": "Full Stack Developer",
+        "company": "2CQR AUTOMATION PVT LTD",
+        "location": "TN, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=f7d26c2701351a1f",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 85,
+            "share_message": "Hey! Found this job: Full Stack Developer at 2CQR AUTOMATION PVT LTD. Check it out!"
+        }
+    },
+    {
+        "id": "-2361826543452567501",
+        "title": "React Native Developer",
+        "company": "Gemburg",
+        "location": "MH, IN",
+        "date_posted": "2026-01-05",
+        "job_url": "https://in.indeed.com/viewjob?jk=713e3e7e90eab272",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62,
+            "share_message": "Hey! Found this job: React Native Developer at Gemburg. Check it out!"
+        }
+    },
+    {
+        "id": "-5582108258083778452",
         "title": "Python developer Jr / Sr",
         "company": "Hindustan Software House",
         "location": "KL, IN",
@@ -14,35 +42,7 @@
         }
     },
     {
-        "id": "-1234003686272155065",
-        "title": "Backend Developer Intern",
-        "company": "Kishor",
-        "location": "Remote, IN",
-        "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=b866d80897876a8e",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 28,
-            "share_message": "Hey! Found this job: Backend Developer Intern at Kishor. Check it out!"
-        }
-    },
-    {
-        "id": "5749763022650202437",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "2026-01-05",
-        "job_url": "https://www.linkedin.com/jobs/view/4330194211",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Front End Developer Intern (HTML, CSS, JavaScript, React) at Wake Up Whistle. Check it out!"
-        }
-    },
-    {
-        "id": "-1363652998262628259",
+        "id": "-1296223005021282821",
         "title": "React Developer",
         "company": "ktree.com",
         "location": "Hyderabad, Telangana, India",
@@ -56,7 +56,7 @@
         }
     },
     {
-        "id": "-800924895445877562",
+        "id": "-3108880127866223793",
         "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
         "location": "",
@@ -70,7 +70,7 @@
         }
     },
     {
-        "id": "-7212556688814343452",
+        "id": "97820680560000326",
         "title": "React Developer",
         "company": "Synechron",
         "location": "Mulshi, Maharashtra, India",
@@ -84,7 +84,21 @@
         }
     },
     {
-        "id": "6980081528335989709",
+        "id": "-2358131022065715229",
+        "title": "React JS Developer",
+        "company": "Tata Consultancy Services",
+        "location": "",
+        "date_posted": "2026-01-05",
+        "job_url": "https://www.linkedin.com/jobs/view/4330194528",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React JS Developer at Tata Consultancy Services. Check it out!"
+        }
+    },
+    {
+        "id": "-2934406166960549894",
         "title": "Python - Front End Developer",
         "company": "Cube Hub Inc.",
         "location": "",
@@ -98,7 +112,7 @@
         }
     },
     {
-        "id": "-8692979135946085559",
+        "id": "4987212551479376782",
         "title": "MEAN Stack Developer",
         "company": "Promatics Technologies Private Limited",
         "location": "PB, IN",
@@ -112,21 +126,7 @@
         }
     },
     {
-        "id": "4681988575303785378",
-        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
-        "company": "Amazon.com",
-        "location": "DL, IN",
-        "date_posted": "2026-01-05",
-        "job_url": "https://in.indeed.com/viewjob?jk=360cb5520c3753a6",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
-        }
-    },
-    {
-        "id": "3250474307698044211",
+        "id": "-3072893087356184009",
         "title": "Embedded QA Engineer - Intern",
         "company": "CIMCON Software (India) Pvt Ltd",
         "location": "GJ, IN",
