@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 
-// 1. Define the NEW Shape of Data (Matches your Python Script)
 interface JobAnalysis {
   match_score: number;
   share_message: string;
@@ -15,26 +14,26 @@ interface Job {
   date_posted: string;
   job_url: string;
   site: string;
-  analysis: JobAnalysis; // <--- The new nested part!
+  analysis: JobAnalysis;
 }
 
 function App() {
   const [jobs, setJobs] = useState<Job[]>([])
 
-  // 2. Load the data
   useEffect(() => {
     fetch('/data/jobs.json')
       .then(res => res.json())
       .then(data => {
-        // Ensure data is an array before setting it
-        if (Array.isArray(data)) {
-          setJobs(data);
-        } else {
-          console.error("Data is not an array:", data);
-        }
+        if (Array.isArray(data)) setJobs(data);
       })
       .catch(err => console.error("Error loading jobs:", err));
   }, [])
+
+  const shareJob = (job: Job) => {
+    const text = `Hey, check out this job: ${job.title} at ${job.company}. Link: ${job.job_url}`;
+    const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(text)}`;
+    window.open(whatsappUrl, '_blank');
+  };
 
   return (
     <div className="container">
@@ -43,26 +42,23 @@ function App() {
           <span className="icon">M</span>
           <div>
             <h1>MaSudhan's</h1>
-            <p>PERSONAL JOB CENTER</p>
+            <p>LIVE JOB FEED (UPDATES HOURLY)</p>
           </div>
         </div>
         <div className="stats">
-          <span className="live-badge">Live Feed</span>
-          <span className="count">Found {jobs.length} Jobs</span>
+          <span className="live-badge">● Live</span>
+          <span className="count">{jobs.length} Active Jobs</span>
         </div>
       </header>
 
       <main className="job-grid">
         {jobs.length === 0 ? (
-          <div className="empty-state">
-             <p>Loading your jobs...</p>
-          </div>
+          <div className="empty-state"><p>Scraping fresh jobs... Check back in 2 mins!</p></div>
         ) : (
           jobs.map(job => (
             <div key={job.id} className="job-card">
               <div className="card-header">
                 <h3>{job.title}</h3>
-                {/* 3. Read the Score from the NEW location */}
                 <span className={`score ${job.analysis.match_score >= 80 ? 'high' : 'med'}`}>
                   {job.analysis.match_score}%
                 </span>
@@ -80,6 +76,9 @@ function App() {
                 <a href={job.job_url} target="_blank" rel="noopener noreferrer" className="apply-btn">
                   Apply Now
                 </a>
+                <button onClick={() => shareJob(job)} className="share-btn">
+                  Share ↗
+                </button>
               </div>
             </div>
           ))
