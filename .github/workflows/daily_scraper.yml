@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --global user.name "MaSudhan Bot"
           git config --global user.email "bot@masudhan.com"
-          git pull origin main --rebase
+          git pull --rebase origin main
           git add data/jobs.json frontend/public/data/jobs.json
           git commit -m "Auto-update jobs [skip ci]" || echo "No changes to commit"
           git push
