@@ -1,5 +1,80 @@
 [
     {
+        "id": "3224167491519777607",
+        "title": "Software Developer",
+        "company": "Salescom Services",
+        "location": "WB, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 15:31",
+        "job_url": "https://in.indeed.com/viewjob?jk=b47b5a4275772500",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Software Developer at Salescom Services. Check it out!"
+        }
+    },
+    {
+        "id": "7462903786857491940",
+        "title": "Frontend Developer (React.js)",
+        "company": "DIGIDEL SOLUTIONS",
+        "location": "Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 15:31",
+        "job_url": "https://www.linkedin.com/jobs/view/4358341237",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React.js) at DIGIDEL SOLUTIONS. Check it out!"
+        }
+    },
+    {
+        "id": "6514717771606788711",
+        "title": "ReactJS Developer",
+        "company": "Sketch Brahma Technologies",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 15:31",
+        "job_url": "https://www.linkedin.com/jobs/view/4330425410",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: ReactJS Developer at Sketch Brahma Technologies. Check it out!"
+        }
+    },
+    {
+        "id": "3413679690247569132",
+        "title": "ReactJs Developer",
+        "company": "Viraaj HR Solutions Private Limited",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 15:31",
+        "job_url": "https://www.linkedin.com/jobs/view/4330515753",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: ReactJs Developer at Viraaj HR Solutions Private Limited. Check it out!"
+        }
+    },
+    {
+        "id": "-6010955746582662374",
+        "title": "Full Stack Developer (Fresher)",
+        "company": "Sioniq",
+        "location": "KL, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 15:31",
+        "job_url": "https://in.indeed.com/viewjob?jk=132ce1dca3ce7cde",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77,
+            "share_message": "Hey! Found this job: Full Stack Developer (Fresher) at Sioniq. Check it out!"
+        }
+    },
+    {
         "id": "-2795435349085927282",
         "title": "Engineer 2, Software Development & Engineering",
         "company": "Comcast",
@@ -1422,81 +1497,6 @@
             "is_suitable": true,
             "match_score": 14,
             "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
-        }
-    },
-    {
-        "id": "-9121260588455661865",
-        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
-        "company": "Amazon.com",
-        "location": "TS, IN",
-        "date_posted": "2025-06-23",
-        "found_at": "2026-01-06 08:40",
-        "job_url": "https://in.indeed.com/viewjob?jk=e55bb98f3dedffda",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
-        }
-    },
-    {
-        "id": "5063286630564205641",
-        "title": "Python Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-06 08:40",
-        "job_url": "https://www.linkedin.com/jobs/view/4351219799",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Python Software Developer Intern at Skillzenloop. Check it out!"
-        }
-    },
-    {
-        "id": "8568957809757042483",
-        "title": "Software Developer - Fresher",
-        "company": "ADA Software Re Engineering Services Pvt. Ltd.",
-        "location": "Kolkata, West Bengal, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-06 08:40",
-        "job_url": "https://www.linkedin.com/jobs/view/4351209149",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Software Developer - Fresher at ADA Software Re Engineering Services Pvt. Ltd.. Check it out!"
-        }
-    },
-    {
-        "id": "3244205130906838062",
-        "title": "Associate software engineer (Angular, Spring boot/ Java)",
-        "company": "NielsenIQ",
-        "location": "TN, IN",
-        "date_posted": "2026-01-06",
-        "found_at": "2026-01-06 08:40",
-        "job_url": "https://in.indeed.com/viewjob?jk=2d42a7a1231d5a2f",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42,
-            "share_message": "Hey! Found this job: Associate software engineer (Angular, Spring boot/ Java) at NielsenIQ. Check it out!"
-        }
-    },
-    {
-        "id": "-4972815924644019100",
-        "title": "APPLICATION DEVELOPER",
-        "company": "Wipro",
-        "location": "KA, IN",
-        "date_posted": "2026-01-06",
-        "found_at": "2026-01-06 07:33",
-        "job_url": "https://in.indeed.com/viewjob?jk=5a8b475af25dcc6c",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: APPLICATION DEVELOPER at Wipro. Check it out!"
         }
     }
 ]
