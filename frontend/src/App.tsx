@@ -11,7 +11,7 @@ interface Job {
   title: string;
   company: string;
   location: string;
-  date_posted: string;
+  found_at?: string; // New field
   job_url: string;
   site: string;
   analysis: JobAnalysis;
@@ -42,18 +42,18 @@ function App() {
           <span className="icon">M</span>
           <div>
             <h1>MaSudhan's</h1>
-            <p>LIVE JOB FEED (UPDATES HOURLY)</p>
+            <p>LIVE FEED (NEWEST FIRST)</p>
           </div>
         </div>
         <div className="stats">
           <span className="live-badge">● Live</span>
-          <span className="count">{jobs.length} Active Jobs</span>
+          <span className="count">{jobs.length} Jobs in Feed</span>
         </div>
       </header>
 
       <main className="job-grid">
         {jobs.length === 0 ? (
-          <div className="empty-state"><p>Scraping fresh jobs... Check back in 2 mins!</p></div>
+          <div className="empty-state"><p>Waiting for the hourly update...</p></div>
         ) : (
           jobs.map(job => (
             <div key={job.id} className="job-card">
@@ -68,7 +68,8 @@ function App() {
                 <p className="company">{job.company}</p>
                 <div className="meta">
                   <span>📍 {job.location}</span>
-                  <span className="site-tag">{job.site}</span>
+                  {/* Show when the bot found it */}
+                  <span className="time-tag">🕒 {job.found_at ? job.found_at.split(' ')[1] : 'Recent'}</span>
                 </div>
               </div>
 
