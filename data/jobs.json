@@ -1,5 +1,65 @@
 [
     {
+        "id": "-8153135456803039575",
+        "title": "Frontend Developer (React Js)",
+        "company": "Nuarsh TECHSERVE",
+        "location": "MP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 05:32",
+        "job_url": "https://in.indeed.com/viewjob?jk=9809c3f74558b11c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62,
+            "share_message": "Hey! Found this job: Frontend Developer (React Js) at Nuarsh TECHSERVE. Check it out!"
+        }
+    },
+    {
+        "id": "-1726532340437320622",
+        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 05:32",
+        "job_url": "https://www.linkedin.com/jobs/view/4354519798",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs. Check it out!"
+        }
+    },
+    {
+        "id": "3205094071405772356",
+        "title": "React js developer",
+        "company": "Tata Consultancy Services",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 05:32",
+        "job_url": "https://www.linkedin.com/jobs/view/4330513635",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React js developer at Tata Consultancy Services. Check it out!"
+        }
+    },
+    {
+        "id": "-5874087035417309103",
+        "title": "React.js developer",
+        "company": "People Prime Worldwide",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 05:32",
+        "job_url": "https://www.linkedin.com/jobs/view/4330413616",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React.js developer at People Prime Worldwide. Check it out!"
+        }
+    },
+    {
         "id": "-9030001054765328300",
         "title": "Frontend Developer (React Js)",
         "company": "Nuarsh TECHSERVE",
