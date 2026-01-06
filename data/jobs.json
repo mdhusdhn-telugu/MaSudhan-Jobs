@@ -1,5 +1,155 @@
 [
     {
+        "id": "-4972815924644019100",
+        "title": "APPLICATION DEVELOPER",
+        "company": "Wipro",
+        "location": "KA, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=5a8b475af25dcc6c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: APPLICATION DEVELOPER at Wipro. Check it out!"
+        }
+    },
+    {
+        "id": "2883709445846569555",
+        "title": "MERN Stack Developer",
+        "company": "Gammastack",
+        "location": "MP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=90b306a21bde43ac",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: MERN Stack Developer at Gammastack. Check it out!"
+        }
+    },
+    {
+        "id": "-6417017528267756821",
+        "title": "MERN Stack Developer",
+        "company": "WebCastle Media Pvt Ltd.",
+        "location": "KL, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=a1420d1a1ff3ee4e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: MERN Stack Developer at WebCastle Media Pvt Ltd.. Check it out!"
+        }
+    },
+    {
+        "id": "5365781048943092895",
+        "title": "ReactJS Developer",
+        "company": "Prodigy Placement LLP",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=648bea5ea4b8285b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 91,
+            "share_message": "Hey! Found this job: ReactJS Developer at Prodigy Placement LLP. Check it out!"
+        }
+    },
+    {
+        "id": "3171198831008241001",
+        "title": "React Developer: Create World-Class Web Experiences at Scale",
+        "company": "Mindstix Software Labs",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://www.linkedin.com/jobs/view/4354569786",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Developer: Create World-Class Web Experiences at Scale at Mindstix Software Labs. Check it out!"
+        }
+    },
+    {
+        "id": "1542159306205613990",
+        "title": "React js developer",
+        "company": "Tata Consultancy Services",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://www.linkedin.com/jobs/view/4330513635",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React js developer at Tata Consultancy Services. Check it out!"
+        }
+    },
+    {
+        "id": "-152110359043302402",
+        "title": "Full Stack Python Developer",
+        "company": "Hashtechy",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=5d6ac5d4c0e5755c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77,
+            "share_message": "Hey! Found this job: Full Stack Python Developer at Hashtechy. Check it out!"
+        }
+    },
+    {
+        "id": "8102536228905063368",
+        "title": "Software Developer (Fresher)",
+        "company": "Nimblix Technologies",
+        "location": "KA, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=ea27e05cc1a2a56b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34,
+            "share_message": "Hey! Found this job: Software Developer (Fresher) at Nimblix Technologies. Check it out!"
+        }
+    },
+    {
+        "id": "-4824933529752154349",
+        "title": ".NET Core Developer ( Experienced )",
+        "company": "DB Vertex Technologies",
+        "location": "MP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://in.indeed.com/viewjob?jk=a76e19ce935f20a1",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: .NET Core Developer ( Experienced ) at DB Vertex Technologies. Check it out!"
+        }
+    },
+    {
+        "id": "8241292825007967459",
+        "title": "Software Developer - Fresher",
+        "company": "ADA Software Re Engineering Services Pvt. Ltd.",
+        "location": "Kolkata, West Bengal, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 07:33",
+        "job_url": "https://www.linkedin.com/jobs/view/4351209149",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Software Developer - Fresher at ADA Software Re Engineering Services Pvt. Ltd.. Check it out!"
+        }
+    },
+    {
         "id": "-7360338371572637187",
         "title": "MERN Stack Developer",
         "company": "WebCastle Media Pvt Ltd.",
