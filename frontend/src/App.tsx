@@ -11,7 +11,7 @@ interface Job {
   title: string;
   company: string;
   location: string;
-  found_at?: string; // New field
+  found_at?: string;
   job_url: string;
   site: string;
   analysis: JobAnalysis;
@@ -21,7 +21,8 @@ function App() {
   const [jobs, setJobs] = useState<Job[]>([])
 
   useEffect(() => {
-    fetch('/data/jobs.json')
+    // Add a random number to URL to prevent browser caching
+    fetch(`/data/jobs.json?t=${new Date().getTime()}`)
       .then(res => res.json())
       .then(data => {
         if (Array.isArray(data)) setJobs(data);
@@ -42,7 +43,7 @@ function App() {
           <span className="icon">M</span>
           <div>
             <h1>MaSudhan's</h1>
-            <p>LIVE FEED (NEWEST FIRST)</p>
+            <p>LIVE FEED (Updates Hourly)</p>
           </div>
         </div>
         <div className="stats">
@@ -53,7 +54,7 @@ function App() {
 
       <main className="job-grid">
         {jobs.length === 0 ? (
-          <div className="empty-state"><p>Waiting for the hourly update...</p></div>
+          <div className="empty-state"><p>Waiting for next update...</p></div>
         ) : (
           jobs.map(job => (
             <div key={job.id} className="job-card">
@@ -68,8 +69,10 @@ function App() {
                 <p className="company">{job.company}</p>
                 <div className="meta">
                   <span>📍 {job.location}</span>
-                  {/* Show when the bot found it */}
-                  <span className="time-tag">🕒 {job.found_at ? job.found_at.split(' ')[1] : 'Recent'}</span>
+                  {/* Show specific time */}
+                  <span className="time-tag">
+                    🕒 {job.found_at ? `Found today at ${job.found_at}` : 'Recent'}
+                  </span>
                 </div>
               </div>
 
