@@ -34,7 +34,6 @@ CONFIG = {
 
 def is_8pm_ist():
     current_utc = datetime.now(timezone.utc)
-    # 8 PM IST is roughly 2:30 PM UTC. We check the hour 14.
     return current_utc.hour == 14
 
 def send_email_alert(new_jobs_count, top_new_job):
@@ -48,7 +47,7 @@ def send_email_alert(new_jobs_count, top_new_job):
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>Your bot has been running all day. We found <b>{new_jobs_count} new jobs</b>.</p>
+        <p>Your bot collected <b>{new_jobs_count} new jobs</b> today.</p>
         <p><b>Latest Top Pick:</b><br/>
         {top_new_job['title']} at {top_new_job['company']} ({top_new_job['analysis']['match_score']}% Match)</p>
         <p><a href="{dashboard_url}">Open Live Dashboard</a></p>
@@ -103,7 +102,6 @@ def clean_val(value):
     return str(value)
 
 def load_existing_jobs():
-    # Load the previous JSON to keep history
     if os.path.exists('data/jobs.json'):
         try:
             with open('data/jobs.json', 'r') as f:
@@ -113,22 +111,21 @@ def load_existing_jobs():
     return []
 
 def main():
-    print("🚀 Starting Feed Scraper...")
+    print("🚀 Starting Aggressive Feed Scraper...")
     
-    # 1. Load History (So we don't lose previous hours)
     existing_jobs = load_existing_jobs()
     existing_ids = {job['id'] for job in existing_jobs}
     
-    # 2. Scrape ONLY fresh data (Last 3 hours is enough for hourly runs)
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
+            # INCREASED LIMITS: Look at last 24h, fetch 20 results per query
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
                 location="India",
-                results_wanted=5,  # Fetch fewer per query to run faster
-                hours_old=3,       # Only look for NEW stuff
+                results_wanted=20, 
+                hours_old=24,      
                 country_indeed='india'
             )
             all_scraped_jobs.append(jobs)
@@ -136,52 +133,50 @@ def main():
             print(f"   Error scraping {query}: {e}")
 
     if not all_scraped_jobs: 
-        print("No new jobs found this hour.")
-        return
-
-    jobs_df = pd.concat(all_scraped_jobs, ignore_index=True)
+        print("No jobs found this run.")
+        # We still proceed to save to keep the file valid, but we won't add anything.
+        # This prevents the 'return' trap.
     
-    # 3. Process New Jobs
     new_jobs = []
-    current_time_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    current_time_str = datetime.now().strftime("%H:%M") # Just HH:MM
 
-    for index, row in jobs_df.iterrows():
-        url = clean_val(row.get('job_url'))
-        job_id = str(hash(url))
+    if all_scraped_jobs:
+        jobs_df = pd.concat(all_scraped_jobs, ignore_index=True)
         
-        # If we already have this job, SKIP IT
-        if job_id in existing_ids:
-            continue
+        for index, row in jobs_df.iterrows():
+            url = clean_val(row.get('job_url'))
+            job_id = str(hash(url))
             
-        title = clean_val(row.get('title'))
-        company = clean_val(row.get('company'))
-        desc = clean_val(row.get('description'))
-        
-        analysis = analyze_job(desc, title, company)
-        if not analysis['is_suitable']: continue
+            # IF WE HAVE THIS JOB ID, SKIP IT (Deduplication)
+            if job_id in existing_ids:
+                continue
+                
+            title = clean_val(row.get('title'))
+            company = clean_val(row.get('company'))
+            desc = clean_val(row.get('description'))
+            
+            analysis = analyze_job(desc, title, company)
+            if not analysis['is_suitable']: continue
 
-        new_job_entry = {
-            "id": job_id,
-            "title": title,
-            "company": company,
-            "location": clean_val(row.get('location')),
-            "date_posted": clean_val(row.get('date_posted')), # Original post date
-            "found_at": current_time_str,                     # WHEN WE FOUND IT (For sorting)
-            "job_url": url,
-            "site": clean_val(row.get('site', 'unknown')),
-            "analysis": analysis
-        }
-        new_jobs.append(new_job_entry)
-        existing_ids.add(job_id) # Prevent dupes within same run
+            new_job_entry = {
+                "id": job_id,
+                "title": title,
+                "company": company,
+                "location": clean_val(row.get('location')),
+                "date_posted": clean_val(row.get('date_posted')),
+                "found_at": current_time_str,  # e.g., "14:30"
+                "job_url": url,
+                "site": clean_val(row.get('site', 'unknown')),
+                "analysis": analysis
+            }
+            new_jobs.append(new_job_entry)
+            existing_ids.add(job_id) 
 
-    print(f"✅ Found {len(new_jobs)} BRAND NEW jobs.")
+    print(f"✅ Found {len(new_jobs)} NEW jobs to add to feed.")
 
-    # 4. Merge: Put NEW jobs at the TOP
-    # Combine [New Jobs] + [Old Jobs]
+    # Merge: New jobs FIRST, then old jobs
     updated_feed = new_jobs + existing_jobs
-
-    # 5. Cleanup: Keep list size manageable (e.g., last 100 jobs)
-    updated_feed = updated_feed[:100]
+    updated_feed = updated_feed[:100] # Keep list size sane
 
     # Save
     os.makedirs('data', exist_ok=True)
