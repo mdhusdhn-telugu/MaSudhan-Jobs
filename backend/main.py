@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from jobspy import scrape_jobs
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 # --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
@@ -27,41 +27,30 @@ CONFIG = {
         "Wipro Fresher Hiring"
     ],
     "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript"], 
-    "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Hirist"], 
+    "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Hirist", "Patterned Learning"], 
     "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Sr.", "Head"],
     "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "bpo"] 
 }
 
 def is_8pm_ist():
-    # GitHub runs in UTC. 8 PM IST is roughly 2:30 PM UTC (14:30).
-    # We check if the current UTC hour is 14 (which covers 7:30 PM - 8:30 PM IST)
     current_utc = datetime.now(timezone.utc)
+    # 8 PM IST is roughly 2:30 PM UTC. We check the hour 14.
     return current_utc.hour == 14
 
-def send_email_alert(job_count, top_jobs):
-    # ONLY send email if it's 8 PM IST (approx)
-    if not is_8pm_ist(): 
-        print("🕒 Not 8 PM yet. Skipping email.")
-        return
+def send_email_alert(new_jobs_count, top_new_job):
+    if not is_8pm_ist(): return 
+    if new_jobs_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    if job_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
-
-    subject = f"🚀 {job_count} Jobs (Daily Summary)"
+    subject = f"🚀 Daily Summary: {new_jobs_count} New Jobs"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     
     body = f"""
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>Here is your 8 PM summary. The bot has been updating all day.</p>
-        <p><b>Top Fresh Picks:</b></p>
-        <ul>
-    """
-    for job in top_jobs[:5]:
-        body += f"<li><b>{job['analysis']['match_score']}% Match</b>: {job['title']} at {job['company']}</li>"
-        
-    body += f"""
-        </ul>
+        <p>Your bot has been running all day. We found <b>{new_jobs_count} new jobs</b>.</p>
+        <p><b>Latest Top Pick:</b><br/>
+        {top_new_job['title']} at {top_new_job['company']} ({top_new_job['analysis']['match_score']}% Match)</p>
         <p><a href="{dashboard_url}">Open Live Dashboard</a></p>
       </body>
     </html>
@@ -113,66 +102,95 @@ def clean_val(value):
     if pd.isna(value) or str(value).lower() == "nan": return "Unknown"
     return str(value)
 
+def load_existing_jobs():
+    # Load the previous JSON to keep history
+    if os.path.exists('data/jobs.json'):
+        try:
+            with open('data/jobs.json', 'r') as f:
+                return json.load(f)
+        except:
+            return []
+    return []
+
 def main():
-    print("🚀 Starting Hourly Scraper...")
-    all_jobs = []
+    print("🚀 Starting Feed Scraper...")
     
-    # Scrape last 24h of data (always ensures overlap so list is never empty)
+    # 1. Load History (So we don't lose previous hours)
+    existing_jobs = load_existing_jobs()
+    existing_ids = {job['id'] for job in existing_jobs}
+    
+    # 2. Scrape ONLY fresh data (Last 3 hours is enough for hourly runs)
+    all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
                 location="India",
-                results_wanted=10, 
-                hours_old=24, 
+                results_wanted=5,  # Fetch fewer per query to run faster
+                hours_old=3,       # Only look for NEW stuff
                 country_indeed='india'
             )
-            all_jobs.append(jobs)
+            all_scraped_jobs.append(jobs)
         except Exception as e:
             print(f"   Error scraping {query}: {e}")
 
-    if not all_jobs: return
+    if not all_scraped_jobs: 
+        print("No new jobs found this hour.")
+        return
 
-    jobs_df = pd.concat(all_jobs, ignore_index=True)
+    jobs_df = pd.concat(all_scraped_jobs, ignore_index=True)
     
-    # Deduplicate
-    jobs_df['title_clean'] = jobs_df['title'].astype(str).str.lower().str.strip()
-    jobs_df['company_clean'] = jobs_df['company'].astype(str).str.lower().str.strip()
-    jobs_df.drop_duplicates(subset=['title_clean', 'company_clean'], inplace=True)
-    
-    processed_jobs = []
+    # 3. Process New Jobs
+    new_jobs = []
+    current_time_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+
     for index, row in jobs_df.iterrows():
+        url = clean_val(row.get('job_url'))
+        job_id = str(hash(url))
+        
+        # If we already have this job, SKIP IT
+        if job_id in existing_ids:
+            continue
+            
         title = clean_val(row.get('title'))
         company = clean_val(row.get('company'))
-        url = clean_val(row.get('job_url'))
         desc = clean_val(row.get('description'))
         
         analysis = analyze_job(desc, title, company)
         if not analysis['is_suitable']: continue
 
-        processed_jobs.append({
-            "id": str(hash(url)),
+        new_job_entry = {
+            "id": job_id,
             "title": title,
             "company": company,
             "location": clean_val(row.get('location')),
-            "date_posted": str(datetime.now().date()),
+            "date_posted": clean_val(row.get('date_posted')), # Original post date
+            "found_at": current_time_str,                     # WHEN WE FOUND IT (For sorting)
             "job_url": url,
             "site": clean_val(row.get('site', 'unknown')),
             "analysis": analysis
-        })
+        }
+        new_jobs.append(new_job_entry)
+        existing_ids.add(job_id) # Prevent dupes within same run
 
-    # Sort: Highest Match First
-    processed_jobs.sort(key=lambda x: x['analysis']['match_score'], reverse=True)
+    print(f"✅ Found {len(new_jobs)} BRAND NEW jobs.")
+
+    # 4. Merge: Put NEW jobs at the TOP
+    # Combine [New Jobs] + [Old Jobs]
+    updated_feed = new_jobs + existing_jobs
+
+    # 5. Cleanup: Keep list size manageable (e.g., last 100 jobs)
+    updated_feed = updated_feed[:100]
 
     # Save
     os.makedirs('data', exist_ok=True)
     os.makedirs('frontend/public/data', exist_ok=True)
-    with open('data/jobs.json', 'w') as f: json.dump(processed_jobs, f, indent=4)
-    with open('frontend/public/data/jobs.json', 'w') as f: json.dump(processed_jobs, f, indent=4)
+    with open('data/jobs.json', 'w') as f: json.dump(updated_feed, f, indent=4)
+    with open('frontend/public/data/jobs.json', 'w') as f: json.dump(updated_feed, f, indent=4)
         
-    print(f"✅ Saved {len(processed_jobs)} active jobs.")
-    send_email_alert(len(processed_jobs), processed_jobs)
+    if len(new_jobs) > 0:
+        send_email_alert(len(new_jobs), new_jobs[0])
 
 if __name__ == "__main__":
     main()
