@@ -1,5 +1,80 @@
 [
     {
+        "id": "-7360338371572637187",
+        "title": "MERN Stack Developer",
+        "company": "WebCastle Media Pvt Ltd.",
+        "location": "KL, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 06:46",
+        "job_url": "https://in.indeed.com/viewjob?jk=a1420d1a1ff3ee4e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: MERN Stack Developer at WebCastle Media Pvt Ltd.. Check it out!"
+        }
+    },
+    {
+        "id": "2574773643522814663",
+        "title": "ReactJS Developer",
+        "company": "Prodigy Placement LLP",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 06:46",
+        "job_url": "https://in.indeed.com/viewjob?jk=648bea5ea4b8285b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 91,
+            "share_message": "Hey! Found this job: ReactJS Developer at Prodigy Placement LLP. Check it out!"
+        }
+    },
+    {
+        "id": "-7162226748244981200",
+        "title": "React js developer",
+        "company": "Tata Consultancy Services",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 06:46",
+        "job_url": "https://www.linkedin.com/jobs/view/4330513635",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React js developer at Tata Consultancy Services. Check it out!"
+        }
+    },
+    {
+        "id": "5304243378078944822",
+        "title": "React Developer: Create World-Class Web Experiences at Scale",
+        "company": "Mindstix Software Labs",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 06:46",
+        "job_url": "https://www.linkedin.com/jobs/view/4354569786",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Developer: Create World-Class Web Experiences at Scale at Mindstix Software Labs. Check it out!"
+        }
+    },
+    {
+        "id": "-2304613983788431815",
+        "title": ".NET Core Developer ( Experienced )",
+        "company": "DB Vertex Technologies",
+        "location": "MP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-06 06:46",
+        "job_url": "https://in.indeed.com/viewjob?jk=a76e19ce935f20a1",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: .NET Core Developer ( Experienced ) at DB Vertex Technologies. Check it out!"
+        }
+    },
+    {
         "id": "-8153135456803039575",
         "title": "Frontend Developer (React Js)",
         "company": "Nuarsh TECHSERVE",
