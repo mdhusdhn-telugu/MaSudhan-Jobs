@@ -1,5 +1,50 @@
 [
     {
+        "id": "-326969263605279177",
+        "title": "Software Developers (Java/Python/ReactJS/Atlassian JIRA)",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 02:43",
+        "job_url": "https://www.linkedin.com/jobs/view/4330412573",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Software Developers (Java/Python/ReactJS/Atlassian JIRA) at Infosys. Check it out!"
+        }
+    },
+    {
+        "id": "6675660280254303647",
+        "title": "Aertrip - React.js Developer - Javascript",
+        "company": "Aertrip",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 02:43",
+        "job_url": "https://www.linkedin.com/jobs/view/4358260283",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Aertrip - React.js Developer - Javascript at Aertrip. Check it out!"
+        }
+    },
+    {
+        "id": "-7311053934043821879",
+        "title": "React Ja Developer",
+        "company": "Hirenza",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-06 02:43",
+        "job_url": "https://www.linkedin.com/jobs/view/4354636106",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Ja Developer at Hirenza. Check it out!"
+        }
+    },
+    {
         "id": "6167299079230465781",
         "title": "React JS Developer Intern",
         "company": "mxpertz",
