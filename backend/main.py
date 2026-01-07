@@ -47,10 +47,9 @@ def send_email_alert(new_jobs_count, top_new_job):
     <html>
       <body>
         <h2>Hi MaSudhan,</h2>
-        <p>Your bot collected <b>{new_jobs_count} new jobs</b> today.</p>
-        <p><b>Latest Top Pick:</b><br/>
-        {top_new_job['title']} at {top_new_job['company']} ({top_new_job['analysis']['match_score']}% Match)</p>
-        <p><a href="{dashboard_url}">Open Live Dashboard</a></p>
+        <p><b>{new_jobs_count} fresh jobs</b> were found today.</p>
+        <p><b>Top Pick:</b> {top_new_job['title']} at {top_new_job['company']}</p>
+        <p><a href="{dashboard_url}">Open Live Feed</a></p>
       </body>
     </html>
     """
@@ -74,7 +73,6 @@ def analyze_job(desc, title, company):
     desc_lower = desc.lower()
     title_lower = title.lower()
     
-    # 1. Filters
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
     for title_block in CONFIG['blacklisted_titles']:
@@ -82,7 +80,6 @@ def analyze_job(desc, title, company):
     for bad_kw in CONFIG['blacklisted_keywords']:
         if bad_kw in title_lower: return {"is_suitable": False}
 
-    # 2. Score
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in desc_lower]
     match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 100
     if "python" in title_lower or "react" in title_lower or "fresh" in title_lower:
@@ -111,34 +108,53 @@ def load_existing_jobs():
     return []
 
 def main():
-    print("🚀 Starting Aggressive Feed Scraper...")
+    print("🚀 Starting STRICT FRESHNESS Scraper...")
     
+    # 1. LOAD & PURGE OLD JOBS
     existing_jobs = load_existing_jobs()
-    existing_ids = {job['id'] for job in existing_jobs}
+    fresh_jobs = []
     
+    # Calculate cutoff time (24 hours ago)
+    # If a job has been in our list for > 24 hours, DELETE IT.
+    cutoff_time = datetime.now() - timedelta(hours=24)
+    
+    for job in existing_jobs:
+        try:
+            # Check the "found_at" timestamp
+            found_at_str = job.get('found_at', '')
+            # Assume format is YYYY-MM-DD HH:MM
+            job_time = datetime.strptime(found_at_str, "%Y-%m-%d %H:%M")
+            
+            if job_time > cutoff_time:
+                fresh_jobs.append(job)
+            else:
+                print(f"🗑️ Deleting old job: {job['title']} (Found >24h ago)")
+        except:
+            # If timestamp is broken or missing, delete it to be safe
+            pass
+            
+    existing_ids = {job['id'] for job in fresh_jobs}
+    print(f"🧹 Database cleaned. Kept {len(fresh_jobs)} recent jobs.")
+
+    # 2. SCRAPE NEW JOBS
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
-            # INCREASED LIMITS: Look at last 24h, fetch 20 results per query
+            # We scrape aggressively but rely on the PURGE to keep the list clean
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
                 location="India",
-                results_wanted=20, 
-                hours_old=24,      
+                results_wanted=15, 
+                hours_old=24, 
                 country_indeed='india'
             )
             all_scraped_jobs.append(jobs)
         except Exception as e:
             print(f"   Error scraping {query}: {e}")
 
-    if not all_scraped_jobs: 
-        print("No jobs found this run.")
-        # We still proceed to save to keep the file valid, but we won't add anything.
-        # This prevents the 'return' trap.
-    
     new_jobs = []
-    current_time_str = datetime.now().strftime("%H:%M") # Just HH:MM
+    current_time_str = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     if all_scraped_jobs:
         jobs_df = pd.concat(all_scraped_jobs, ignore_index=True)
@@ -147,9 +163,7 @@ def main():
             url = clean_val(row.get('job_url'))
             job_id = str(hash(url))
             
-            # IF WE HAVE THIS JOB ID, SKIP IT (Deduplication)
-            if job_id in existing_ids:
-                continue
+            if job_id in existing_ids: continue
                 
             title = clean_val(row.get('title'))
             company = clean_val(row.get('company'))
@@ -164,7 +178,7 @@ def main():
                 "company": company,
                 "location": clean_val(row.get('location')),
                 "date_posted": clean_val(row.get('date_posted')),
-                "found_at": current_time_str,  # e.g., "14:30"
+                "found_at": current_time_str,  # Marks exactly when WE found it
                 "job_url": url,
                 "site": clean_val(row.get('site', 'unknown')),
                 "analysis": analysis
@@ -172,11 +186,11 @@ def main():
             new_jobs.append(new_job_entry)
             existing_ids.add(job_id) 
 
-    print(f"✅ Found {len(new_jobs)} NEW jobs to add to feed.")
+    print(f"✅ Found {len(new_jobs)} BRAND NEW jobs.")
 
-    # Merge: New jobs FIRST, then old jobs
-    updated_feed = new_jobs + existing_jobs
-    updated_feed = updated_feed[:100] # Keep list size sane
+    # 3. MERGE: Newest jobs on top
+    # [New Jobs found just now] + [Jobs found earlier today]
+    updated_feed = new_jobs + fresh_jobs
 
     # Save
     os.makedirs('data', exist_ok=True)
