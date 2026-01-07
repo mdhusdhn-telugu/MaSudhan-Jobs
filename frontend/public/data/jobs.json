@@ -1,5 +1,710 @@
 [
     {
+        "id": "-5659190873223572851",
+        "title": "Engineer 2, Software Development & Engineering",
+        "company": "Comcast",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=b70839e0758b8776",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Engineer 2, Software Development & Engineering at Comcast. Check it out!"
+        }
+    },
+    {
+        "id": "8181709019674965936",
+        "title": "Engineer 2, Engineering Operations",
+        "company": "Comcast",
+        "location": "TN, IN",
+        "date_posted": "2026-01-05",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=3971c9969a550427",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Engineer 2, Engineering Operations at Comcast. Check it out!"
+        }
+    },
+    {
+        "id": "-7305041343780058906",
+        "title": "Software Engr II",
+        "company": "Honeywell",
+        "location": "KA, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=03918a5a9c0d2d93",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Software Engr II at Honeywell. Check it out!"
+        }
+    },
+    {
+        "id": "-6951556193209196540",
+        "title": "Software Engr II",
+        "company": "Honeywell",
+        "location": "KA, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=43c7c0f1686c3fc1",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Software Engr II at Honeywell. Check it out!"
+        }
+    },
+    {
+        "id": "7770191541997884051",
+        "title": "Jr.Shopify Developer",
+        "company": "vision infotech",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=89e8fc8f2dc3f0cf",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Jr.Shopify Developer at vision infotech. Check it out!"
+        }
+    },
+    {
+        "id": "8658812726642910555",
+        "title": "Full Stack Developer",
+        "company": "Krishna hiring services",
+        "location": "CH, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=161ffac7ec4df1cc",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: Full Stack Developer at Krishna hiring services. Check it out!"
+        }
+    },
+    {
+        "id": "-6356428767156117874",
+        "title": "Jr. Laravel Developer",
+        "company": "iWebBracket Technolabs",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=3bc96af772e8643b",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Jr. Laravel Developer at iWebBracket Technolabs. Check it out!"
+        }
+    },
+    {
+        "id": "-2731725051215059658",
+        "title": "React + ASP.NET Web API",
+        "company": "11 Solutions Pvt. Ltd.",
+        "location": "TS, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=ee97de06e15a7484",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34,
+            "share_message": "Hey! Found this job: React + ASP.NET Web API at 11 Solutions Pvt. Ltd.. Check it out!"
+        }
+    },
+    {
+        "id": "-5562173610292385855",
+        "title": "Mobile Development Architect",
+        "company": "CIGNEX",
+        "location": "IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=861722aa5dbde94c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Mobile Development Architect at CIGNEX. Check it out!"
+        }
+    },
+    {
+        "id": "5285656049719800153",
+        "title": "Full Stack Developer",
+        "company": "Call The Team",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=7b67415f97224406",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: Full Stack Developer at Call The Team. Check it out!"
+        }
+    },
+    {
+        "id": "-4044343106006746696",
+        "title": ".NET Core, ReactJS Developer",
+        "company": "Concentrix",
+        "location": "IN",
+        "date_posted": "2025-12-12",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=da80fb3118fc0820",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62,
+            "share_message": "Hey! Found this job: .NET Core, ReactJS Developer at Concentrix. Check it out!"
+        }
+    },
+    {
+        "id": "-1524036063787224017",
+        "title": "Frontend Developer (React.js)",
+        "company": "Weekday AI (YC W21)",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://www.linkedin.com/jobs/view/4358272165",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React.js) at Weekday AI (YC W21). Check it out!"
+        }
+    },
+    {
+        "id": "-4737783132347155035",
+        "title": "Frontend Developer (React.js)",
+        "company": "Weekday AI (YC W21)",
+        "location": "Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://www.linkedin.com/jobs/view/4358330896",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React.js) at Weekday AI (YC W21). Check it out!"
+        }
+    },
+    {
+        "id": "-8867744477738111797",
+        "title": "Frontend Developer (React.js)",
+        "company": "Weekday AI (YC W21)",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://www.linkedin.com/jobs/view/4358320938",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Frontend Developer (React.js) at Weekday AI (YC W21). Check it out!"
+        }
+    },
+    {
+        "id": "-6988352524867849960",
+        "title": "MERN Stack Developer Intern",
+        "company": "nature craft organica",
+        "location": "PB, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=1edb601bc76fc46a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: MERN Stack Developer Intern at nature craft organica. Check it out!"
+        }
+    },
+    {
+        "id": "-8163312414281614399",
+        "title": "Full Stack Developer (Next.js / NestJS / Cloud & Microservices)",
+        "company": "VocalHeart Infotech pvt. ltd.",
+        "location": "MP, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=0e793445b76b14ca",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 85,
+            "share_message": "Hey! Found this job: Full Stack Developer (Next.js / NestJS / Cloud & Microservices) at VocalHeart Infotech pvt. ltd.. Check it out!"
+        }
+    },
+    {
+        "id": "-7891818086802145115",
+        "title": "Front End Developer",
+        "company": "Elliott placement solutions ",
+        "location": "RJ, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=ac0fb809e1e7394e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Front End Developer at Elliott placement solutions . Check it out!"
+        }
+    },
+    {
+        "id": "3150204570936269001",
+        "title": "PHP Developer",
+        "company": "ApplogiQ",
+        "location": "KA, IN",
+        "date_posted": "2026-01-07",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=4e22c3a38f89352d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: PHP Developer at ApplogiQ. Check it out!"
+        }
+    },
+    {
+        "id": "-8120545139078446208",
+        "title": "Junior Backend Developer",
+        "company": "Sanguine Blue Business Solution",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=8d716d0d6c9622a0",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Junior Backend Developer at Sanguine Blue Business Solution. Check it out!"
+        }
+    },
+    {
+        "id": "488000453553449860",
+        "title": "UI/UX Designer (Figma Expert)",
+        "company": "Gomahamaya",
+        "location": "BR, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=bea6bf33f37b13ef",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: UI/UX Designer (Figma Expert) at Gomahamaya. Check it out!"
+        }
+    },
+    {
+        "id": "-3283156252196423323",
+        "title": "Full Stack Developer (Fresher)",
+        "company": "Sioniq",
+        "location": "KL, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=132ce1dca3ce7cde",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77,
+            "share_message": "Hey! Found this job: Full Stack Developer (Fresher) at Sioniq. Check it out!"
+        }
+    },
+    {
+        "id": "-5279856914388814172",
+        "title": "Full Stack Developer Intern",
+        "company": "Accusoil Agri technologies PVT LTD",
+        "location": "RJ, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=70a9de8445067f42",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28,
+            "share_message": "Hey! Found this job: Full Stack Developer Intern at Accusoil Agri technologies PVT LTD. Check it out!"
+        }
+    },
+    {
+        "id": "-737589169399198258",
+        "title": "AI-Augmented Software Developer (1-3 Years ) (Mumbai)",
+        "company": "Wama Technology",
+        "location": "MH, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=925d0ed092cf659c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: AI-Augmented Software Developer (1-3 Years ) (Mumbai) at Wama Technology. Check it out!"
+        }
+    },
+    {
+        "id": "-4898794967871101943",
+        "title": "Assistant Full Stack Developer",
+        "company": "EasyLauncher",
+        "location": "UP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=cdc7cecd603387b2",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Assistant Full Stack Developer at EasyLauncher. Check it out!"
+        }
+    },
+    {
+        "id": "3075646443311819225",
+        "title": "Dot Net Developer",
+        "company": "Ciya Technologies",
+        "location": "OR, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=252ad2b45a2c9b80",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Dot Net Developer at Ciya Technologies. Check it out!"
+        }
+    },
+    {
+        "id": "4183729989025220554",
+        "title": "PHP Laravel Developer",
+        "company": "Jangras Corporation",
+        "location": "HR, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=27e15bfded0f6e78",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: PHP Laravel Developer at Jangras Corporation. Check it out!"
+        }
+    },
+    {
+        "id": "-3828844800465558511",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "KA, IN",
+        "date_posted": "2025-11-18",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=4f7ffd23dc26f626",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "2748646403115605028",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TN, IN",
+        "date_posted": "2025-11-18",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=a7192608033b3780",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "-957553561575629745",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "DL, IN",
+        "date_posted": "2025-11-18",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=7b7b9d07884853e6",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "3291855931244280060",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "MH, IN",
+        "date_posted": "2025-11-18",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=7637ca29d9d430fe",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "283662808780500304",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TS, IN",
+        "date_posted": "2025-09-30",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=7ea570f1681e18e8",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "7871268585028423203",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "KA, IN",
+        "date_posted": "2025-09-30",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=e9f72915c28508fc",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "4644752971175151042",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TN, IN",
+        "date_posted": "2025-09-30",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=b10e4700a3bf6066",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "-401718489779472894",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "DL, IN",
+        "date_posted": "2025-09-30",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=baeab566f42aa338",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "3983312726111113389",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "DL, IN",
+        "date_posted": "2025-06-23",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=6ee0c6a7f8852050",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "8385808751709274872",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "MH, IN",
+        "date_posted": "2025-06-23",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=3431086396e0abbf",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "-3041264308854167603",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "KA, IN",
+        "date_posted": "2025-06-23",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=2960de357f4c7d11",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "4678183838004779513",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TS, IN",
+        "date_posted": "2025-06-23",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=ff853273b2f506ed",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "-7185690543389292180",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "TN, IN",
+        "date_posted": "2025-06-23",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=ca35b6cd8e02bafc",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "5810649681476669121",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "DL, IN",
+        "date_posted": "2025-03-24",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=32aa1a84dcc957b8",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "978893163054586982",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "MH, IN",
+        "date_posted": "2025-03-24",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=16d48068ae328b94",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Dev Engineer I, Amazon University Talent Acquisition at Amazon.com. Check it out!"
+        }
+    },
+    {
+        "id": "3954374827592210242",
+        "title": "Dot Net Full Stack Developer - Position 4",
+        "company": "DXC Technology",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=bb3ed705d4783024",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Dot Net Full Stack Developer - Position 4 at DXC Technology. Check it out!"
+        }
+    },
+    {
+        "id": "-8426128989212120623",
+        "title": "Dot Net Full stack Developer - Position 5",
+        "company": "DXC Technology",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=614bbc10204f83e8",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Dot Net Full stack Developer - Position 5 at DXC Technology. Check it out!"
+        }
+    },
+    {
+        "id": "4508889382767783070",
+        "title": "Dot Net Full Stack developer - Position 1",
+        "company": "DXC Technology",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=0d8b267269b5e1eb",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Dot Net Full Stack developer - Position 1 at DXC Technology. Check it out!"
+        }
+    },
+    {
+        "id": "2987927679012257054",
+        "title": "Dot Net Full Stack Developer - Position 2",
+        "company": "DXC Technology",
+        "location": "TN, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=d96d07c760ac57c2",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Dot Net Full Stack Developer - Position 2 at DXC Technology. Check it out!"
+        }
+    },
+    {
+        "id": "-4048900358579508369",
+        "title": ".NET Core, ReactJS Developer",
+        "company": "Concentrix",
+        "location": "IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=d9b4e55cfab85600",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62,
+            "share_message": "Hey! Found this job: .NET Core, ReactJS Developer at Concentrix. Check it out!"
+        }
+    },
+    {
+        "id": "2153377589019913622",
+        "title": "Software Engineering Associate Advisor - HIH - Evernorth",
+        "company": "The Cigna Group",
+        "location": "AP, IN",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-07 09:36",
+        "job_url": "https://in.indeed.com/viewjob?jk=11ded95c1ae4fde9",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Software Engineering Associate Advisor - HIH - Evernorth at The Cigna Group. Check it out!"
+        }
+    },
+    {
         "id": "-131268982380879947",
         "title": "ReactJS Developer",
         "company": "Shyena Tech Yarns Pvt Ltd",
