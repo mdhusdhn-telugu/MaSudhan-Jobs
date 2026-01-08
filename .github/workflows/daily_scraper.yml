@@ -2,7 +2,7 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
 
 permissions:
@@ -37,14 +37,10 @@ jobs:
           git config --global user.name "MaSudhan Bot"
           git config --global user.email "bot@masudhan.com"
           
-          # 1. Stage the files
           git add data/jobs.json frontend/public/data/jobs.json
           
-          # 2. Save (Commit) them locally FIRST
-          git commit -m "Auto-update jobs [skip ci]" || echo "No changes to commit"
+          # I REMOVED "[skip ci]" SO NETLIFY WILL FINALLY SEE THIS!
+          git commit -m "Auto-update jobs" || echo "No changes to commit"
           
-          # 3. NOW it is safe to pull updates
           git pull --rebase origin main
-          
-          # 4. Finally push
           git push
