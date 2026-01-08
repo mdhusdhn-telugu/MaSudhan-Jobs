@@ -1,5 +1,560 @@
 [
     {
+        "id": "5789665373411292711",
+        "title": "Front End Developer",
+        "company": "Unknown",
+        "location": "DL, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=c1aee677cfff9199",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Front End Developer at Unknown. Check it out!"
+        }
+    },
+    {
+        "id": "7965544885733900770",
+        "title": "Software Development Engineer III",
+        "company": "Tesco",
+        "location": "KA, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=1877ca867809a66d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Software Development Engineer III at Tesco. Check it out!"
+        }
+    },
+    {
+        "id": "1597509227174594716",
+        "title": "Jr PHP Laravel Developer",
+        "company": "Kirag Technology Pvt Ltd",
+        "location": "UP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=ae4d45f8788c8da5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Jr PHP Laravel Developer at Kirag Technology Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "3776665604658193708",
+        "title": "Full Stack Developer",
+        "company": "Cordelia Cruises",
+        "location": "MH, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=152b54417058c50e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Full Stack Developer at Cordelia Cruises. Check it out!"
+        }
+    },
+    {
+        "id": "-347465590869464701",
+        "title": "IICS Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=a30ffc940d7e6aa5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: IICS Developer at Virtusa Lifespaces India Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "-1319189349614544961",
+        "title": "ETL Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=28a3d92a6266e5ed",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: ETL Developer at Virtusa Lifespaces India Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "7200288592772962388",
+        "title": "ETL IICS Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=c93dd517a1207784",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: ETL IICS Developer at Virtusa Lifespaces India Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "7773927842591240660",
+        "title": "ETL IICS Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=fe04925e2387bb3f",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: ETL IICS Developer at Virtusa Lifespaces India Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "-7655349588337439976",
+        "title": "IICS developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=f180c124f4694573",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: IICS developer at Virtusa Lifespaces India Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "3792990609731670386",
+        "title": "React Express Developers",
+        "company": "Goldberries Consulting Pvt Ltd.",
+        "location": "MH, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=cee7fdce0914d7e1",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 48,
+            "share_message": "Hey! Found this job: React Express Developers at Goldberries Consulting Pvt Ltd.. Check it out!"
+        }
+    },
+    {
+        "id": "-3309461152604901047",
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "KA, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8440de6d2702dbeb",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57,
+            "share_message": "Hey! Found this job: Software Development Engineer at Adobe. Check it out!"
+        }
+    },
+    {
+        "id": "4706277349517890207",
+        "title": "Software Dev Engr ||",
+        "company": "CSG",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=c07cadaf129ec5ff",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Software Dev Engr || at CSG. Check it out!"
+        }
+    },
+    {
+        "id": "8373692116924218805",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330953767",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Front End Developer Intern (HTML, CSS, JavaScript, React) at Wake Up Whistle. Check it out!"
+        }
+    },
+    {
+        "id": "4561908120109339843",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331001337",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React Developer at Scoutit. Check it out!"
+        }
+    },
+    {
+        "id": "5963434559416953701",
+        "title": "Software Developer (React)",
+        "company": "Vagaro",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4349522348",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Software Developer (React) at Vagaro. Check it out!"
+        }
+    },
+    {
+        "id": "568680190995604795",
+        "title": "Front-End Developer \u2013 React JS",
+        "company": "Adeptus Technologies Pvt Ltd",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351946971",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Front-End Developer \u2013 React JS at Adeptus Technologies Pvt Ltd. Check it out!"
+        }
+    },
+    {
+        "id": "8623707471761918148",
+        "title": "React JS Developer Intern",
+        "company": "Weboin Digital Marketing Agency",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330941800",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React JS Developer Intern at Weboin Digital Marketing Agency. Check it out!"
+        }
+    },
+    {
+        "id": "-109830851310804202",
+        "title": "React JS Developer",
+        "company": "UST",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351984868",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: React JS Developer at UST. Check it out!"
+        }
+    },
+    {
+        "id": "7177943011885478300",
+        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358794224",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs. Check it out!"
+        }
+    },
+    {
+        "id": "7423091534729357618",
+        "title": "Python developer Internship",
+        "company": "7S IQ Private Limited",
+        "location": "TN, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=0b34c310e1d652dc",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77,
+            "share_message": "Hey! Found this job: Python developer Internship at 7S IQ Private Limited. Check it out!"
+        }
+    },
+    {
+        "id": "4514727218032963730",
+        "title": "UI/UX Designer",
+        "company": "DCS TECHNOSIS PRIVATE LIMITED",
+        "location": "RJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=b5b01ee1a7320cca",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: UI/UX Designer at DCS TECHNOSIS PRIVATE LIMITED. Check it out!"
+        }
+    },
+    {
+        "id": "7046921873531373514",
+        "title": "Full Stack Developer",
+        "company": "OneOnic",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8fcc83cec214fa27",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Full Stack Developer at OneOnic. Check it out!"
+        }
+    },
+    {
+        "id": "1782520230441274860",
+        "title": "Web Designer",
+        "company": "OneOnic",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8468b0bd0de834c0",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Web Designer at OneOnic. Check it out!"
+        }
+    },
+    {
+        "id": "8634291706483177164",
+        "title": "Laravel Developer Trainee",
+        "company": "Meridian Solutions Inc",
+        "location": "KL, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=2b9f333e505d57b3",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Laravel Developer Trainee at Meridian Solutions Inc. Check it out!"
+        }
+    },
+    {
+        "id": "-3359437028632182267",
+        "title": "Java Full Stack Developer Intern",
+        "company": "profenaa infotech",
+        "location": "TN, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=7fa5eea2c26aa91d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Java Full Stack Developer Intern at profenaa infotech. Check it out!"
+        }
+    },
+    {
+        "id": "-820603520133834150",
+        "title": "Java Developer (AWS/React)",
+        "company": "People Prime Worldwide",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330647437",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Java Developer (AWS/React) at People Prime Worldwide. Check it out!"
+        }
+    },
+    {
+        "id": "2438598051986315772",
+        "title": "HIH-Co-Op/Intern (Non-US-Only)",
+        "company": "The Cigna Group",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=b905028936d5de99",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: HIH-Co-Op/Intern (Non-US-Only) at The Cigna Group. Check it out!"
+        }
+    },
+    {
+        "id": "-3197897251117191400",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351947048",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Python Software Developer Intern at Skillzenloop. Check it out!"
+        }
+    },
+    {
+        "id": "5309547315529328421",
+        "title": "Software Developer (PHP Freshers)",
+        "company": "Stratbeans Learning Solutions",
+        "location": "Gurgaon, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330738656",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Software Developer (PHP Freshers) at Stratbeans Learning Solutions. Check it out!"
+        }
+    },
+    {
+        "id": "-1070898538316277644",
+        "title": "Associate software engineer (Angular, Spring boot/ Java)",
+        "company": "NielsenIQ",
+        "location": "TN, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=32065a8d0b834c59",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42,
+            "share_message": "Hey! Found this job: Associate software engineer (Angular, Spring boot/ Java) at NielsenIQ. Check it out!"
+        }
+    },
+    {
+        "id": "6487396617133884298",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8c995df5c3d8ca4d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Industry Subject Matter Advisor at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "-1735406276444146134",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=042ed7948c51dce6",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Industry Subject Matter Advisor at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "-2170278745656118166",
+        "title": "Custom Software Engineer",
+        "company": "Accenture",
+        "location": "KA, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=fa04cda9acb8d585",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71,
+            "share_message": "Hey! Found this job: Custom Software Engineer at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "-4435556105566842105",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=52c0e1376fba6e5d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Industry Subject Matter Advisor at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "-8900784666960411636",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=f74d9176937ea37a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Industry Subject Matter Advisor at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "6333719706636283493",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8ab878ce018548e5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14,
+            "share_message": "Hey! Found this job: Industry Subject Matter Advisor at Accenture. Check it out!"
+        }
+    },
+    {
+        "id": "6180899908610643298",
+        "title": "Fullstack Developer(Python/React/Java/.net/Angular)",
+        "company": "Fractal",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-08T22:30:04.759021+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/3873350074",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20,
+            "share_message": "Hey! Found this job: Fullstack Developer(Python/React/Java/.net/Angular) at Fractal. Check it out!"
+        }
+    },
+    {
         "id": "-7020474603817865921",
         "title": "Front End Developer",
         "company": "Unknown",
@@ -13116,411 +13671,6 @@
         "location": "Bengaluru, Karnataka, India",
         "date_posted": "Unknown",
         "found_at": "2026-01-07 23:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4336606556",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Full-Stack Software Engineer - Front-End (Angular, React, NodeJS) at Cisco. Check it out!"
-        }
-    },
-    {
-        "id": "3120774926263607716",
-        "title": "Software Engineer",
-        "company": "J. J. Keller & Associates, Inc",
-        "location": "KA, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=d7e108c8bf0ffe76",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Software Engineer at J. J. Keller & Associates, Inc. Check it out!"
-        }
-    },
-    {
-        "id": "5231068941900166021",
-        "title": "Developer III",
-        "company": "RealPage Inc",
-        "location": "TS, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=6c7a56e16d48ba6f",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57,
-            "share_message": "Hey! Found this job: Developer III at RealPage Inc. Check it out!"
-        }
-    },
-    {
-        "id": "-6813107214724649375",
-        "title": "Developer",
-        "company": "Tata Consultancy Services (TCS)",
-        "location": "MH, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=19d17c190a102694",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Developer at Tata Consultancy Services (TCS). Check it out!"
-        }
-    },
-    {
-        "id": "1750068450157555723",
-        "title": "Staff Specialist IT - Java Fullstack Developer",
-        "company": "Infineon Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2025-09-29",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=9283f5c09b99fb33",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Staff Specialist IT - Java Fullstack Developer at Infineon Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "-6653629388428669505",
-        "title": "Specialist IT - Java FullStack Developer",
-        "company": "Infineon Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2025-07-31",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=ae1da6ef06d16f5e",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57,
-            "share_message": "Hey! Found this job: Specialist IT - Java FullStack Developer at Infineon Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "4717386683137183356",
-        "title": "Specialist IT - Java FullStack Developer",
-        "company": "Infineon Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2025-07-31",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=824ffc020459940c",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57,
-            "share_message": "Hey! Found this job: Specialist IT - Java FullStack Developer at Infineon Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "3030118162433668958",
-        "title": "Specialist IT - Java FullStack Developer",
-        "company": "Infineon Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2024-11-26",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=27cf32298694c538",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Specialist IT - Java FullStack Developer at Infineon Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "-8052818526613969388",
-        "title": "Frontend React Developer (Fresher)",
-        "company": "Synup",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4358442567",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Frontend React Developer (Fresher) at Synup. Check it out!"
-        }
-    },
-    {
-        "id": "2350596332077332321",
-        "title": "React JS Front-end developer - SC - 1",
-        "company": "Capco",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4331893807",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: React JS Front-end developer - SC - 1 at Capco. Check it out!"
-        }
-    },
-    {
-        "id": "2699602168168513054",
-        "title": "React JS Developer",
-        "company": "Concentrix",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4351943605",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: React JS Developer at Concentrix. Check it out!"
-        }
-    },
-    {
-        "id": "8092813161213893350",
-        "title": "Full Stack (Java + React Js) Developer",
-        "company": "Deloitte",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4351963174",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Full Stack (Java + React Js) Developer at Deloitte. Check it out!"
-        }
-    },
-    {
-        "id": "3392864876887779734",
-        "title": "Frontend Developer-ReactJs",
-        "company": "Solytics Partners",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4351645209",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Frontend Developer-ReactJs at Solytics Partners. Check it out!"
-        }
-    },
-    {
-        "id": "1809826810901772325",
-        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4358157575",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: Front-End Developer Intern (HTML, CSS, JavaScript, React)) at Skillfied Mentor Jobs. Check it out!"
-        }
-    },
-    {
-        "id": "3717815741180348794",
-        "title": "React Developer",
-        "company": "Docdort",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://www.linkedin.com/jobs/view/4330752552",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20,
-            "share_message": "Hey! Found this job: React Developer at Docdort. Check it out!"
-        }
-    },
-    {
-        "id": "5050465486523868522",
-        "title": "Laravel Developer-Fresher",
-        "company": "Spexion Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=79ddd7591a631979",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 77,
-            "share_message": "Hey! Found this job: Laravel Developer-Fresher at Spexion Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "-7183781616812539288",
-        "title": "Java Backend Developer (Urgent Requirement, Agra)",
-        "company": "SuvarnamERP Bussiness Solution",
-        "location": "UP, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=50fdfbc128737e74",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42,
-            "share_message": "Hey! Found this job: Java Backend Developer (Urgent Requirement, Agra) at SuvarnamERP Bussiness Solution. Check it out!"
-        }
-    },
-    {
-        "id": "-931316226178772713",
-        "title": "Software Engineer",
-        "company": "Bytes Technolab",
-        "location": "GJ, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=0afb0e3ad3ba3c1b",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42,
-            "share_message": "Hey! Found this job: Software Engineer at Bytes Technolab. Check it out!"
-        }
-    },
-    {
-        "id": "-8421567254241892956",
-        "title": "Full Stack Developer Internship",
-        "company": "mxpertz",
-        "location": "MP, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=c35416484949fd73",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 71,
-            "share_message": "Hey! Found this job: Full Stack Developer Internship at mxpertz. Check it out!"
-        }
-    },
-    {
-        "id": "5288418043188252401",
-        "title": "MERN Stack Developer Intern",
-        "company": "nature craft organica",
-        "location": "PB, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=1edb601bc76fc46a",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57,
-            "share_message": "Hey! Found this job: MERN Stack Developer Intern at nature craft organica. Check it out!"
-        }
-    },
-    {
-        "id": "2470276366078380599",
-        "title": "Full Stack Developer (Next.js / NestJS / Cloud & Microservices)",
-        "company": "VocalHeart Infotech pvt. ltd.",
-        "location": "MP, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=0e793445b76b14ca",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 85,
-            "share_message": "Hey! Found this job: Full Stack Developer (Next.js / NestJS / Cloud & Microservices) at VocalHeart Infotech pvt. ltd.. Check it out!"
-        }
-    },
-    {
-        "id": "1471584796291876028",
-        "title": "PHP Developer",
-        "company": "ApplogiQ",
-        "location": "KA, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=4e22c3a38f89352d",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: PHP Developer at ApplogiQ. Check it out!"
-        }
-    },
-    {
-        "id": "-4488319053496751588",
-        "title": "GenAI Engineer",
-        "company": "Enterprise Minds Inc",
-        "location": "TS, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=985bec28797d901a",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: GenAI Engineer at Enterprise Minds Inc. Check it out!"
-        }
-    },
-    {
-        "id": "-4939744602677483853",
-        "title": "AWS Node Developer",
-        "company": "Virtusa",
-        "location": "TN, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=f967551e70c35944",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: AWS Node Developer at Virtusa. Check it out!"
-        }
-    },
-    {
-        "id": "97206203570706837",
-        "title": "AWS Node Developer",
-        "company": "Virtusa",
-        "location": "TN, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=815acced96d68ba5",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: AWS Node Developer at Virtusa. Check it out!"
-        }
-    },
-    {
-        "id": "-6808448514587872974",
-        "title": "Mern + PHP Developer",
-        "company": "NxEev Technologies",
-        "location": "MH, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=cfd38657b00ea2a5",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Mern + PHP Developer at NxEev Technologies. Check it out!"
-        }
-    },
-    {
-        "id": "-4440270320137971625",
-        "title": "Full Stack Developer",
-        "company": "IT professionals Co- Operative Society",
-        "location": "Kottayam, KL, IN",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-07 22:29",
-        "job_url": "https://in.indeed.com/viewjob?jk=bfe0ff365fb10241",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14,
-            "share_message": "Hey! Found this job: Full Stack Developer at IT professionals Co- Operative Society. Check it out!"
-        }
-    },
-    {
-        "id": "3745340262881694901",
-        "title": "Full-Stack Software Engineer - Front-End (Angular, React, NodeJS)",
-        "company": "Cisco",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-07 22:29",
         "job_url": "https://www.linkedin.com/jobs/view/4336606556",
         "site": "linkedin",
         "analysis": {
