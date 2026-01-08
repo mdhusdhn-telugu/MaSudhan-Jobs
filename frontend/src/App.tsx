@@ -21,7 +21,6 @@ function App() {
   const [jobs, setJobs] = useState<Job[]>([])
 
   useEffect(() => {
-    // Add random param to force fresh data load
     fetch(`/data/jobs.json?t=${Date.now()}`)
       .then(res => res.json())
       .then(data => {
@@ -36,28 +35,33 @@ function App() {
     window.open(whatsappUrl, '_blank');
   };
 
-  const getTimingLabel = (foundAt?: string) => {
-    if (!foundAt) return "Recently";
+  // CALCULATE "X MINS AGO"
+  const getTimeAgo = (isoDate?: string) => {
+    if (!isoDate) return 'Recently';
     
-    // foundAt format: "YYYY-MM-DD HH:MM"
-    const [datePart, timePart] = foundAt.split(' ');
+    // Convert UTC string to Date Object
+    const past = new Date(isoDate);
+    const now = new Date();
     
-    // Get today's date in YYYY-MM-DD
-    const today = new Date();
-    const todayStr = today.toISOString().split('T')[0];
+    const diffMs = now.getTime() - past.getTime();
+    const diffMins = Math.floor(diffMs / 60000);
 
-    // Get yesterday's date
-    const yesterday = new Date(today);
-    yesterday.setDate(yesterday.getDate() - 1);
-    const yesterdayStr = yesterday.toISOString().split('T')[0];
+    if (diffMins < 1) return 'Just now';
+    if (diffMins < 60) return `${diffMins} mins ago`;
+    
+    const diffHrs = Math.floor(diffMins / 60);
+    if (diffHrs < 24) return `${diffHrs} hours ago`;
+    
+    return 'Yesterday';
+  };
 
-    if (datePart === todayStr) {
-      return `Found Today at ${timePart}`;
-    } else if (datePart === yesterdayStr) {
-      return `Found Yesterday at ${timePart}`;
-    } else {
-      return `Found on ${datePart}`;
-    }
+  // BEAUTIFY SOURCE NAME
+  const getSourceLabel = (site: string) => {
+    const s = site.toLowerCase();
+    if (s.includes('linkedin')) return 'LinkedIn';
+    if (s.includes('indeed')) return 'Indeed';
+    if (s.includes('zip')) return 'ZipRecruiter';
+    return site; // Fallback
   };
 
   return (
@@ -67,7 +71,7 @@ function App() {
           <span className="icon">M</span>
           <div>
             <h1>MaSudhan's</h1>
-            <p>LIVE FEED (Last 24 Hours Only)</p>
+            <p>LIVE FEED (Last 24 Hours)</p>
           </div>
         </div>
         <div className="stats">
@@ -92,11 +96,15 @@ function App() {
               <div className="company-info">
                 <p className="company">{job.company}</p>
                 <div className="meta">
-                  <span>📍 {job.location}</span>
+                  {/* SOURCE BADGE */}
+                  <span className="source-tag">{getSourceLabel(job.site)}</span>
+                  
+                  {/* TIME AGO BADGE */}
                   <span className="time-tag">
-                    🕒 {getTimingLabel(job.found_at)}
+                    🕒 {getTimeAgo(job.found_at)}
                   </span>
                 </div>
+                <p className="location-text">📍 {job.location}</p>
               </div>
 
               <div className="actions">
