@@ -114,23 +114,22 @@ def main():
     existing_jobs = load_existing_jobs()
     fresh_jobs = []
     
-    # Calculate cutoff time (24 hours ago)
-    # If a job has been in our list for > 24 hours, DELETE IT.
-    cutoff_time = datetime.now() - timedelta(hours=24)
+    # Cutoff: 24 hours ago (Using UTC to match new format)
+    cutoff_time = datetime.now(timezone.utc) - timedelta(hours=24)
     
     for job in existing_jobs:
         try:
-            # Check the "found_at" timestamp
-            found_at_str = job.get('found_at', '')
-            # Assume format is YYYY-MM-DD HH:MM
-            job_time = datetime.strptime(found_at_str, "%Y-%m-%d %H:%M")
+            # Handle both old format (No Z) and new format (ISO with Z)
+            t_str = job.get('found_at', '')
+            if 'T' in t_str:
+                job_time = datetime.fromisoformat(t_str)
+            else:
+                # Legacy support for old format
+                job_time = datetime.strptime(t_str, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
             
             if job_time > cutoff_time:
                 fresh_jobs.append(job)
-            else:
-                print(f"🗑️ Deleting old job: {job['title']} (Found >24h ago)")
         except:
-            # If timestamp is broken or missing, delete it to be safe
             pass
             
     existing_ids = {job['id'] for job in fresh_jobs}
@@ -140,7 +139,6 @@ def main():
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
-            # We scrape aggressively but rely on the PURGE to keep the list clean
             jobs = scrape_jobs(
                 site_name=["linkedin", "indeed", "zip_recruiter"], 
                 search_term=query,
@@ -154,7 +152,8 @@ def main():
             print(f"   Error scraping {query}: {e}")
 
     new_jobs = []
-    current_time_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    # Save Current Time in UTC ISO Format
+    current_time_iso = datetime.now(timezone.utc).isoformat()
 
     if all_scraped_jobs:
         jobs_df = pd.concat(all_scraped_jobs, ignore_index=True)
@@ -178,7 +177,7 @@ def main():
                 "company": company,
                 "location": clean_val(row.get('location')),
                 "date_posted": clean_val(row.get('date_posted')),
-                "found_at": current_time_str,  # Marks exactly when WE found it
+                "found_at": current_time_iso,  # SAVES AS UTC ISO
                 "job_url": url,
                 "site": clean_val(row.get('site', 'unknown')),
                 "analysis": analysis
@@ -188,8 +187,7 @@ def main():
 
     print(f"✅ Found {len(new_jobs)} BRAND NEW jobs.")
 
-    # 3. MERGE: Newest jobs on top
-    # [New Jobs found just now] + [Jobs found earlier today]
+    # 3. MERGE
     updated_feed = new_jobs + fresh_jobs
 
     # Save
