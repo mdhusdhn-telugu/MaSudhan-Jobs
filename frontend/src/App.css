@@ -214,3 +214,19 @@ header p {
 .apply-btn:hover {
   background: #1e293b;
 }
+/* Source Badge (e.g., LinkedIn) */
+.source-tag {
+  background: #0077b5; /* LinkedIn Blue */
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.location-text {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-top: 0.5rem;
+}
