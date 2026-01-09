@@ -6,46 +6,48 @@ from email.mime.multipart import MIMEMultipart
 import pandas as pd
 from jobspy import scrape_jobs
 from datetime import datetime, timezone, timedelta
+import re
 
 # --- CLOUD CONFIG ---
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_PASS = os.environ.get("GMAIL_PASS")
 TO_EMAIL   = os.environ.get("TO_EMAIL")
 
-# --- CONFIG ---
+# --- MASTER CONFIG ---
 CONFIG = {
     "search_queries": [
-        "Python Developer Entry Level",
-        "Junior React Developer",
-        "Frontend Developer Fresher",
-        "Amazon University Hiring Software",
-        "TCS NQT Fresher",
-        "Accenture Associate Software Engineer",
-        "Off Campus Drive Batch 2024 2025",
-        "Software Engineer Intern India",
+        "Python Developer Fresher",
+        "Java Developer Entry Level",
+        "React Developer Intern",
+        "Frontend Developer 0-1 Years",
+        "Software Engineer Batch 2024 2025",
+        "TCS NQT Off Campus",
+        "Amazon University Hiring",
+        "Graduate Engineer Trainee",
         "Junior Full Stack Developer",
-        "Wipro Fresher Hiring"
+        "Associate Software Engineer"
     ],
-    "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript"], 
-    "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Hirist", "Patterned Learning"], 
-    "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Sr.", "Head"],
-    "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "bpo"] 
+    "skills_owned": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "React", "TypeScript", "Java", "C++"], 
+    
+    # STRICT BLOCKLIST
+    "blacklisted_companies": ["Dice", "Braintrust", "Toptal", "CyberCoders", "Hirist", "Patterned Learning", "Crossover"], 
+    "blacklisted_titles": ["Senior", "Lead", "Principal", "Manager", "Sr.", "Head", "Architect", "Staff", "II", "III"],
+    "blacklisted_keywords": ["flutter", "dart", "android", "ios", "sales", "bpo", "telecaller", "customer support"] 
 }
 
 def is_8pm_ist():
-    current_utc = datetime.now(timezone.utc)
-    return current_utc.hour == 14
+    return datetime.now(timezone.utc).hour == 14
 
 def send_email_alert(new_jobs_count, top_new_job):
     if not is_8pm_ist(): return 
     if new_jobs_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 Daily Summary: {new_jobs_count} New Jobs"
+    subject = f"🚀 Daily Summary: {new_jobs_count} Fresh Jobs"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     body = f"""
     <html><body>
         <h2>Hi MaSudhan,</h2>
-        <p><b>{new_jobs_count} clean jobs</b> found today.</p>
+        <p><b>{new_jobs_count} jobs</b> passed the Fresher Filter today.</p>
         <p><b>Top Pick:</b> {top_new_job['title']} at {top_new_job['company']}</p>
         <p><a href="{dashboard_url}">Open Live Feed</a></p>
     </body></html>
@@ -64,9 +66,37 @@ def send_email_alert(new_jobs_count, top_new_job):
         print("📧 Email Alert Sent!")
     except Exception: pass
 
+# --- THE NEW "EXPERIENCE GUARD" ---
+def is_fresher_friendly(description):
+    desc_lower = description.lower()
+    
+    # 1. Look for "Years Experience" patterns
+    # Matches: "3+ years", "3-5 years", "minimum 4 years", "5 yrs"
+    # We explicitly allow "0-1", "0-2", "0 to 1"
+    
+    # Regex to find years logic
+    # Look for a number followed by "year" or "yr"
+    patterns = re.findall(r'(\d+)\s*(?:\+|plus)?\s*(?:-|\s*to\s*)?\s*(\d+)?\s*(?:years?|yrs?)', desc_lower)
+    
+    for match in patterns:
+        min_exp = int(match[0])
+        # If minimum experience required is > 1 year, REJECT IT
+        if min_exp > 1:
+            return False, f"Requires {min_exp}+ years"
+            
+    # 2. Look for "Senior" keywords in description that usually imply experience
+    bad_phrases = ["5+ years", "3+ years", "4+ years", "senior level", "expert level"]
+    for phrase in bad_phrases:
+        if phrase in desc_lower:
+            return False, f"Contains '{phrase}'"
+
+    return True, "Fresher Friendly"
+
 def analyze_job(desc, title, company):
     desc_lower = desc.lower()
     title_lower = title.lower()
+    
+    # 1. Metadata Filters
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
     for title_block in CONFIG['blacklisted_titles']:
@@ -74,9 +104,21 @@ def analyze_job(desc, title, company):
     for bad_kw in CONFIG['blacklisted_keywords']:
         if bad_kw in title_lower: return {"is_suitable": False}
 
+    # 2. STRICT EXPERIENCE CHECK (New!)
+    is_fresh, reason = is_fresher_friendly(desc)
+    if not is_fresh:
+        return {"is_suitable": False, "reason": reason}
+
+    # 3. Score
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in desc_lower]
     match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 100
-    if "python" in title_lower or "react" in title_lower or "fresh" in title_lower: match_score += 20
+    
+    # Boost for explicitly fresher titles
+    if "fresher" in title_lower or "trainee" in title_lower or "intern" in title_lower or "entry" in title_lower:
+        match_score += 25
+    elif "python" in title_lower or "react" in title_lower:
+        match_score += 15
+        
     match_score = min(int(match_score), 100)
 
     if match_score < 10: return {"is_suitable": False}
@@ -95,19 +137,15 @@ def load_existing_jobs():
     return []
 
 def main():
-    print("🚀 Starting Deduplicated Scraper...")
+    print("🚀 Starting MULTI-SOURCE Scraper (Google + LinkedIn + Indeed)...")
     
-    # 1. Load History
     existing_jobs = load_existing_jobs()
     fresh_jobs = []
-    
-    # Track "Signatures" to block duplicates (Title + Company)
-    # This prevents storing "Amazon Engineer" 20 times
     seen_signatures = set()
     
+    # Purge old jobs (>24h)
     cutoff_time = datetime.now(timezone.utc) - timedelta(hours=24)
     
-    # Filter old jobs
     for job in existing_jobs:
         try:
             t_str = job.get('found_at', '')
@@ -115,23 +153,21 @@ def main():
             else: job_time = datetime.strptime(t_str, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
             
             if job_time > cutoff_time:
-                # Create signature: "software engineer|amazon"
                 sig = f"{job['title'].lower().strip()}|{job['company'].lower().strip()}"
-                
-                # Only keep if we haven't seen this Title+Company combo yet
                 if sig not in seen_signatures:
                     fresh_jobs.append(job)
                     seen_signatures.add(sig)
         except: pass
-            
-    print(f"🧹 Database cleaned. Kept {len(fresh_jobs)} unique recent jobs.")
+    
+    print(f"🧹 Database cleaned. Kept {len(fresh_jobs)} recent jobs.")
 
-    # 2. Scrape
+    # --- SCRAPING (Added 'google' source) ---
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
+            # ADDED "google" to the list!
             jobs = scrape_jobs(
-                site_name=["linkedin", "indeed", "zip_recruiter"], 
+                site_name=["linkedin", "indeed", "zip_recruiter", "google"], 
                 search_term=query,
                 location="India",
                 results_wanted=15, 
@@ -139,7 +175,8 @@ def main():
                 country_indeed='india'
             )
             all_scraped_jobs.append(jobs)
-        except Exception: pass
+        except Exception as e:
+            print(f"   Error scraping {query}: {e}")
 
     new_jobs = []
     current_time_iso = datetime.now(timezone.utc).isoformat()
@@ -151,13 +188,14 @@ def main():
             title = clean_val(row.get('title'))
             company = clean_val(row.get('company'))
             
-            # CHECK FOR DUPLICATE SPAM
+            # Spam Block
             sig = f"{title.lower().strip()}|{company.lower().strip()}"
-            if sig in seen_signatures:
-                continue # Skip this duplicate!
+            if sig in seen_signatures: continue
             
             url = clean_val(row.get('job_url'))
             desc = clean_val(row.get('description'))
+            
+            # Filter
             analysis = analyze_job(desc, title, company)
             if not analysis['is_suitable']: continue
 
@@ -173,9 +211,9 @@ def main():
                 "analysis": analysis
             }
             new_jobs.append(new_job_entry)
-            seen_signatures.add(sig) # Mark this job as seen so we don't save it again
+            seen_signatures.add(sig)
 
-    print(f"✅ Found {len(new_jobs)} UNIQUE new jobs.")
+    print(f"✅ Found {len(new_jobs)} UNIQUE Fresh jobs.")
 
     updated_feed = new_jobs + fresh_jobs
     
