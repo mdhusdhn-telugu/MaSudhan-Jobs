@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6258563820764419888",
+        "title": "MERN Stack Developer",
+        "company": "ALOBHA TECHNOLOGIES",
+        "location": "UP, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T06:46:36.148828+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=a5e326eabc785e43",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "-175238061653957288",
+        "title": "MERN Stack Developer",
+        "company": "Alobha Technologies Pvt. Ltd",
+        "location": "UP, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T06:46:36.148828+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=a201491ab7fabee8",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "-4511968177600187718",
+        "title": "Frontend Engineer - React.js (1-2yrs)",
+        "company": "Wisemonk",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T06:46:36.148828+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332250886",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
         "id": "-1237903921325377673",
         "title": "Front End Developer",
         "company": "Unknown",
