@@ -1,5 +1,47 @@
 [
     {
+        "id": "6718097928339609576",
+        "title": "Frontend Engineer (React & TypeScript)",
+        "company": "Codefeast",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T15:32:47.331808+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331081835",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "3919293314961041170",
+        "title": "Golang Developer",
+        "company": "Agastya Hire World",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T15:32:47.331808+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=e5b4d85b5434f5a4",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-4436031702968562920",
+        "title": "Jr. Full Stack Developer",
+        "company": "Makto Technology Private Limited",
+        "location": "TN, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T15:32:47.331808+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=13d2b35273297359",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
         "id": "-8651712283398718935",
         "title": "Associate Staff Engineer (ReactJS)",
         "company": "Nagarro",
