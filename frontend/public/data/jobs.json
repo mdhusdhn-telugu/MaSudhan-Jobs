@@ -1,5 +1,47 @@
 [
     {
+        "id": "-2935032943856932533",
+        "title": "Trainee Test Engineer PMO replacement",
+        "company": "QualityKiosk",
+        "location": "MH, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T17:30:11.307112+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=6db24ff3d6f9b710",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
+        "id": "-2640136053802792268",
+        "title": "Java Full Stack Developer",
+        "company": "Appex Innovation",
+        "location": "MH, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T17:30:11.307112+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=383cdc097301efc5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 66
+        }
+    },
+    {
+        "id": "-2138881469151463612",
+        "title": "Apprentice - Product Management & Quality Excellence (12 Months)",
+        "company": "American Express",
+        "location": "HR, IN",
+        "date_posted": "2025-11-24",
+        "found_at": "2026-01-09T17:30:11.307112+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=b49295417dafb792",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 11
+        }
+    },
+    {
         "id": "-733270192720085434",
         "title": "Front-End Developer Intern",
         "company": "UM IT Solutions",
