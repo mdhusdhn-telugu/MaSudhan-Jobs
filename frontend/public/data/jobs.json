@@ -1,5 +1,19 @@
 [
     {
+        "id": "-733270192720085434",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T16:38:34.722380+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359724134",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
         "id": "7630232379542327548",
         "title": "Backend Developer",
         "company": "VRND BUSSINESS SOLUTIONS",
