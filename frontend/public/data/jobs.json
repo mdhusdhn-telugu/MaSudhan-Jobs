@@ -1,5 +1,47 @@
 [
     {
+        "id": "-8651712283398718935",
+        "title": "Associate Staff Engineer (ReactJS)",
+        "company": "Nagarro",
+        "location": "MH, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T14:32:52.053243+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=2a2311c2a120749d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77
+        }
+    },
+    {
+        "id": "-5134504172123862208",
+        "title": "Frontend Engineer (React.js, ERP Platform)",
+        "company": "Apphox Technology Pvt Ltd",
+        "location": "KA, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T14:32:52.053243+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=75d8c3e230ea5dc4",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 91
+        }
+    },
+    {
+        "id": "3762869647621135858",
+        "title": "ERP Specialist",
+        "company": "NTT DATA",
+        "location": "KA, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T14:32:52.053243+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=d9a79981033a3250",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28
+        }
+    },
+    {
         "id": "-266835548269375574",
         "title": "MERN Stack Developer",
         "company": "Blended Pedagogy Private Limited",
