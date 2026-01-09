@@ -1,1 +1,464 @@
-[]
+[
+    {
+        "id": "-1237903921325377673",
+        "title": "Front End Developer",
+        "company": "Unknown",
+        "location": "DL, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=c1aee677cfff9199",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "2987859821030856762",
+        "title": "Software Development Engineer III",
+        "company": "Tesco",
+        "location": "KA, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=1877ca867809a66d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-9203296059670758515",
+        "title": "Jr PHP Laravel Developer",
+        "company": "Kirag Technology Pvt Ltd",
+        "location": "UP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=ae4d45f8788c8da5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "4367096605534800983",
+        "title": "Full Stack Developer",
+        "company": "Cordelia Cruises",
+        "location": "MH, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=152b54417058c50e",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "2465164532444090507",
+        "title": "IICS Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=a30ffc940d7e6aa5",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "7269043383656300768",
+        "title": "ETL Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=28a3d92a6266e5ed",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-1936421753779807570",
+        "title": "ETL IICS Developer",
+        "company": "Virtusa Lifespaces India Pvt Ltd",
+        "location": "AP, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=c93dd517a1207784",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-6351314663983089552",
+        "title": "React Express Developers",
+        "company": "Goldberries Consulting Pvt Ltd.",
+        "location": "MH, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=cee7fdce0914d7e1",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 48
+        }
+    },
+    {
+        "id": "-6576281841706137984",
+        "title": "React Js Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331281908",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-3610636686035564654",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330953767",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-8050270849181352076",
+        "title": "Software Developer (React)",
+        "company": "Vagaro",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4349522348",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "5641607714380751439",
+        "title": "Software Developers (Java/Python/React/Grafana)",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331581466",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-7195334090980747457",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331001337",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-4593049526516587011",
+        "title": "React Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351974618",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "1216695688996977099",
+        "title": "React JS Developer",
+        "company": "UST",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351984868",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-1833820882767393069",
+        "title": "Front-End Developer \u2013 React JS",
+        "company": "Adeptus Technologies Pvt Ltd",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351946971",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-8259043220409019862",
+        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358794224",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "7281457119405724482",
+        "title": "Software Developers (Java/Python/ReactJS/Atlassian JIRA)",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331951464",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-5470089991406197733",
+        "title": "Web Developer",
+        "company": "Emagesoft Pvt Ltd",
+        "location": "KA, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=4adbf1ce2e4af62c",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-7729145005298812690",
+        "title": "Full Stack Developer",
+        "company": "C.T Solution Pvt. Ltd.",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-09",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=37790fb4384adb71",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "7823977610258654259",
+        "title": "Python developer Internship",
+        "company": "7S IQ Private Limited",
+        "location": "TN, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=0b34c310e1d652dc",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 77
+        }
+    },
+    {
+        "id": "-6913943752659694189",
+        "title": "UI/UX Designer",
+        "company": "DCS TECHNOSIS PRIVATE LIMITED",
+        "location": "RJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=b5b01ee1a7320cca",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "-1417741834968991859",
+        "title": "Full Stack Developer",
+        "company": "OneOnic",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8fcc83cec214fa27",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "6605962006028544699",
+        "title": "Web Designer",
+        "company": "OneOnic",
+        "location": "GJ, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8468b0bd0de834c0",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-2422646574994909183",
+        "title": "Laravel Developer Trainee",
+        "company": "Meridian Solutions Inc",
+        "location": "KL, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=2b9f333e505d57b3",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "1328851443910034066",
+        "title": "Software Dev Engineer I, Amazon University Talent Acquisition",
+        "company": "Amazon.com",
+        "location": "MH, IN",
+        "date_posted": "2025-11-18",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=52eec2259c084b85",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-3141059997977438524",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351947048",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "1133554036774342608",
+        "title": "Software Developer (PHP Freshers)",
+        "company": "Stratbeans Learning Solutions",
+        "location": "Gurgaon, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330738656",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "9072303120559293577",
+        "title": "Associate software engineer (Angular, Spring boot/ Java)",
+        "company": "NielsenIQ",
+        "location": "TN, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=32065a8d0b834c59",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "7062104107347738129",
+        "title": "Industry Subject Matter Advisor",
+        "company": "Accenture",
+        "location": "TS, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=8c995df5c3d8ca4d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "994704109170094954",
+        "title": "Custom Software Engineer",
+        "company": "Accenture",
+        "location": "KA, IN",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=fa04cda9acb8d585",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-5932179074157411054",
+        "title": "Software Developer",
+        "company": "Oracle",
+        "location": "KA, IN",
+        "date_posted": "2025-11-21",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=606889b93a91222a",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 14
+        }
+    },
+    {
+        "id": "-2930200575319025688",
+        "title": "Fullstack Developer(Python/React/Java/.net/Angular)",
+        "company": "Fractal",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-09T05:20:45.132181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/3873350074",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    }
+]
