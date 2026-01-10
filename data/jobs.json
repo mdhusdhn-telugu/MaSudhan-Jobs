@@ -1,5 +1,47 @@
 [
     {
+        "id": "-3369873785510776561",
+        "title": "Associate Software Engineer (AI)",
+        "company": "Boeing",
+        "location": "Nirmal, Telangana, India",
+        "date_posted": "2026-01-06",
+        "found_at": "2026-01-10T04:00:19.203738+00:00",
+        "job_url": "https://in.jobrapido.com/jobpreview/3647451646281121792?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 11
+        }
+    },
+    {
+        "id": "-8184984565190305870",
+        "title": "Associate Value Engineering - Orbit India",
+        "company": "Celonis",
+        "location": "India",
+        "date_posted": "2025-12-24",
+        "found_at": "2026-01-10T04:00:19.203738+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/associate-value-engineering-orbit-india-at-celonis-4310724331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 11
+        }
+    },
+    {
+        "id": "-8018904799639376867",
+        "title": "Associate Engineer/Engineer",
+        "company": "Qualcomm",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2025-12-18",
+        "found_at": "2026-01-10T04:00:19.203738+00:00",
+        "job_url": "https://in.trabajo.org/job-3814-7b0ee14d04cb1db8d2476be593afeb4e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 11
+        }
+    },
+    {
         "id": "-5423830019582162736",
         "title": "Junior Software Developer, Mumbai Office",
         "company": "Decisions",
