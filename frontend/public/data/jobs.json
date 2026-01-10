@@ -1,5 +1,33 @@
 [
     {
+        "id": "6425287808441631434",
+        "title": "Python/Mern stack Intern",
+        "company": "Ether Infotech",
+        "location": "TN, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T08:35:48.423793+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=9e21333d26e66ba6",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 100
+        }
+    },
+    {
+        "id": "9168205273595293503",
+        "title": "Front-End Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T08:35:48.423793+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352452964",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
         "id": "-788682369432267522",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
@@ -959,118 +987,6 @@
         "date_posted": "2026-01-09",
         "found_at": "2026-01-09T08:40:58.108193+00:00",
         "job_url": "https://in.indeed.com/viewjob?jk=b40db4fea7b7cc1d",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
-        }
-    },
-    {
-        "id": "-2879381189976350276",
-        "title": "Product Engineer (Full - Stack & Mar Tech)",
-        "company": "The Art Of Living HR",
-        "location": "KA, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=85155d60335ac5c2",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 28
-        }
-    },
-    {
-        "id": "4961976984752576772",
-        "title": "Associate Staff Engineer, Frontend-React",
-        "company": "Nagarro",
-        "location": "MH, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=b12dd91abde392d2",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 77
-        }
-    },
-    {
-        "id": "8911014052659006097",
-        "title": "Odoo Developer",
-        "company": "Trinesis Tech. Pvt. Ltd.",
-        "location": "MH, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=c161dfd8db91c27b",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 71
-        }
-    },
-    {
-        "id": "6205106000495958388",
-        "title": "Python Full Stack Developer",
-        "company": "Overt ideas & solutions private limited",
-        "location": "TS, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=6f6b4ba27d1c8528",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 62
-        }
-    },
-    {
-        "id": "3264331083284974210",
-        "title": "React JS Developer Intern",
-        "company": "Weboin Digital Marketing Agency",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4330941800",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20
-        }
-    },
-    {
-        "id": "4595818779403418823",
-        "title": "Software Developer(FRESHER)",
-        "company": "Unknown",
-        "location": "KA, IN",
-        "date_posted": "2026-01-08",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=08d19a922fe59b1a",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20
-        }
-    },
-    {
-        "id": "-159505414017300317",
-        "title": "Software Developer (Fresher)",
-        "company": "Nimblix Technologies",
-        "location": "KA, IN",
-        "date_posted": "2026-01-08",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=db7df8ad7c585ca0",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 34
-        }
-    },
-    {
-        "id": "-5707482245480212538",
-        "title": "Front End Developer",
-        "company": "Bluescope Information Technology (P) Ltd",
-        "location": "TN, IN",
-        "date_posted": "2026-01-08",
-        "found_at": "2026-01-09T07:33:25.725835+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=7a6ba000f9ea9b36",
         "site": "indeed",
         "analysis": {
             "is_suitable": true,
