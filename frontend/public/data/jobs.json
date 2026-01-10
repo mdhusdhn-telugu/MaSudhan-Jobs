@@ -1,5 +1,61 @@
 [
     {
+        "id": "912338449202804269",
+        "title": "Front End Developer Intern",
+        "company": "Unknown",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T16:33:36.986834+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=09d87fc0eaa6e658",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 80
+        }
+    },
+    {
+        "id": "-8072225143310059634",
+        "title": "Full Stack Developer Intern",
+        "company": "Fewerclicks Software",
+        "location": "MP, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T16:33:36.986834+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=b0e70ef66ad0d6fe",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 80
+        }
+    },
+    {
+        "id": "7448923887021888822",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T16:33:36.986834+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332591963",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
+        "id": "5066907560992451193",
+        "title": "Graduate Engineering Trainee (GET)-Service",
+        "company": "Unknown",
+        "location": "MH, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T16:33:36.986834+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=483b96a106530865",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
         "id": "2586106990735281270",
         "title": "Frontend Developer Intern",
         "company": "SunsysTechsol Pvt. Ltd.",
@@ -557,398 +613,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 25
-        }
-    },
-    {
-        "id": "7630232379542327548",
-        "title": "Backend Developer",
-        "company": "VRND BUSSINESS SOLUTIONS",
-        "location": "TS, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=9d773ea6935305e1",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 33
-        }
-    },
-    {
-        "id": "296258325039419339",
-        "title": "DevOps Intern",
-        "company": "AIMDek Technologies",
-        "location": "GJ, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=dcd20b1df0fd6c79",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 36
-        }
-    },
-    {
-        "id": "63773573172855150",
-        "title": "PHP Web Developer",
-        "company": "Programers International",
-        "location": "KL, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=5124994027c65f6a",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 66
-        }
-    },
-    {
-        "id": "-3217390267394522494",
-        "title": "React Native Developer Intern",
-        "company": "SAA Consultancy",
-        "location": "MP, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=368e59f9166ae4a5",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 36
-        }
-    },
-    {
-        "id": "927379594943316693",
-        "title": "Full Stack Developer Intern",
-        "company": "LE BEAU CLINIC",
-        "location": "PB, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=415a8a92af9f4b56",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 91
-        }
-    },
-    {
-        "id": "-835105207796751729",
-        "title": "MEAN / MERN Stack Intern",
-        "company": "Kushagra Infotech Services",
-        "location": "UP, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=e952ac5b144b19ff",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 80
-        }
-    },
-    {
-        "id": "6398206382240648638",
-        "title": "React Native Developer Intern",
-        "company": "Codequery",
-        "location": "BR, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=a6ea7b4766bb604d",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 69
-        }
-    },
-    {
-        "id": "-7366139863888344893",
-        "title": "React Developer Intern",
-        "company": "Designing Solutions",
-        "location": "PB, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=96e3446fb218dfd8",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 58
-        }
-    },
-    {
-        "id": "-6374494653451303939",
-        "title": "Intern- Software Developer",
-        "company": "Scorpio Information Technologies Pvt Ltd",
-        "location": "PB, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=b9e1c39249f3bab4",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 100
-        }
-    },
-    {
-        "id": "185124429144168225",
-        "title": "Full Stack Developer Intern",
-        "company": "ICT Global Tech",
-        "location": "KL, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=077e50b9eee530d8",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 91
-        }
-    },
-    {
-        "id": "3126458579040886134",
-        "title": "Trainee Software Engineer (Frontend) - MedInsight (Dev)",
-        "company": "Milliman",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "2026-01-08",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352160691",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "3620154219997605352",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4331554855",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "-4579474560122334978",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359474217",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "1344187853798205229",
-        "title": "Frontend Developer Internship in Agartala",
-        "company": "Prabhabi Infocom",
-        "location": "Agartala, Tripura, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358548811",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "-4168612875582798294",
-        "title": "Associate Software Engineer",
-        "company": "MicroGenesis Techsoft Pvt Ltd",
-        "location": "KA, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=69ef070f80a5efab",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 22
-        }
-    },
-    {
-        "id": "-2132557388761306412",
-        "title": "Diploma Engineer Trainee",
-        "company": "Millenium Mrables",
-        "location": "Silvassa, DD, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=0f15ed58d5ded644",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "522412263374105202",
-        "title": "Graduate Trainee Engineer (GET) - Mechanical & Electrical",
-        "company": "Electrozavod (India) Pvt. Ltd.",
-        "location": "Sankrail, WB, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=b522cf7bb7befc31",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "-1093750902451393753",
-        "title": "Graduate Engineering Trainee- safety",
-        "company": "Kilimanjaro Group of Companies",
-        "location": "Greater Noida, UP, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=e7fb350a166b4069",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "1216573181236354853",
-        "title": "2D Rebar Estimation (fresher)",
-        "company": "IRUMAM Engineering Services",
-        "location": "TN, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=980683889495c4a3",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 25
-        }
-    },
-    {
-        "id": "5865279996096215185",
-        "title": "Associate Software Development Engineer View Jobs",
-        "company": "Swiggy",
-        "location": "KA, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=0c43ed9892abbfe6",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 11
-        }
-    },
-    {
-        "id": "6968816982678504696",
-        "title": "Software Engineering Associate Advisor - HIH - Evernorth",
-        "company": "The Cigna Group",
-        "location": "AP, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=988d1b0a96ba3c49",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 77
-        }
-    },
-    {
-        "id": "-5216659809657091897",
-        "title": "Public Cloud Support Engineer",
-        "company": "Barclays",
-        "location": "MH, IN",
-        "date_posted": "2026-01-08",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=52d37041ed24d1fd",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 11
-        }
-    },
-    {
-        "id": "8432186040587275507",
-        "title": "Python Developer",
-        "company": "Persistent Systems",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4294598179",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 15
-        }
-    },
-    {
-        "id": "-5582034124153665314",
-        "title": "Software Engineer (Python)",
-        "company": "Gartner",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4344527121",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 15
-        }
-    },
-    {
-        "id": "-5349657212333968565",
-        "title": "Python SQL",
-        "company": "Virtusa",
-        "location": "Andhra Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T16:06:42.165576+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4312253931",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 15
-        }
-    },
-    {
-        "id": "6718097928339609576",
-        "title": "Frontend Engineer (React & TypeScript)",
-        "company": "Codefeast",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-09T15:32:47.331808+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4331081835",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 20
-        }
-    },
-    {
-        "id": "3919293314961041170",
-        "title": "Golang Developer",
-        "company": "Agastya Hire World",
-        "location": "Remote, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T15:32:47.331808+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=e5b4d85b5434f5a4",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14
-        }
-    },
-    {
-        "id": "-4436031702968562920",
-        "title": "Jr. Full Stack Developer",
-        "company": "Makto Technology Private Limited",
-        "location": "TN, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T15:32:47.331808+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=13d2b35273297359",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
         }
     }
 ]
