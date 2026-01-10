@@ -1,5 +1,47 @@
 [
     {
+        "id": "6708663804925699661",
+        "title": "React/Next js Intern",
+        "company": "PGAGI Consultancy Pvt. Ltd",
+        "location": "Remote, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T09:28:40.327584+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=6530a42e85acdcda",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 80
+        }
+    },
+    {
+        "id": "1478240654868715880",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T09:28:40.327584+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332581226",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 15
+        }
+    },
+    {
+        "id": "-5004979307534403933",
+        "title": "Freshers - GET",
+        "company": "Radiant Design Engineering private limited",
+        "location": "TN, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T09:28:40.327584+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=a78845d46541c70f",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
         "id": "6425287808441631434",
         "title": "Python/Mern stack Intern",
         "company": "Ether Infotech",
@@ -963,34 +1005,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 20
-        }
-    },
-    {
-        "id": "-4298551467818056384",
-        "title": "MERN Stack Developer Intern",
-        "company": "Unknown",
-        "location": "Perundurai, TN, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T08:40:58.108193+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=128a1719ec560cee",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
-        }
-    },
-    {
-        "id": "9118486289236641047",
-        "title": "Dot Net Developer",
-        "company": "Brandsmashers Tech",
-        "location": "MP, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T08:40:58.108193+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=b40db4fea7b7cc1d",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
         }
     }
 ]
