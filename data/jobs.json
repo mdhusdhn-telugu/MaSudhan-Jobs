@@ -1,5 +1,19 @@
 [
     {
+        "id": "5690750786166387715",
+        "title": "Full Stack Web Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T19:22:22.975367+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345312158",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 25
+        }
+    },
+    {
         "id": "3096727233114010770",
         "title": "Python Developer Intern (Robotics & Real-Time Systems)",
         "company": "PlebC Innovations Pvt. Ltd.",
