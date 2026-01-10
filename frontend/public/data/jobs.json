@@ -1,5 +1,75 @@
 [
     {
+        "id": "-8946366421376319160",
+        "title": "Junior Embedded Developer",
+        "company": "Fleming Embedded and Software Solutions",
+        "location": "KL, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T11:23:43.448803+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=e13bd1beabf8ae5d",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 22
+        }
+    },
+    {
+        "id": "-530700884336462865",
+        "title": "Jr. Python Developer",
+        "company": "Clastek Engineering Pvt Ltd",
+        "location": "TN, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T11:23:43.448803+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=509e33c9a756aa28",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 26
+        }
+    },
+    {
+        "id": "8067993600250963736",
+        "title": "Software Developer Intern",
+        "company": "Mexilet Technologies Private Limited",
+        "location": "Cannanore, KL, IN",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-01-10T11:23:43.448803+00:00",
+        "job_url": "https://in.indeed.com/viewjob?jk=213a428a775d0271",
+        "site": "indeed",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 91
+        }
+    },
+    {
+        "id": "3966078503378926076",
+        "title": "React Front End",
+        "company": "Virtusa",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T11:23:43.448803+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345544256",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 15
+        }
+    },
+    {
+        "id": "1379035160230197139",
+        "title": "React Frontend",
+        "company": "Virtusa",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-10T11:23:43.448803+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345217003",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 15
+        }
+    },
+    {
         "id": "7737388639730255682",
         "title": "Junior Django Developer",
         "company": "Necessive Private Limited",
@@ -977,20 +1047,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 14
-        }
-    },
-    {
-        "id": "-2176941687936769636",
-        "title": "Automation Tester (3+ Years Experience)",
-        "company": "ODED Transformational Technologies",
-        "location": "TS, IN",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-09T10:32:25.835483+00:00",
-        "job_url": "https://in.indeed.com/viewjob?jk=871b3902a80d95cb",
-        "site": "indeed",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 28
         }
     }
 ]
