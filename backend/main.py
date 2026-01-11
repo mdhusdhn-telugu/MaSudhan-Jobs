@@ -34,18 +34,19 @@ CONFIG = {
 
 def is_8pm_ist():
     current_utc = datetime.now(timezone.utc)
+    # Checks if current hour is 14 UTC (which includes 8:00 PM IST)
     return current_utc.hour == 14
 
 def send_email_alert(new_jobs_count, top_new_job):
     if not is_8pm_ist(): return 
     if new_jobs_count == 0 or not GMAIL_USER or not GMAIL_PASS: return
 
-    subject = f"🚀 Daily Summary: {new_jobs_count} High-Match Jobs"
+    subject = f"🚀 Daily Summary: {new_jobs_count} Jobs Found"
     dashboard_url = "https://masudhans-jobs.netlify.app"
     body = f"""
     <html><body>
         <h2>Hi MaSudhan,</h2>
-        <p><b>{new_jobs_count} jobs</b> (Match > 40%) found today.</p>
+        <p><b>{new_jobs_count} jobs</b> (Match > 30%) found today.</p>
         <p><b>Top Pick:</b> {top_new_job['title']} at {top_new_job['company']}</p>
         <p><a href="{dashboard_url}">Open Live Feed</a></p>
     </body></html>
@@ -79,8 +80,8 @@ def analyze_job(desc, title, company):
     if "python" in title_lower or "react" in title_lower or "fresh" in title_lower: match_score += 20
     match_score = min(int(match_score), 100)
 
-    # --- UPDATED: STRICT 40% FILTER ---
-    if match_score < 40: return {"is_suitable": False}
+    # --- UPDATED: 30% FILTER ---
+    if match_score < 30: return {"is_suitable": False}
 
     return {"is_suitable": True, "match_score": match_score}
 
@@ -96,7 +97,7 @@ def load_existing_jobs():
     return []
 
 def main():
-    print("🚀 Starting LinkedIn + Google Scraper...")
+    print("🚀 Starting 30-Min Scraper (Threshold 30%)...")
     
     # 1. Load History
     existing_jobs = load_existing_jobs()
@@ -120,12 +121,12 @@ def main():
             
     print(f"🧹 Database cleaned. Kept {len(fresh_jobs)} recent jobs.")
 
-    # 2. Scrape (ONLY LINKEDIN & GOOGLE)
+    # 2. Scrape (LinkedIn + Google)
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
             jobs = scrape_jobs(
-                site_name=["linkedin", "google"],  # <--- CHANGED HERE
+                site_name=["linkedin", "google"], 
                 search_term=query,
                 location="India",
                 results_wanted=15, 
@@ -152,7 +153,7 @@ def main():
             desc = clean_val(row.get('description'))
             analysis = analyze_job(desc, title, company)
             
-            # If match score < 40%, it gets skipped here
+            # --- CHECK FILTER ---
             if not analysis['is_suitable']: continue
 
             new_job_entry = {
@@ -169,7 +170,7 @@ def main():
             new_jobs.append(new_job_entry)
             seen_signatures.add(sig)
 
-    print(f"✅ Found {len(new_jobs)} quality new jobs (>40% match).")
+    print(f"✅ Found {len(new_jobs)} new jobs (>30% match).")
 
     updated_feed = new_jobs + fresh_jobs
     
