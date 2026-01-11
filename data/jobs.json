@@ -1,5 +1,33 @@
 [
     {
+        "id": "-4991778719004331320",
+        "title": "QA Engineer \u2013 Frontend Automation",
+        "company": "Uplers",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-11T16:48:19.057854+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4339411139",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1875172080031448829",
+        "title": "Full Stack Developer(NextJS/Fastjs)-Remote",
+        "company": "Uplers",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-11T16:48:19.057854+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4339800983",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6524581991434112613",
         "title": "Full Stack Engineer - React.js & Node.js",
         "company": "Talentgigs",
