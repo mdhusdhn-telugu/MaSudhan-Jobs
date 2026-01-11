@@ -2,7 +2,7 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs every hour
+    - cron: "*/30 * * * *" # Runs every 30 minutes
   workflow_dispatch:
 
 permissions:
@@ -39,7 +39,6 @@ jobs:
           
           git add data/jobs.json frontend/public/data/jobs.json
           
-          # I REMOVED "[skip ci]" SO NETLIFY WILL FINALLY SEE THIS!
           git commit -m "Auto-update jobs" || echo "No changes to commit"
           
           git pull --rebase origin main
