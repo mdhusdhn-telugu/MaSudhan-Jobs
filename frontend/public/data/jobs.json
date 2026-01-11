@@ -1,5 +1,33 @@
 [
     {
+        "id": "-7474189420882008017",
+        "title": "Python Developer Jobs",
+        "company": "Various Companies",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-11T23:40:56.621309+00:00",
+        "job_url": "https://www.djobbuzz.com/skill/job-by-skill/15/python-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
+        "id": "-5641748636209644898",
+        "title": "Python Trainer & Developer",
+        "company": "Operations Cognizants",
+        "location": "New Delhi, Delhi, India",
+        "date_posted": "2025-12-21",
+        "found_at": "2026-01-11T23:40:56.621309+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3942&job-name=Python+Trainer+&+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
         "id": "-331730945792914325",
         "title": "Frontend Engineer",
         "company": "basys.ai",
