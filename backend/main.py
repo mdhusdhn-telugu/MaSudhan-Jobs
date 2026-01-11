@@ -34,7 +34,6 @@ CONFIG = {
 
 def is_8pm_ist():
     current_utc = datetime.now(timezone.utc)
-    # Checks if current hour is 14 UTC (which includes 8:00 PM IST)
     return current_utc.hour == 14
 
 def send_email_alert(new_jobs_count, top_new_job):
@@ -46,7 +45,7 @@ def send_email_alert(new_jobs_count, top_new_job):
     body = f"""
     <html><body>
         <h2>Hi MaSudhan,</h2>
-        <p><b>{new_jobs_count} jobs</b> (Match > 30%) found today.</p>
+        <p><b>{new_jobs_count} jobs</b> found today.</p>
         <p><b>Top Pick:</b> {top_new_job['title']} at {top_new_job['company']}</p>
         <p><a href="{dashboard_url}">Open Live Feed</a></p>
     </body></html>
@@ -66,8 +65,10 @@ def send_email_alert(new_jobs_count, top_new_job):
     except Exception: pass
 
 def analyze_job(desc, title, company):
-    desc_lower = desc.lower()
+    desc_lower = desc.lower() if desc else ""
     title_lower = title.lower()
+    
+    # 1. Blocklist Check
     for blocked in CONFIG['blacklisted_companies']:
         if blocked.lower() in company.lower(): return {"is_suitable": False}
     for title_block in CONFIG['blacklisted_titles']:
@@ -75,13 +76,22 @@ def analyze_job(desc, title, company):
     for bad_kw in CONFIG['blacklisted_keywords']:
         if bad_kw in title_lower: return {"is_suitable": False}
 
+    # 2. Score Calculation
+    if not desc_lower or len(desc_lower) < 50:
+        # --- RESCUE MODE: Description is missing/short ---
+        # If title matches our skills, force a 50% score so it gets SAVED.
+        if "python" in title_lower or "react" in title_lower or "developer" in title_lower or "engineer" in title_lower:
+            return {"is_suitable": True, "match_score": 50}
+        else:
+            return {"is_suitable": False}
+
     skills_found = [s for s in CONFIG['skills_owned'] if s.lower() in desc_lower]
     match_score = (len(skills_found) / max(len(CONFIG['skills_owned']), 1)) * 100
     if "python" in title_lower or "react" in title_lower or "fresh" in title_lower: match_score += 20
     match_score = min(int(match_score), 100)
 
-    # --- UPDATED: 30% FILTER ---
-    if match_score < 30: return {"is_suitable": False}
+    # Lower threshold to 10% to catch EVERYTHING valid
+    if match_score < 10: return {"is_suitable": False}
 
     return {"is_suitable": True, "match_score": match_score}
 
@@ -97,7 +107,7 @@ def load_existing_jobs():
     return []
 
 def main():
-    print("🚀 Starting 30-Min Scraper (Threshold 30%)...")
+    print("🚀 Starting Resilient Scraper (Title-Backup Mode)...")
     
     # 1. Load History
     existing_jobs = load_existing_jobs()
@@ -121,7 +131,7 @@ def main():
             
     print(f"🧹 Database cleaned. Kept {len(fresh_jobs)} recent jobs.")
 
-    # 2. Scrape (LinkedIn + Google)
+    # 2. Scrape (LinkedIn + Google) - Digging Deeper (25 results)
     all_scraped_jobs = []
     for query in CONFIG['search_queries']:
         try:
@@ -129,12 +139,13 @@ def main():
                 site_name=["linkedin", "google"], 
                 search_term=query,
                 location="India",
-                results_wanted=15, 
+                results_wanted=25,   # Increased from 15 to 25
                 hours_old=24, 
                 country_indeed='india'
             )
             all_scraped_jobs.append(jobs)
-        except Exception: pass
+        except Exception as e: 
+            print(f"Error scraping {query}: {e}")
 
     new_jobs = []
     current_time_iso = datetime.now(timezone.utc).isoformat()
@@ -153,7 +164,6 @@ def main():
             desc = clean_val(row.get('description'))
             analysis = analyze_job(desc, title, company)
             
-            # --- CHECK FILTER ---
             if not analysis['is_suitable']: continue
 
             new_job_entry = {
@@ -170,7 +180,7 @@ def main():
             new_jobs.append(new_job_entry)
             seen_signatures.add(sig)
 
-    print(f"✅ Found {len(new_jobs)} new jobs (>30% match).")
+    print(f"✅ Found {len(new_jobs)} NEW jobs.")
 
     updated_feed = new_jobs + fresh_jobs
     
