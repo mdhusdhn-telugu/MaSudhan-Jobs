@@ -1,5 +1,33 @@
 [
     {
+        "id": "-8091354358043078859",
+        "title": "ReactJs Developer",
+        "company": "Deqode",
+        "location": "Navi Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T15:24:28.995299+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352604064",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8015294583228520233",
+        "title": "Software Development Engineer Intern",
+        "company": "SthaniyaSaathi",
+        "location": "Bhubaneswar, Odisha, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T15:24:28.995299+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345339420",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8548732676780447032",
         "title": "Frontend Developer Intern (React.js)",
         "company": "NARBA",
@@ -1617,20 +1645,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-11T15:41:41.949235+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359796625",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3706958990405837513",
-        "title": "Full Stack Developer - Internship",
-        "company": "iTUX",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-11T15:19:12.367216+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352631116",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
