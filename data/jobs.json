@@ -1468,47 +1468,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "6461413556947898453",
-        "title": "React/Next JS Developer  (3+ Years Experience)",
-        "company": "Unicorn Softech",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-11T09:19:45.082777+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352230849",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2384709270036940269",
-        "title": "Junior Backend Engineer",
-        "company": "Sceneplay, Inc.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-11T09:19:45.082777+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345391364",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-719525704944699599",
-        "title": "Full Stack Developer (React and C#)",
-        "company": "Cytel",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-11T09:19:45.082777+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4324809543",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
