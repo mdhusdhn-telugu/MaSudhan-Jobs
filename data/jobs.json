@@ -1,5 +1,33 @@
 [
     {
+        "id": "4402886850561201941",
+        "title": "Full Stack Developer (Backend-Focused)",
+        "company": "YourfriendlyHR",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T06:34:27.328660+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332536104",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7385051522079669149",
+        "title": "Back End Developer",
+        "company": "BayOne Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T06:34:27.328660+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4288206198",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-273123899831972594",
         "title": "Frontend Developer",
         "company": "GoodSpace AI",
