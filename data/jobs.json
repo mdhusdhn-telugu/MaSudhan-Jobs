@@ -1,5 +1,33 @@
 [
     {
+        "id": "-273123899831972594",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T05:54:14.835008+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351224763",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1539213300981945182",
+        "title": "Frontend Developer",
+        "company": "Office Solution AI Labs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-12T05:54:14.835008+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332596148",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2484810699709138294",
         "title": "Software Developer( Node js& React js)",
         "company": "Lytegen",
