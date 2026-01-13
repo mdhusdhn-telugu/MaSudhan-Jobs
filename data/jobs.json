@@ -1,5 +1,19 @@
 [
     {
+        "id": "1368425809845927207",
+        "title": "React JS Developer",
+        "company": "Concentrix",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T22:21:05.015275+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353070780",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3634436032174784731",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
@@ -1183,20 +1197,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T22:44:08.006618+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360773474",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6857706477864046156",
-        "title": "Intern, Software Engineering",
-        "company": "Lowe's India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T21:43:26.412714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354451515",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
