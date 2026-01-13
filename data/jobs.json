@@ -1,5 +1,89 @@
 [
     {
+        "id": "3386403720441448582",
+        "title": "Software Engineer (Java Full Stack Developer)",
+        "company": "GlobalFoundries",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "2026-01-12",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361210554",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4008077584694939761",
+        "title": "React Js Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "2026-01-12",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351866328",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3694438456397261667",
+        "title": "React js Developer",
+        "company": "NAZZTEC",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360769624",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4153501897675731545",
+        "title": "Frontend Developer (Angular/React & Figma/Lovable/AI Design)- Bangalore",
+        "company": "HYrEzy Tech Solutions",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354784393",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2405074670265532065",
+        "title": "Software Engineer Trainee",
+        "company": "Monotype",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361209540",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "504827429186331832",
+        "title": "Full-Stack Developer (Junior)",
+        "company": "Mockey AI",
+        "location": "",
+        "date_posted": "2026-01-12",
+        "found_at": "2026-01-13T07:45:39.190261+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345386186",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-349118282015068885",
         "title": "Software Engineer Intern",
         "company": "Renivet",
@@ -1589,132 +1673,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T07:47:50.085632+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4352642233",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4964497457789605897",
-        "title": "Software Engineer (Java Full Stack Developer)",
-        "company": "GlobalFoundries",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361210554",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1332571941388442870",
-        "title": "React Js Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351866328",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4984686375917241184",
-        "title": "Full-Stack Developer (Junior)",
-        "company": "Mockey AI",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345386186",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3882915341761633194",
-        "title": "Full Stack Developer Intern \u2013 Paid Internship",
-        "company": "OctaSence",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361130321",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6397564116070344134",
-        "title": "Full Stack Engineer",
-        "company": "Lytegen",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361130093",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6973626101172815981",
-        "title": "MERN Stack Developer Intern (MongoDB, Express, React, Node.js)",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345336136",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1305745641612768616",
-        "title": "Fullstack Java Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345396315",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7549496343912250240",
-        "title": "Python Fullstack Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351846290",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5525484450331451827",
-        "title": "Back End Developer",
-        "company": "Flexiple",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T07:26:23.347647+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361220332",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
