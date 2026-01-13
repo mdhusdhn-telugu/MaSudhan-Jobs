@@ -1,5 +1,19 @@
 [
     {
+        "id": "5079928208602062463",
+        "title": "Backend Developer - SDE 3",
+        "company": "Groww",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T09:32:14.735630+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351878621",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9205550535750835630",
         "title": "Front-End Developer Intern",
         "company": "Dexter's Tech",
@@ -1379,76 +1393,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T10:24:09.888728+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4352553224",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1029512703092994409",
-        "title": "Frontend Developer",
-        "company": "Miamin Systems",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:59:55.278993+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345386680",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1714046081025097815",
-        "title": "UI Developer (React.js)",
-        "company": "Egnoto",
-        "location": "Jaipur, Rajasthan, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:59:55.278993+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361131074",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8358422671714299882",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:59:55.278993+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351816782",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2680174037403634489",
-        "title": "Developer Associate (CAP-Nodejs, Fiori))",
-        "company": "SAP",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:59:55.278993+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345306606",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1920100239250840286",
-        "title": "Java Full Stack Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:59:55.278993+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345376139",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
