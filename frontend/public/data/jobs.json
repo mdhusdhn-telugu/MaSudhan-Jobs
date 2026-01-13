@@ -1,5 +1,33 @@
 [
     {
+        "id": "-5638976667063749235",
+        "title": "Frontend Developer",
+        "company": "Emerson",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T10:50:40.818335+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4328830598",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5394955898583241821",
+        "title": "Full-Stack Engineer (Front-End Focus)",
+        "company": "HighLevel",
+        "location": "Delhi, Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T10:50:40.818335+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4339730681",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "88278328917673275",
         "title": "Front-End developer",
         "company": "EVERSANA",
@@ -1421,62 +1449,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T10:51:17.824885+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360741339",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "637023896912908806",
-        "title": "Full Stack Software Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-11",
-        "found_at": "2026-01-12T10:24:09.888728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4269212948",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3622364119212063066",
-        "title": "Reactjs, UI Developer",
-        "company": "Actalent",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:24:09.888728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345397167",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3879353712756395545",
-        "title": "Junior Developer",
-        "company": "ADA",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:24:09.888728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4332557212",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5534343395239527848",
-        "title": "Java React Developer",
-        "company": "Persistent Systems",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:24:09.888728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352553224",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
