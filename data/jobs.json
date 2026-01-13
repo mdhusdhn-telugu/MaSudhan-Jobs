@@ -1370,33 +1370,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-8878936748810081579",
-        "title": "ReactJS Developer",
-        "company": "Logezy Limited",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:19:23.435014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351870670",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7523301455274766541",
-        "title": "Full stack developer Angular+Java",
-        "company": "Capgemini",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:19:23.435014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352663438",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
