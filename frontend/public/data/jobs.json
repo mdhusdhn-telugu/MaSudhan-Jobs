@@ -1,5 +1,103 @@
 [
     {
+        "id": "3366844051110181279",
+        "title": "React Developer",
+        "company": "Persistent Systems",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4205905672",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4096584025191471525",
+        "title": "React.js / Next.js - Developer",
+        "company": "Valtech",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4328639570",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5684599356649291821",
+        "title": "Frontend React/Next.js Developer",
+        "company": "Enterprise Minds, Inc",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4272083789",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3969381012920306268",
+        "title": "Web Developer",
+        "company": "INDmoney",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361380723",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4506342040115567192",
+        "title": "Junior Software Developer (PHP / Laravel)",
+        "company": "E-CARET SOLUTIONS",
+        "location": "Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354860769",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3366312987997617673",
+        "title": "Software Engineer - Backend (7-10 years), Pune",
+        "company": "PhonePe",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361560855",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4883427459159656744",
+        "title": "Back End Developer, AS",
+        "company": "Deutsche Bank",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T12:43:29.010522+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361301365",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "5656518957358407792",
         "title": "Frontend Developer",
         "company": "Elintis Technologies",
@@ -1295,76 +1393,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T12:43:22.363921+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4351868575",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4005059982079865696",
-        "title": "Frontend Developer",
-        "company": "Six Sense Mobility",
-        "location": "New Delhi, Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:42:38.420169+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351817011",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6349089112908808403",
-        "title": "Software Engineer -Symphony (5-7)",
-        "company": "PhonePe",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:42:38.420169+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4295924471",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-782727026389441771",
-        "title": "Full Stack Developer/Intern",
-        "company": "Gnapi Technologies",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:42:38.420169+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361141603",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5279570823929971441",
-        "title": "Web Developer Intern",
-        "company": "WEBBOOST SOLUTION IT SERVICES",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:42:38.420169+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360690840",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "495200976466031634",
-        "title": "Backend Developer",
-        "company": "Hancod",
-        "location": "Perintalmanna, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T11:42:38.420169+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345348350",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
