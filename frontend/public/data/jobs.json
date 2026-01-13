@@ -1,5 +1,47 @@
 [
     {
+        "id": "-9205550535750835630",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T08:58:13.266829+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354860039",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7709583494538688746",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T08:58:13.266829+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360739538",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3965545007543434767",
+        "title": "LLM Model Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T08:58:13.266829+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354495100",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8481140805606349282",
         "title": "Frontend Developer",
         "company": "BillCut.com",
@@ -1407,258 +1449,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T08:59:55.278993+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4345376139",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4763358398010761770",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4332576579",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6860712118333114015",
-        "title": "Application Developer-ReactJS",
-        "company": "IBM",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352512671",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7259829768556359098",
-        "title": "Front-End Developer Intern",
-        "company": "UM IT Solutions",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361160800",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2892179440303082051",
-        "title": "Frontend Developer (React / Next.js)",
-        "company": "Bitogrid Technologies Pvt Ltd",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351856580",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4318019671425271244",
-        "title": "Javascript Developer",
-        "company": "Crescent Techservices",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352602634",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4378192256077594255",
-        "title": "Web Developer Intern",
-        "company": "Zenithbyte",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345396609",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4954054347643585301",
-        "title": "DPSLab-FullstackDeveloper",
-        "company": "EY",
-        "location": "Kanayannur, Kerala, India",
-        "date_posted": "2026-01-10",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://in.linkedin.com/jobs/view/dpslab-fullstackdeveloper-at-ey-4345316264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
-        }
-    },
-    {
-        "id": "-407518054893730460",
-        "title": "Jr_MERN...Stack_Developer",
-        "company": "IBR InfoTech",
-        "location": "Indore, Madhya Pradesh, India",
-        "date_posted": "2026-01-09",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://in.linkedin.com/jobs/view/jr-mern-stack-developer-at-ibr-infotech-4352503016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 28
-        }
-    },
-    {
-        "id": "-9042468619677549137",
-        "title": "Fullstack devloper",
-        "company": "TAIKISHA ENGINEERING INDIA PVT. LTD.",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "2026-01-05",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://in.linkedin.com/jobs/view/fullstack-devloper-at-taikisha-engineering-india-pvt-ltd-4332593529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42
-        }
-    },
-    {
-        "id": "-3366837814173306807",
-        "title": "Junior Full Stack Engineer - AI startup",
-        "company": "Founding Teams",
-        "location": "Hosur, Karnataka, India",
-        "date_posted": "2026-01-03",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.recruit.net/job/full-stack-engineer-ai-startup-jobs/8BE8243A8BEA24E5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 85
-        }
-    },
-    {
-        "id": "-719824193027871497",
-        "title": "Junior Web Developer",
-        "company": "Updatic",
-        "location": "Mohali, Maharashtra, India",
-        "date_posted": "2026-01-03",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.recruit.net/job/junior-web-developer-jobs/BD5A713C9176344A?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42
-        }
-    },
-    {
-        "id": "2905234702655002654",
-        "title": "Typescript Developer",
-        "company": "Amtex Systems Inc",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "2026-01-03",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.recruit.net/job/typescript-developer-jobs/BA89ED6A0061BF84?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
-        }
-    },
-    {
-        "id": "-5935291144624857907",
-        "title": "Dotnet Full stack Developer",
-        "company": "TIGI HR",
-        "location": "Mohali, Maharashtra, India",
-        "date_posted": "2026-01-03",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.recruit.net/job/dotnet-full-stack-developer-jobs/59773DAA54E4906C?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
-        }
-    },
-    {
-        "id": "-6970387818316191859",
-        "title": "Full stack Developer Intern/ New Fresher (NodeJS / Angular) immediate Joiner Remote (Remote)",
-        "company": "SarvM.AI",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2025-12-30",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://sarvm.freshteam.com/jobs/1YaVaQ9sViwg/full-stack-developer-intern-new-fresher-nodejs-angular-immediate-joiner-remote-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 62
-        }
-    },
-    {
-        "id": "3120349966241929606",
-        "title": "Application Developer - Python/GO",
-        "company": "SecLogic.ai",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "2025-12-24",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://in.linkedin.com/jobs/view/application-developer-python-go-at-seclogic-ai-4352720902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 91
-        }
-    },
-    {
-        "id": "-4136547422021358015",
-        "title": "Junior Full Stack Developer",
-        "company": "confidential",
-        "location": "Chandigarh, India",
-        "date_posted": "2025-12-19",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://in.bebee.com/job/547d555c5160f8ec67ac121188bf0481?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 71
-        }
-    },
-    {
-        "id": "-2337290919199906176",
-        "title": "Backend Developer",
-        "company": "YourfriendlyHR",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4332536048",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8911192326574814171",
-        "title": "Backend Developer",
-        "company": "IBM",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T08:30:20.139039+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352722641",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
