@@ -1,5 +1,19 @@
 [
     {
+        "id": "3440772096406244218",
+        "title": "React.js Developer",
+        "company": "Tech Prescient",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T15:23:49.855573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352830684",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1277183532025949088",
         "title": "Application Developer-ReactJS",
         "company": "IBM",
@@ -1183,62 +1197,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T15:24:28.995299+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4345339420",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8548732676780447032",
-        "title": "Frontend Developer Intern (React.js)",
-        "company": "NARBA",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T14:54:42.613834+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345329504",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7761414343856614525",
-        "title": "Software Engineer Intern - Bachelor's Degree",
-        "company": "Marvell Technology",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T14:54:42.613834+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352704055",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8672514098387978516",
-        "title": "Software Engineer",
-        "company": "Cummins India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T14:54:42.613834+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345389282",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9185580347122977526",
-        "title": "Backend Developer Intern (Node.js / MERN Stack)",
-        "company": "NARBA",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T14:54:42.613834+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351819424",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
