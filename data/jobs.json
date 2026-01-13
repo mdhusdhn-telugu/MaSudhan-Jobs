@@ -1,5 +1,47 @@
 [
     {
+        "id": "5656518957358407792",
+        "title": "Frontend Developer",
+        "company": "Elintis Technologies",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T11:19:46.207481+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354805283",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2162683288392392924",
+        "title": "Software Engineer Intern",
+        "company": "Town Plan Map",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T11:19:46.207481+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352669492",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1285266335330493182",
+        "title": "Intern for Industrial Inspection Technology - Software Developer (NDE Interface, Logic/Flow, Text/CAD Inputs)",
+        "company": "GE Aerospace",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-13T11:19:46.207481+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4328856844",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5638976667063749235",
         "title": "Frontend Developer",
         "company": "Emerson",
@@ -1351,104 +1393,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-12T11:19:23.435014+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4352663438",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3570168581939693164",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361141469",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8614947061896205785",
-        "title": "React Angular1.8 Developer",
-        "company": "Persistent Systems",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352563135",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7817882853701764225",
-        "title": "Frontend Developer",
-        "company": "Sqaby Technologies",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345337154",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5989234202749015518",
-        "title": "Junior Full Stack Developer ( Freshers ) | SDE-1",
-        "company": "Classy Endeavors",
-        "location": "Kalyan, Maharashtra, India",
-        "date_posted": "2026-01-07",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://in.linkedin.com/jobs/view/junior-full-stack-developer-freshers-sde-1-at-classy-endeavors-4351815971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 48
-        }
-    },
-    {
-        "id": "7959087405973039936",
-        "title": "Software Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361221485",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5965874721205626830",
-        "title": "JAVA Fullstack Developer",
-        "company": "Virtusa",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4338085391",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7621910101590889616",
-        "title": "Python Full Stack Developer",
-        "company": "Capgemini",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-12T10:51:17.824885+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360741339",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
