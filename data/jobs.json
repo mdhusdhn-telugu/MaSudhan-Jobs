@@ -1006,33 +1006,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-349118282015068885",
-        "title": "Software Engineer Intern",
-        "company": "Renivet",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T07:24:36.455621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354464565",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1969165798769532479",
-        "title": "Software Developer Trainee",
-        "company": "Elixir Learning Hub",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T07:24:36.455621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354404787",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
