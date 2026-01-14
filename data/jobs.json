@@ -1,5 +1,19 @@
 [
     {
+        "id": "-989675688000884997",
+        "title": "Intern for Industrial Inspection Technology - Software Developer (NDE Interface, Logic/Flow, Text/CAD Inputs)",
+        "company": "GE Aerospace",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-13",
+        "found_at": "2026-01-14T11:43:55.976541+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4328856844",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3844039630514298692",
         "title": "Frontend Developer",
         "company": "Delhivery",
@@ -945,48 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-13T12:43:29.010522+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361301365",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5656518957358407792",
-        "title": "Frontend Developer",
-        "company": "Elintis Technologies",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T11:19:46.207481+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354805283",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2162683288392392924",
-        "title": "Software Engineer Intern",
-        "company": "Town Plan Map",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T11:19:46.207481+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352669492",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1285266335330493182",
-        "title": "Intern for Industrial Inspection Technology - Software Developer (NDE Interface, Logic/Flow, Text/CAD Inputs)",
-        "company": "GE Aerospace",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T11:19:46.207481+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4328856844",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
