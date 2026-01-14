@@ -1,5 +1,19 @@
 [
     {
+        "id": "-877202125823078315",
+        "title": "Website Developer (Full Stack)",
+        "company": "Getege EdTech Pvt. Ltd.",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-14T05:23:37.682947+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354872804",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2999077041688704012",
         "title": "Frontend Developer",
         "company": "People Prime Worldwide",
@@ -1043,48 +1057,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-13T05:51:21.008537+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4352771313",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3146658668120620123",
-        "title": "Software Engineer, Frontend (React.JS, Next.JS)",
-        "company": "Mercari, Inc.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T04:58:51.112697+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354404153",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3564206132717725866",
-        "title": "Software Development Engineer",
-        "company": "Accenture in India",
-        "location": "Indore, Madhya Pradesh, India",
-        "date_posted": "2026-01-12",
-        "found_at": "2026-01-13T04:58:51.112697+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352502947",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9155161628328735630",
-        "title": "Shopify Frontend Developer",
-        "company": "Bearaby",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-13T04:58:51.112697+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354763744",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
