@@ -1370,47 +1370,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "7255170952404932479",
-        "title": "Front End Developer",
-        "company": "IBM",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T14:52:43.612167+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353093928",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-642256453296270887",
-        "title": "React JS Developer",
-        "company": "Stefanini North America and APAC",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T14:52:43.612167+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361618758",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1061469323706066352",
-        "title": "React Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T14:52:43.612167+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354914286",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
