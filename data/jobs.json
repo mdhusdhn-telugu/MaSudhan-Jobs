@@ -1,5 +1,19 @@
 [
     {
+        "id": "1426803214943735980",
+        "title": "Front End Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-15T23:19:51.483208+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362831954",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "533742922438684375",
         "title": "React JS Developer",
         "company": "Concentrix",
