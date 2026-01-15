@@ -1,5 +1,19 @@
 [
     {
+        "id": "4105496016310338893",
+        "title": "Software Development Engineer III, DSP Performance Tech",
+        "company": "Amazon",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-14",
+        "found_at": "2026-01-15T11:42:37.345367+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4341050517",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1066159424973418467",
         "title": "Software Engineer 1 (JavaScript)",
         "company": "UiPath",
@@ -1351,48 +1365,6 @@
         "date_posted": "2026-01-13",
         "found_at": "2026-01-14T11:43:55.976541+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4328856844",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3844039630514298692",
-        "title": "Frontend Developer",
-        "company": "Delhivery",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T11:20:36.115732+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361599737",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3693247069249434139",
-        "title": "Software Development Engineer III, DSP Performance Tech",
-        "company": "Amazon",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T11:20:36.115732+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4341050517",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7623321054921079822",
-        "title": "Founding Engineer Intern (Software + AI/ML) III - India",
-        "company": "Expert Thermal - Almaden Consulting, Inc.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-14T11:20:36.115732+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351858631",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
