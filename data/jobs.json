@@ -1,5 +1,47 @@
 [
     {
+        "id": "-961677658931148734",
+        "title": "React Developer",
+        "company": "Wissen Technology",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T06:32:13.665788+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359272028",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6151320316134128866",
+        "title": "Fresher Website Developer",
+        "company": "Ugeeko",
+        "location": "Kolkata metropolitan area, West Bengal, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T06:32:13.665788+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359174910",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8565436473779470547",
+        "title": "Front-end Developer",
+        "company": "Lexmark",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T06:32:13.665788+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358452670",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8554403750389436973",
         "title": "Frontend Developer (Reactjs)",
         "company": "Luxoft",
