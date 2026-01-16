@@ -1,5 +1,33 @@
 [
     {
+        "id": "-2269866539751816632",
+        "title": "Front End Developer (React & Tailwind)",
+        "company": "WillWare Technologies",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T03:19:17.391728+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363601747",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2022184807903891116",
+        "title": "Front End Developer in Chennai",
+        "company": "Proactive Data Systems",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T03:19:17.391728+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363511267",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6321375652238816115",
         "title": "React.js Developer",
         "company": "Concentrix",
@@ -987,76 +1015,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-15T04:27:43.389126+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4362492424",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2997246160270912364",
-        "title": "Frontend Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T03:17:56.103568+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362366857",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-708500916367211783",
-        "title": "Junior Frontend Developer",
-        "company": "Life Designer",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T03:17:56.103568+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359020640",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7300782763607340820",
-        "title": "Software Development Engineer, Amazon Smart Vehicles",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T03:17:56.103568+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362475656",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3794409799110026313",
-        "title": "Frontend Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T03:17:56.103568+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362366974",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9149274546581499852",
-        "title": "Web Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T03:17:56.103568+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362702404",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
