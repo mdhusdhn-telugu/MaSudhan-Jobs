@@ -1,5 +1,19 @@
 [
     {
+        "id": "6395121711395990281",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T17:48:21.845183+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359214800",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5278886205911048059",
         "title": "Software Engineer Intern (Django + ReactJS)",
         "company": "Atom11",
@@ -1197,20 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-15T18:00:17.120016+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359078119",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-938977391258425292",
-        "title": "Full Stack Developer",
-        "company": "Scoutit",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T17:30:49.674677+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357608127",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
