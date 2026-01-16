@@ -1020,19 +1020,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-7676744670567587489",
-        "title": "Application Developer-Google Cloud FullStack",
-        "company": "IBM",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "2026-01-14",
-        "found_at": "2026-01-15T08:57:21.761756+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353123326",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
