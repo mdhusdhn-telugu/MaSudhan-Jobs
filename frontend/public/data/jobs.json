@@ -1034,33 +1034,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-1634691958860064743",
-        "title": "Frontend Developer",
-        "company": "LTIMindtree",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T07:45:53.459216+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353204632",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5891271660994279643",
-        "title": "Frontend Engineer",
-        "company": "Huspy",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T07:45:53.459216+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357654735",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
