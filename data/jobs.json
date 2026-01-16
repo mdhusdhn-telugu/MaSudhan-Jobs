@@ -1,5 +1,75 @@
 [
     {
+        "id": "325418032679883818",
+        "title": "React JS Developer",
+        "company": "UST",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T11:19:01.728229+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351984868",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3610385977739331837",
+        "title": "Junior Front End Developer",
+        "company": "SAM Corporate",
+        "location": "Kochi, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T11:19:01.728229+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359194213",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6603462774244500852",
+        "title": "Frontend Developer",
+        "company": "Ubique Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T11:19:01.728229+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353503303",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8519477542657094627",
+        "title": "Software Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T11:19:01.728229+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363544149",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3589216994805509176",
+        "title": "Web Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T11:19:01.728229+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359292557",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1667410739860757714",
         "title": "Trainee Full-Stack Developer (AI-Driven Development)",
         "company": "Sparrow Interactive Pvt. Ltd.",
@@ -1029,76 +1099,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-15T11:19:27.255719+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359105074",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8221788874589912838",
-        "title": "Junior / Mid-Level Frontend Developer (Vue.js)",
-        "company": "BEO Software Private Limited",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T10:50:33.668342+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353128902",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3635169095395148749",
-        "title": "React JS Developer",
-        "company": "UST",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T10:50:33.668342+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351984868",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2530714246679574193",
-        "title": "React Developer",
-        "company": "Ztek Consulting",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T10:50:33.668342+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353261340",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2845667205245041638",
-        "title": "Software Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T10:50:33.668342+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362476340",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6409474580306095643",
-        "title": "Java Fullstack Developer (Java+ React)",
-        "company": "LTIMindtree",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T10:50:33.668342+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352978947",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
