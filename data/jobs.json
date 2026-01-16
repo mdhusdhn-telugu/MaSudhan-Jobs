@@ -1,5 +1,19 @@
 [
     {
+        "id": "-4686328507812508836",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-16T22:20:20.697840+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359282684",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6566043940239957646",
         "title": "Software Engineer, (React js developer)",
         "company": "Pegasystems",
@@ -1211,34 +1225,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-15T22:20:59.641161+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4353185680",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1583134229180534317",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T21:43:34.797917+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357667749",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5479286345841121224",
-        "title": "React and Node JS Developer",
-        "company": "Infosys",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-15T21:43:34.797917+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359155045",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
