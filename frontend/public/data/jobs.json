@@ -1244,19 +1244,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-3756559044857029371",
-        "title": "Backend Developer - Java",
-        "company": "Accenture in India",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "2026-01-14",
-        "found_at": "2026-01-15T20:48:39.413256+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361696120",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
