@@ -1622,19 +1622,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "3430893722558496748",
-        "title": "Frontend Developer (React.Js)",
-        "company": "Flexton Inc.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T22:46:20.005296+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363822952",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
