@@ -1,5 +1,75 @@
 [
     {
+        "id": "1909948161774558898",
+        "title": "Application Developer-ReactJS",
+        "company": "IBM",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T12:36:58.266409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4348604247",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7989184465250796873",
+        "title": "Software Engineer, Frontend (India)",
+        "company": "Glean",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T12:36:58.266409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4273784274",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8189735647176559370",
+        "title": "React fullstack Developer",
+        "company": "TELUS Digital",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T12:36:58.266409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4350464373",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2594232626917740080",
+        "title": "Software Engineer Intern",
+        "company": "Auraverse",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T12:36:58.266409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360009467",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2079384525448827250",
+        "title": "Software Developer (Back end) Associate Software Engineer",
+        "company": "IBM",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T12:36:58.266409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4348529081",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7595452947202193022",
         "title": "Software Developer Intern",
         "company": "Infrabyte Consulting",
@@ -1463,62 +1533,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-16T12:41:12.488263+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359203319",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3031795732033122603",
-        "title": "Frontend Developer - Technical Specialist-App Development",
-        "company": "Birlasoft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T11:42:41.021003+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360081175",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1277461486659974989",
-        "title": "Software Engineer \u2013 Fresher",
-        "company": "AiDOOS",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T11:42:41.021003+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360081409",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "484345444685553717",
-        "title": "Software Engineer Fresher",
-        "company": "Lead Masters AI",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T11:42:41.021003+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359272207",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "456649287325842364",
-        "title": "Full Stack Developer",
-        "company": "Zensar Technologies",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T11:42:41.021003+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359158955",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
