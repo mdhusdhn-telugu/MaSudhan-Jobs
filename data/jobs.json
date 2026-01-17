@@ -1,5 +1,19 @@
 [
     {
+        "id": "-729971295433489681",
+        "title": "Web Developer Intern",
+        "company": "Zenithbyte",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T15:41:38.785372+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360029949",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1791619665663361680",
         "title": "React Developer",
         "company": "Tradelab Technologies",
@@ -1477,48 +1491,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-16T15:46:51.557028+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360033776",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1013761897752648867",
-        "title": "React Js Developer",
-        "company": "Synectics APAC",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T15:22:45.389825+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4337644709",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7595241340710327315",
-        "title": "Frontend Developer",
-        "company": "OpsTree Global",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T15:22:45.389825+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353635050",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2967858646987913906",
-        "title": "Full Stack Developer - SDE 1",
-        "company": "Scoutit",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T15:22:45.389825+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360082432",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
