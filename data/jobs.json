@@ -1,5 +1,47 @@
 [
     {
+        "id": "7545410461169213476",
+        "title": "Engineering Services Practitioner",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T18:26:45.923923+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359239286",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1014105922690168889",
+        "title": "Remote Full-Stack Developer",
+        "company": "Turing",
+        "location": "Delhi, Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T18:26:45.923923+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4346248369",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7942393577400017506",
+        "title": "Software Engineer (Full-stack Developer)",
+        "company": "NetApp",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T18:26:45.923923+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353683463",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3575782681913647802",
         "title": "React Js Developer",
         "company": "Birlasoft",
@@ -1491,20 +1533,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-16T18:30:40.460857+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360014592",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6395121711395990281",
-        "title": "Front-End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T17:48:21.845183+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359214800",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
