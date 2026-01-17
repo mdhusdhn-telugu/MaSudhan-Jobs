@@ -1,5 +1,131 @@
 [
     {
+        "id": "5142759989063767254",
+        "title": "Front End Developer - Offshore",
+        "company": "Satwic Inc",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4236133457",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2880544050398068359",
+        "title": "LLM Model Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360069110",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5994391750743529724",
+        "title": "Back End Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352697675",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1736917670472832013",
+        "title": "React Developer",
+        "company": "MiG Arch",
+        "location": "Vadodara, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353505799",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-9009760959632637967",
+        "title": "Full Stack Developer(Mid-Level, Remote)",
+        "company": "Stealth Startup",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362974952",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "9052704153102059475",
+        "title": "Java Fullstack Developer",
+        "company": "Getege EdTech Pvt. Ltd.",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360045903",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2423286143959981213",
+        "title": "Full Stack Developer Intern",
+        "company": "Appweave Labs",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360043172",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2081726081181091427",
+        "title": "AEM Frontend Developer (ReactJS & NextJS)",
+        "company": "RapidBrains",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360130389",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-9190563043817777828",
+        "title": "Full Stack Engineer",
+        "company": "BayOne Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-17T09:19:32.870146+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343616180",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5967681548385487362",
         "title": "Full Stack Developer",
         "company": "Persistent Systems",
@@ -1253,20 +1379,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-16T09:49:05.613140+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363673793",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7759522108453911088",
-        "title": "Frontend Developer",
-        "company": "Gushwork",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-16T08:55:33.729477+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359232559",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
