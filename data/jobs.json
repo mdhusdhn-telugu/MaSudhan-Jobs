@@ -1,5 +1,75 @@
 [
     {
+        "id": "7828644373409086532",
+        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T07:40:35.788509+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363888718",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4922958163352753237",
+        "title": "Web developer internship",
+        "company": "MyTravaly Worldwide",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T07:40:35.788509+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363848644",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7686468376740421331",
+        "title": "Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T07:40:35.788509+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353851982",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8035162510147852351",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T07:40:35.788509+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353762162",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2122342544437632118",
+        "title": "Full Stack Developer Intern - Remote",
+        "company": "VedhaAI Infotech",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T07:40:35.788509+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360310826",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3727140789874428420",
         "title": "Full Stack Web Developer Intern",
         "company": "Dexter's Tech",
@@ -1477,20 +1547,6 @@
         "date_posted": "2026-01-16",
         "found_at": "2026-01-17T07:39:42.382029+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360002168",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3860536846363653020",
-        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-17T07:19:02.271606+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363845538",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
