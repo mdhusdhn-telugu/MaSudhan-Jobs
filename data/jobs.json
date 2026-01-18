@@ -1,5 +1,19 @@
 [
     {
+        "id": "-2029492290258192662",
+        "title": "Fresher Software Developer",
+        "company": "Telomerz Tech",
+        "location": "Kanayannur, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-18T05:46:58.774607+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360019942",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "918107783561697269",
         "title": "Solvative - Frontend Developer - Three.js/Javascript",
         "company": "Solvative",
@@ -1491,20 +1505,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-17T06:29:04.168721+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359233567",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1342229417474536584",
-        "title": "Front End Engineer, SCI",
-        "company": "Apple",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-17T05:44:14.631263+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360074232",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
