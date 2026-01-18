@@ -1524,33 +1524,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-8074140870542125298",
-        "title": "Frontend Developer",
-        "company": "Yotta Data Services Private Limited",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-17T07:39:42.382029+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362974699",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7811626892370399148",
-        "title": "Software Developer Intern (Web Development)",
-        "company": "TC CONSULTING SERVICES",
-        "location": "",
-        "date_posted": "2026-01-16",
-        "found_at": "2026-01-17T07:39:42.382029+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360002168",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
