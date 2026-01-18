@@ -1496,33 +1496,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "8922462633499731130",
-        "title": "Web Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-17T06:29:04.168721+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359214784",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9036276714119175106",
-        "title": "Junior Engineer React.js Developer",
-        "company": "ShepHertz Technologies",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-17T06:29:04.168721+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359233567",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
