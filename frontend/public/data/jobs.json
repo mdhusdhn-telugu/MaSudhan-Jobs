@@ -1,5 +1,33 @@
 [
     {
+        "id": "-4419832330537050563",
+        "title": "Frontend Developer (Angular/React & Figma/Lovable/AI Design)- Bengaluru",
+        "company": "HYrEzy Tech Solutions",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T12:45:12.935174+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360474008",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5287595678014852724",
+        "title": "Front-End Developer",
+        "company": "Somewhere",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T12:45:12.935174+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360894028",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9168087949773025654",
         "title": "Front-End Developer Intern",
         "company": "Dexter's Tech",
