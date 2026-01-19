@@ -1,5 +1,47 @@
 [
     {
+        "id": "8314545526334675911",
+        "title": "Full Stack Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T09:46:09.853449+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360930155",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7008816503061165552",
+        "title": "Frontend Developer",
+        "company": "Beyond Labs",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T09:46:09.853449+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353754682",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7346995880815994323",
+        "title": "Frontend Developer",
+        "company": "Proem Sports",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T09:46:09.853449+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360491692",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8497732306843818600",
         "title": "ReactJs + Java Developer",
         "company": "CG-VAK Software & Exports Ltd.",
@@ -1253,34 +1295,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-18T10:19:52.427700+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360124424",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7824093229116282985",
-        "title": "Packaged/SaaS Application Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-18T09:42:17.785134+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360231796",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2071077637214283045",
-        "title": "Forntend developer intern",
-        "company": "Hirehut",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-18T09:19:41.960400+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353742309",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
