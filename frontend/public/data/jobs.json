@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6624593087133562674",
+        "title": "ReactJS Frontend Developer",
+        "company": "Talent Corner HR Services Pvt Ltd",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T17:24:46.326548+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353707056",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2991084505723981645",
+        "title": "Frontend Developer",
+        "company": "spuRt Technologies",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T17:24:46.326548+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355197939",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1011651726170993417",
+        "title": "Front-End Developer (Angular)",
+        "company": "Opkey",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-19T17:24:46.326548+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360441970",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3003405135960155341",
         "title": "Backend Developer",
         "company": "Scoutit",
