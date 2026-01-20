@@ -1,5 +1,19 @@
 [
     {
+        "id": "7344058056031538144",
+        "title": "Full Stack Python Developer",
+        "company": "Deloitte",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T20:12:25.660234+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354034887",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "623029045383132618",
         "title": "React Js Developer",
         "company": "Synectics APAC",
@@ -1015,48 +1029,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-19T20:46:22.754403+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360836041",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-859970737024055324",
-        "title": "Software Engineer (Java Full Stack Developer)",
-        "company": "GlobalFoundries",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T19:40:29.667109+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361210554",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5678739625888284697",
-        "title": "EbizON || B.Tech Fresher (PHP Developer) || Dehradun",
-        "company": "EbizON",
-        "location": "Dehradun, Uttarakhand, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T19:40:29.667109+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364085328",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8562748980069297725",
-        "title": "Front End React Engineer",
-        "company": "Flexton Inc.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T18:58:07.340814+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364084993",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
