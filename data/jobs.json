@@ -1,5 +1,33 @@
 [
     {
+        "id": "-5024152606171289527",
+        "title": "Software Engineer Intern",
+        "company": "Empassia Technologies Private Limited",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T07:26:58.340399+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360868686",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7502939462238149765",
+        "title": "Software Engineer Intern",
+        "company": "IBWIS PVT LTD",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T07:26:58.340399+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360937174",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3920373390743497181",
         "title": "Python + FastAPI Developer",
         "company": "Deloitte",
@@ -1379,76 +1407,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-19T07:27:52.290337+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359145600",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5054914430007059076",
-        "title": "Frontend Developer (React.Js)",
-        "company": "Flexton Inc.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T06:41:00.767014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363822952",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1097507215217865671",
-        "title": "Frontend Developer",
-        "company": "Celebal Technologies",
-        "location": "Jaipur, Rajasthan, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T06:41:00.767014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360441194",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7515644947891475350",
-        "title": "React Developer",
-        "company": "People Prime Worldwide",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T06:41:00.767014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360430883",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8740499960431376358",
-        "title": "AEM Frontend Developer (ReactJS & NextJS)",
-        "company": "RapidBrains",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T06:41:00.767014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360840925",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5104963041882616125",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T06:41:00.767014+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360292175",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
