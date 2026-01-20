@@ -1,5 +1,19 @@
 [
     {
+        "id": "5155608795065386045",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T05:54:36.753726+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364394682",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5476099118816744322",
         "title": "Frontend developer- Reactjs",
         "company": "SalesPanda",
@@ -1407,48 +1421,6 @@
         "date_posted": "2026-01-18",
         "found_at": "2026-01-19T05:57:09.787865+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360019942",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8631447515974294303",
-        "title": "Frontend Developer",
-        "company": "Vellstone",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T05:30:32.297796+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353873854",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2847719866803724529",
-        "title": "Web Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T05:30:32.297796+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364090495",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-62313214160094979",
-        "title": "Software Engineer Intern_ apply only those who are pursuing last semester of their Engineering (Computer Science Engineering, Bangalore based only)",
-        "company": "Avensys Consulting",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T05:30:32.297796+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364390557",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
