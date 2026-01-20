@@ -1062,47 +1062,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-3741905360461520554",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T15:25:15.531683+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360392130",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8001357524544159705",
-        "title": "Java Backend Engineer",
-        "company": "Deloitte",
-        "location": "Shimla, Himachal Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T15:25:15.531683+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353756302",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6167642861414690585",
-        "title": "Web Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T15:25:15.531683+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360904662",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
