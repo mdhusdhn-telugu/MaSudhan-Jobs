@@ -1,5 +1,19 @@
 [
     {
+        "id": "897166292943532982",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T11:45:39.324567+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360488942",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3537098103661375289",
         "title": "Software Engineer - E5 (Frontend)",
         "company": "Whatfix",
@@ -1085,34 +1099,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-19T12:45:12.935174+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360894028",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9168087949773025654",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T11:43:59.599858+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360402033",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "743199223060693506",
-        "title": "Web Developer",
-        "company": "EagleEye Digital",
-        "location": "Indore, Madhya Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T11:43:59.599858+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355090685",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
