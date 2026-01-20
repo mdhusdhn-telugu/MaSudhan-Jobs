@@ -1,5 +1,19 @@
 [
     {
+        "id": "-7035451795368974996",
+        "title": "Hiring Freshers | PHP Developer (Trainee / Junior)",
+        "company": "ARH Venturres Recruitment",
+        "location": "Mira Bhayandar, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T09:42:29.160170+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354012149",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8782224218240132137",
         "title": "Full Stack Engineer",
         "company": "Deloitte",
@@ -1197,76 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-19T09:46:09.853449+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360491692",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8497732306843818600",
-        "title": "ReactJs + Java Developer",
-        "company": "CG-VAK Software & Exports Ltd.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-18",
-        "found_at": "2026-01-19T09:00:43.577240+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360490933",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-996167560701456225",
-        "title": "Frontend Developer",
-        "company": "ElasticDevs",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T09:00:43.577240+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360940030",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4010620111925828214",
-        "title": "Frontend Developer",
-        "company": "VectorShift",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T09:00:43.577240+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360930089",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-184367284909960743",
-        "title": "Frontend Developer",
-        "company": "SOULSARA",
-        "location": "Belgaum, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T09:00:43.577240+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364211712",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6508984606798581996",
-        "title": "Software Development Engineer Intern",
-        "company": "Fortiv Solutions",
-        "location": "Silvassa, Daman and Diu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T09:00:43.577240+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353804697",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
