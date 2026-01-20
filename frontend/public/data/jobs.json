@@ -1,5 +1,33 @@
 [
     {
+        "id": "-8782224218240132137",
+        "title": "Full Stack Engineer",
+        "company": "Deloitte",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T08:30:09.549056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4353971991",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1817490287321001371",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-20T08:30:09.549056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354111207",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5024152606171289527",
         "title": "Software Engineer Intern",
         "company": "Empassia Technologies Private Limited",
@@ -1281,62 +1309,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-19T08:30:54.418904+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4364251347",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8449397110577761915",
-        "title": "Front-End Developer Intern (HTML, CSS, JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T07:51:04.271624+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364340808",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7094238173877974561",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T07:51:04.271624+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364231350",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7185904902116857670",
-        "title": "Frontend Developer",
-        "company": "SimuPhish",
-        "location": "Nashik, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-19T07:51:04.271624+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360841277",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6779356962012573061",
-        "title": "Python Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "2026-01-18",
-        "found_at": "2026-01-19T07:51:04.271624+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353762162",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
