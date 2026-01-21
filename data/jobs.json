@@ -1,5 +1,33 @@
 [
     {
+        "id": "-4122346974580949918",
+        "title": "React Js Developer",
+        "company": "Synectics APAC",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-21T20:29:16.027041+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4337644709",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5700303741149178808",
+        "title": "React front-end developer",
+        "company": "Fugro",
+        "location": "Navi Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-21T20:29:16.027041+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4325364781",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "2112315211204221874",
         "title": "Front-End Developer (AI-Focused) \u2013 Fresher",
         "company": "Aegis Security",
@@ -1491,20 +1519,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-20T20:54:57.333467+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4364949044",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7344058056031538144",
-        "title": "Full Stack Python Developer",
-        "company": "Deloitte",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-20T20:12:25.660234+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354034887",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
