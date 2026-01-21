@@ -1,5 +1,33 @@
 [
     {
+        "id": "-7789048830690938274",
+        "title": "Junior Front-End Developer",
+        "company": "Ziphire HR",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-20",
+        "found_at": "2026-01-21T18:40:09.053838+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364919101",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1240415582738051352",
+        "title": "Software Engineer Intern (Full Stack)",
+        "company": "RapidFacto",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-21T18:40:09.053838+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362019001",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-4199719391331605474",
         "title": "FrontEnd React Developer",
         "company": "VectorIQ",
@@ -1463,48 +1491,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-20T20:12:25.660234+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4354034887",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "623029045383132618",
-        "title": "React Js Developer",
-        "company": "Synectics APAC",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-20T18:34:40.670116+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4337644709",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7678358135074030927",
-        "title": "Junior Front-End Developer",
-        "company": "Ziphire HR",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-20T18:34:40.670116+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364919101",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4612182848954168657",
-        "title": "Fresher React Native Developer (6 months min)",
-        "company": "WONDRx",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-20T17:55:34.449130+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361941708",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
