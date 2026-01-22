@@ -1,5 +1,33 @@
 [
     {
+        "id": "-868979312603021668",
+        "title": "Frontend Developer (Fresher / Recent Graduate)",
+        "company": "RuwadDigital",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T05:53:34.481282+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362137300",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1841065690622224108",
+        "title": "ReactJS Developer",
+        "company": "NAM Info Inc",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T05:53:34.481282+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365232925",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5312526544505756271",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "Wake Up Whistle",
@@ -1435,20 +1463,6 @@
         "date_posted": "2026-01-20",
         "found_at": "2026-01-21T05:53:18.828646+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4354041223",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6220629891172191815",
-        "title": "Frontend Developer(Fresher)",
-        "company": "Delta4 Infotech",
-        "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T05:27:54.897095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360973596",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
