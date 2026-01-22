@@ -1,5 +1,75 @@
 [
     {
+        "id": "412385151716610457",
+        "title": "React Developer",
+        "company": "Arting Digital",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T15:36:55.528879+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362583208",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4874381656611635922",
+        "title": "Web Developer (React/Next.js)",
+        "company": "EG A/S",
+        "location": "Mangaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T15:36:55.528879+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365081882",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3606311389823734324",
+        "title": "React, Angular Developer",
+        "company": "Infosys",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T15:36:55.528879+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362670354",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7382302126975593967",
+        "title": "AI / ML Engineer",
+        "company": "Accenture in India",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T15:36:55.528879+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-886161112890262762",
+        "title": "Java Full Stack Developer, Associate",
+        "company": "Deutsche Bank",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T15:36:55.528879+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365102207",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "499648442209386352",
         "title": "Frontend Developer",
         "company": "Talentgigs",
@@ -1337,48 +1407,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-21T15:41:08.075243+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4337435419",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2308729019331011546",
-        "title": "React Developer",
-        "company": "Virtusa",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "2026-01-20",
-        "found_at": "2026-01-21T14:59:54.045304+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353963428",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8115610807665196768",
-        "title": "React.js developer",
-        "company": "Tech Prescient",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T14:59:54.045304+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353999808",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8060241376712203644",
-        "title": "Frontend Developer",
-        "company": "SRV Media",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T14:59:54.045304+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365056897",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
