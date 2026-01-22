@@ -1,5 +1,33 @@
 [
     {
+        "id": "8466879784414819593",
+        "title": "Frontend Developer (React.Js)",
+        "company": "Flexton Inc.",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T09:01:45.297059+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363822952",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "568185179652451705",
+        "title": "Full Stack Developer",
+        "company": "Rolls-Royce",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T09:01:45.297059+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365252631",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2564989073875427961",
         "title": "Python + ReactJS developer",
         "company": "Wipro",
@@ -1169,104 +1197,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-21T09:40:12.189755+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4353978256",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2281546282624502058",
-        "title": "Full Stack Engineer",
-        "company": "Deloitte",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-20",
-        "found_at": "2026-01-21T08:59:29.097083+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353971991",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2555305144235577227",
-        "title": "Java Full Stack Engineer | 8 Years | Bangalore",
-        "company": "Deloitte",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:59:29.097083+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354028231",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5220672992992477462",
-        "title": "SOFTWARE ENGINEER TRAINEE",
-        "company": "NIIT Limited",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:59:29.097083+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365037148",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1415747697773077139",
-        "title": "Web Developer (MERN Stack)",
-        "company": "Lytegen",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:59:29.097083+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354027049",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3960319578564074212",
-        "title": "Front-end Developer",
-        "company": "Lexmark",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:30:16.330837+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358452670",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-770957934224737299",
-        "title": "Intern, Software Engineering",
-        "company": "Workato",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:30:16.330837+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365027204",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1650353632731232712",
-        "title": "Software Engineer - 1 (Platform | Backend)",
-        "company": "Parspec",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T08:30:16.330837+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365037037",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
