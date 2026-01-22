@@ -1,5 +1,47 @@
 [
     {
+        "id": "-7777643605103923395",
+        "title": "Front End (React) Developer",
+        "company": "Quest Global",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T17:28:02.686249+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362178842",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7652433438807935775",
+        "title": "ReactJS, React SPA, Redux Developer",
+        "company": "UST",
+        "location": "Trivandrum, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T17:28:02.686249+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355312274",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6149844458859199718",
+        "title": "Full stack Developer(Java)",
+        "company": "ZEISS India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-22T17:28:02.686249+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362532690",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3086126316277183326",
         "title": "Software Developer (Python, React/Vue)",
         "company": "CG-VAK Software & Exports Ltd.",
@@ -1337,34 +1379,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-21T17:53:56.368794+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361909598",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2583102735560344781",
-        "title": "Frontend Developer",
-        "company": "Wama Technology Pvt Ltd  - Providing Staff Augmentation, Software Solutions Globally",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T16:42:22.987480+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4353999807",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3926820611662424264",
-        "title": "Nodejs Developer",
-        "company": "Flyweis Technology",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T16:42:22.987480+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361948508",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
