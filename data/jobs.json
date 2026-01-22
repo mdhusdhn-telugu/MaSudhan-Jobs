@@ -1,5 +1,19 @@
 [
     {
+        "id": "-3722426211530689817",
+        "title": "Front-End Developer (AI-Focused) \u2013 Fresher",
+        "company": "Aegis Security",
+        "location": "",
+        "date_posted": "2026-01-21",
+        "found_at": "2026-01-22T19:45:18.928565+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365111583",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6323889925148008529",
         "title": "React Frontend Developer",
         "company": "Strategic Talent Partner",
@@ -1407,20 +1421,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-21T20:29:16.027041+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4325364781",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2112315211204221874",
-        "title": "Front-End Developer (AI-Focused) \u2013 Fresher",
-        "company": "Aegis Security",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-21T19:25:59.437524+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365111583",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
