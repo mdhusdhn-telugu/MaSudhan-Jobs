@@ -1,5 +1,33 @@
 [
     {
+        "id": "-8809194051308702655",
+        "title": "Front End Developer",
+        "company": "Hogarth",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T17:29:36.745517+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4346760460",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6908712099035401406",
+        "title": "Software Engineer Intern",
+        "company": "Educatory",
+        "location": "Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T17:29:36.745517+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363414548",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6238969483803230809",
         "title": "Front End Developer",
         "company": "InvoiceCloud, Inc.",
@@ -1211,48 +1239,6 @@
         "date_posted": "2026-01-21",
         "found_at": "2026-01-22T17:55:13.664682+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4344485824",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7777643605103923395",
-        "title": "Front End (React) Developer",
-        "company": "Quest Global",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-22T17:28:02.686249+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362178842",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7652433438807935775",
-        "title": "ReactJS, React SPA, Redux Developer",
-        "company": "UST",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-22T17:28:02.686249+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355312274",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6149844458859199718",
-        "title": "Full stack Developer(Java)",
-        "company": "ZEISS India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-22T17:28:02.686249+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362532690",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
