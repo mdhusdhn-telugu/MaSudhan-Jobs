@@ -1,5 +1,19 @@
 [
     {
+        "id": "3314958938546694342",
+        "title": "Pixxel - Embedded Test Engineer - Automation Testing",
+        "company": "Pixxel",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T22:17:58.706963+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365394700",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1540822472532771841",
         "title": "Full Stack Engineer",
         "company": "Accenture services Pvt Ltd",
@@ -1239,20 +1253,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-22T23:20:18.017117+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4362565014",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1095320062120300118",
-        "title": "Intern, Software Engineering",
-        "company": "Lowe's India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-21",
-        "found_at": "2026-01-22T21:47:10.073790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362540323",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
