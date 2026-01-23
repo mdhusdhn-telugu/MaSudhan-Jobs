@@ -1,5 +1,117 @@
 [
     {
+        "id": "1540822472532771841",
+        "title": "Full Stack Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-22",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362527825",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8323255357413110092",
+        "title": "Quality Assurance Automation Engineer (Javascript)",
+        "company": "Luxoft",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365430516",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4159874297740263335",
+        "title": "Jr. Developer (PHP, Angular)",
+        "company": "Abmiro",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363453050",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1435776229307500227",
+        "title": "Job Full Stack Engineer - Cross Platform Applications",
+        "company": "BSH Home Appliances Group",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363443355",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-552404712528038128",
+        "title": "Frontend Developer \u2013 Agentic AI",
+        "company": "Aptino, Inc.",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4354179908",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3825249671931790047",
+        "title": "React JS Developer",
+        "company": "SD Innovations",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321330459",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1416526847381756193",
+        "title": "Angular/UI Developer - Director- Software Engineering",
+        "company": "Morgan Stanley",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363392722",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3285291496059104570",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-23T21:20:22.846826+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365559410",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6091309651026129374",
         "title": "Front-End Developer (AI-Focused) \u2013 Fresher",
         "company": "Aegis Security",
@@ -1155,34 +1267,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-22T21:21:54.169885+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4365350622",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2486010834354079708",
-        "title": "React Js Developer",
-        "company": "Synectics APAC",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-22T20:51:07.656771+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4337644709",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "64381571589254899",
-        "title": "Front-End Developer Intern",
-        "company": "UM IT Solutions",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-22T20:51:07.656771+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365336843",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
