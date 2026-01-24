@@ -1,5 +1,89 @@
 [
     {
+        "id": "-2173335108882280259",
+        "title": "Frontend Developer (Reactjs & typescript)",
+        "company": "Tesslogs IT Solutions",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355680025",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2396732142024823574",
+        "title": "Frontend Developer",
+        "company": "Talentoindia - Jobs & Hiring Platform",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363487904",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2761152224800635939",
+        "title": "Operations Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321345538",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "252595968888230443",
+        "title": "Full Stack Developer",
+        "company": "IDFC FIRST Bank",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4329864923",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8633801396328975651",
+        "title": "Full Stack Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355470071",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1282841817142410181",
+        "title": "Fullstack Developer",
+        "company": "Virtusa",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T09:19:45.490288+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355308915",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-7472792893514582587",
         "title": "ReactJS Developer",
         "company": "LTIMindtree",
@@ -1155,34 +1239,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-23T09:31:44.854017+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4362663019",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8771472618384933560",
-        "title": "React.js Developer",
-        "company": "CashKaro.com",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T08:57:07.087881+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355263821",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8768772271236246361",
-        "title": "Frontend Developer (Ecommerce)",
-        "company": "iO Associates",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T08:57:07.087881+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362543351",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
