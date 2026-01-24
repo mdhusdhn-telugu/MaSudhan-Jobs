@@ -1,5 +1,47 @@
 [
     {
+        "id": "3323095309042618798",
+        "title": "Associate - Business Analyst-Application Development-Full Stack Developer",
+        "company": "EXL",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T16:23:06.950684+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4346967993",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-480227991428636810",
+        "title": "Next.js Developer",
+        "company": "Appentus Technologies",
+        "location": "Kanayannur, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T16:23:06.950684+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355368559",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6749384737361623314",
+        "title": "Full Stack Engineer",
+        "company": "ITC Limited",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T16:23:06.950684+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321386169",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1168568096234663901",
         "title": "Frontend Developer-React",
         "company": "Orion Innovation",
@@ -1309,20 +1351,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-23T16:28:41.009994+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4321300726",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2540974913939171800",
-        "title": "AI / ML Engineer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "2026-01-22",
-        "found_at": "2026-01-23T15:49:47.415600+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
