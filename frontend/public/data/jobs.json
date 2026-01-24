@@ -1,5 +1,47 @@
 [
     {
+        "id": "4389220449734526752",
+        "title": "Javascript Developer",
+        "company": "Tata Consultancy Services",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T07:40:52.328430+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363474853",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1480520869178414348",
+        "title": "Front End Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T07:40:52.328430+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365650143",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-820453701183719368",
+        "title": "Software Developer / Software Engineer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T07:40:52.328430+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365636767",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1739264194712287117",
         "title": "React Js Developer",
         "company": "Infosys",
@@ -1141,62 +1183,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-23T08:28:48.715621+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4355400209",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8413910673119952250",
-        "title": "Frontend Developer- React.js, TypeScript, REST API integration, Bootstrap, and responsive UI development",
-        "company": "Tata Consultancy Services",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T07:24:54.243554+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363371526",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5765243781114110234",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T07:24:54.243554+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365436890",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6020068233349942898",
-        "title": "Javascript Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T07:24:54.243554+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362641377",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8860099958902839827",
-        "title": "Software Developer / Software Engineer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T07:24:54.243554+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365438809",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
