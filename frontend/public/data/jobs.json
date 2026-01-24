@@ -1216,19 +1216,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "8107361734055757027",
-        "title": "Full Stack Developer (Fresher)",
-        "company": "OP",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-23T23:20:32.529557+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355560199",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
