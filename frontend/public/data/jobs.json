@@ -1,5 +1,19 @@
 [
     {
+        "id": "-5642171470984242991",
+        "title": "Associate Python and ML Engineer",
+        "company": "bitWise Academy",
+        "location": "Coimbatore, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-24T05:45:10.797039+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321364370",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1613605185175319496",
         "title": "Full Stack Web Developer Intern",
         "company": "Dexter's Tech",
