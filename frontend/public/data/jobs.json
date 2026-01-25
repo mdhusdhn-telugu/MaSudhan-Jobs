@@ -1,5 +1,19 @@
 [
     {
+        "id": "4130298513034176975",
+        "title": "Backend Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T15:42:33.445177+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321511972",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3416117618539272082",
         "title": "React Developer",
         "company": "Scoutit",
@@ -1029,34 +1043,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-24T15:42:12.654453+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363499972",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7755106865874648022",
-        "title": "Backend Developer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T15:19:15.448197+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363449909",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2981924930793271564",
-        "title": "Frontend Engineer",
-        "company": "Brudite Private Limited",
-        "location": "Jaipur, Rajasthan, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T15:19:15.448197+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355690625",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
