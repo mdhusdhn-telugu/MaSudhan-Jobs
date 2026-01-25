@@ -1314,19 +1314,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-2767863941427359886",
-        "title": "Web APP/SDK Developer (React.js)",
-        "company": "Digitap.ai",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T08:25:33.090225+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363463664",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
