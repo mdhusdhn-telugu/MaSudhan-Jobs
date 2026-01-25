@@ -1,5 +1,61 @@
 [
     {
+        "id": "-2645077216587811539",
+        "title": "Software Engineer Intern (AI & Full-Stack)",
+        "company": "AdyriX",
+        "location": "Mangalagiri, Andhra Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T21:18:15.246521+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321512774",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3502455689355922030",
+        "title": "Full Stack AI-Native Developer",
+        "company": "Ziphire HR",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T21:18:15.246521+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365755164",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2976678499751881180",
+        "title": "Developer III - Python Fullstack (angular,typescript,javascript,Python, html)",
+        "company": "UST",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T21:18:15.246521+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4350295335",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6855771767241338725",
+        "title": "Fullstack Developer (Angular, Java)",
+        "company": "UST",
+        "location": "Coimbatore, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T21:18:15.246521+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4302613874",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3912096628068520744",
         "title": "React JS Developer",
         "company": "UST",
