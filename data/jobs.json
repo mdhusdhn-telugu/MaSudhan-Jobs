@@ -1,5 +1,19 @@
 [
     {
+        "id": "-2376989394938641257",
+        "title": "Full Stack Engineer",
+        "company": "Infralyte Technologies",
+        "location": "Raipur, Chhattisgarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-25T18:53:47.438615+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364256191",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "435038471323046255",
         "title": "React Frontend Developer (Intern)",
         "company": "Anuron Security",
@@ -959,76 +973,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-24T18:53:47.414084+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4321530526",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9010945582534849429",
-        "title": "Web Developer Intern",
-        "company": "Kran Consulting Pvt. Ltd",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:27:59.657007+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365686287",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8634027950932895831",
-        "title": "Packaged/SaaS Application Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:27:59.657007+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363478997",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6558681181857293023",
-        "title": "Software Developer / Software Engineer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:27:59.657007+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355840852",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3786461997654658666",
-        "title": "JAVA FULL STACK DEVELOPER -Consultant -Gurugram",
-        "company": "PwC India",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:27:59.657007+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4291059996",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2665096443996541988",
-        "title": "Web Developer",
-        "company": "MetBrains Inc.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:27:59.657007+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355900152",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
