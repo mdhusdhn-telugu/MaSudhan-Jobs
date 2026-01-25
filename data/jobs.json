@@ -1300,19 +1300,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-7472792893514582587",
-        "title": "ReactJS Developer",
-        "company": "LTIMindtree",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "2026-01-23",
-        "found_at": "2026-01-24T08:49:53.683945+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363432290",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
