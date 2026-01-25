@@ -1,5 +1,61 @@
 [
     {
+        "id": "-8663659220327347569",
+        "title": "Python Developer Jobs",
+        "company": "Various Companies",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "2026-01-21",
+        "found_at": "2026-01-25T19:16:40.466217+00:00",
+        "job_url": "https://www.djobbuzz.com/skill/job-by-skill/15/python-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
+        "id": "1754376387643017136",
+        "title": "Python Trainer & Developer",
+        "company": "Operations Cognizants",
+        "location": "New Delhi, Delhi, India",
+        "date_posted": "2026-01-18",
+        "found_at": "2026-01-25T19:16:40.466217+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3942&job-name=Python+Trainer+&+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "3889287892916489665",
+        "title": "Trainee Python Developer",
+        "company": "Operations Cognizants",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-14",
+        "found_at": "2026-01-25T19:16:40.466217+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3887&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
+        "id": "8046745407968582915",
+        "title": "Python / Django Developer",
+        "company": "Operations Cognizants",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-08",
+        "found_at": "2026-01-25T19:16:40.466217+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3868&job-name=Python+/+Django+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
         "id": "-2376989394938641257",
         "title": "Full Stack Engineer",
         "company": "Infralyte Technologies",
@@ -959,20 +1015,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-24T19:16:21.528945+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4355710893",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8666681865761788514",
-        "title": "Frontend Developer Intern (React.js / Next.js)",
-        "company": "Hike Digital Agency",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-24T18:53:47.414084+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321530526",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
