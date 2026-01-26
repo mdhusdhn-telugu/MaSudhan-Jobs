@@ -1398,19 +1398,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "8560632543093194375",
-        "title": "Fullstack Developer (React / Node)",
-        "company": "MULLY TECHNOLOGY",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T14:44:15.865214+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321421414",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
