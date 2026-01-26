@@ -1,5 +1,19 @@
 [
     {
+        "id": "1117801879420788461",
+        "title": "React JS Developer",
+        "company": "Tata Consultancy Services",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T23:21:13.653942+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365893022",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2787880186103746619",
         "title": "Frontend Developer",
         "company": "FoodLuv",
@@ -1103,104 +1117,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 50
-        }
-    },
-    {
-        "id": "-2087493006923523284",
-        "title": "DI \u2013 React Js UI Developer (CE512SF RM 3885)",
-        "company": "Source-Right",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365766853",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3353766403533620543",
-        "title": "Web Designer/ HTML Developer",
-        "company": "Bharati Infotech",
-        "location": "India",
-        "date_posted": "2026-01-22",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://www.shine.com/jobs/web-designer-html-developer/bharati-infotech/18479750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42
-        }
-    },
-    {
-        "id": "4531256670076484229",
-        "title": "Front-End Developer (AI-Focused) \u2013 Fresher",
-        "company": "Aegis Security",
-        "location": "Gandhi Nagar, Andhra Pradesh, India",
-        "date_posted": "2026-01-02",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://www.recruit.net/job/front-end-developer-ai-focused-jobs/4032A485BA9B2AF2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 91
-        }
-    },
-    {
-        "id": "871356829185160430",
-        "title": "Freshers New Graduates (React Developer)",
-        "company": "GoSevIT Software Development Pvt Ltd",
-        "location": "Tirupati, Andhra Pradesh, India",
-        "date_posted": "2026-01-02",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://jobshorn.com/job/freshers-new-graduates-react-developer/5903?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 34
-        }
-    },
-    {
-        "id": "-4660516257201772112",
-        "title": "Junior WordPress Frontend Developer",
-        "company": "bliss web solution",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "2026-01-02",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://www.glassdoor.co.in/job-listing/junior-wordpress-frontend-developer-bliss-web-solution-JV_IC2935226_KO0,35_KE36,54.htm?jl=1009404974608&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 42
-        }
-    },
-    {
-        "id": "4004403254700502585",
-        "title": "Web Developer - Fresher Weaving the Web with Innovative Threads.",
-        "company": "GegoSoft Technologies",
-        "location": "Madurai, Tamil Nadu, India",
-        "date_posted": "2026-01-02",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://www.glassdoor.co.in/job-listing/web-developer-fresher-weaving-the-web-with-innovative-threads-gegosoft-technologies-JV_IC2833210_KO0,61_KE62,83.htm?jl=1009650262990&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 77
-        }
-    },
-    {
-        "id": "-2980988119209668356",
-        "title": "Junior Web Developer \u2013 Remote Internship/Fresher Role",
-        "company": "Houston Skilled Consultancy",
-        "location": "India",
-        "date_posted": "2026-01-02",
-        "found_at": "2026-01-25T23:19:37.661862+00:00",
-        "job_url": "https://theelitejob.com/job/16270/junior-web-developer-%E2%80%93-remote-internship-fresher-role?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 91
         }
     }
 ]
