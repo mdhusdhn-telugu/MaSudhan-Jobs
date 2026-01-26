@@ -1,5 +1,19 @@
 [
     {
+        "id": "423828064547875811",
+        "title": "Software Development Engineer",
+        "company": "Accenture in India",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T15:29:05.545980+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366165218",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8726518677601686217",
         "title": "Front-End Developer Intern",
         "company": "Dexter's Tech",
@@ -1351,48 +1365,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-25T15:42:33.445177+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4321511972",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3416117618539272082",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T15:19:33.058621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321358143",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "719151905423945207",
-        "title": "Frontend Developer",
-        "company": "Scoutit",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T15:19:33.058621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321491986",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "114519633043388029",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Unified Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T15:19:33.058621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365749351",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
