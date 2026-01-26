@@ -1,5 +1,75 @@
 [
     {
+        "id": "8298239164687694953",
+        "title": "Full Stack Engineer",
+        "company": "Luxoft",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:26:24.234153+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366127051",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1618306067523733601",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:26:24.234153+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355695543",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4116200330215402943",
+        "title": "Backend Software Engineer",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-25",
+        "found_at": "2026-01-26T10:26:24.234153+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4265419132",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7175023235929416644",
+        "title": "Full Stack Platform Engineer",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-25",
+        "found_at": "2026-01-26T10:26:24.234153+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4324743693",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "21834773394243492",
+        "title": "Software Engineer III - Java Full Stack",
+        "company": "Walmart Global Tech India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:26:24.234153+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4255729977",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-780486835340188884",
         "title": "Frontend Developer - NextJS",
         "company": "Expert Hire",
@@ -1323,34 +1393,6 @@
         "date_posted": "2026-01-24",
         "found_at": "2026-01-25T10:46:48.959524+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4351074722",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8980601027922813850",
-        "title": "Backend Software Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T10:21:00.784528+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4265419132",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-37648619368992956",
-        "title": "Full Stack Platform Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T10:21:00.784528+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4324743693",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
