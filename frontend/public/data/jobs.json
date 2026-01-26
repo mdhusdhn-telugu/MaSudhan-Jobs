@@ -1,5 +1,47 @@
 [
     {
+        "id": "8853809466681561258",
+        "title": "Geidea - Backend Developer - Java/Node.js",
+        "company": "geidea",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T01:46:48.863060+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365767727",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8261344191734053118",
+        "title": "Fullstack Engineer (Java, JavaScript & Node.js)",
+        "company": "Flexton Inc.",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T01:46:48.863060+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365474532",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3654542197799890232",
+        "title": "Software Engineer - Java Full Stack",
+        "company": "Empower India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T01:46:48.863060+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355363546",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2087493006923523284",
         "title": "DI \u2013 React Js UI Developer (CE512SF RM 3885)",
         "company": "Source-Right",
