@@ -1,5 +1,19 @@
 [
     {
+        "id": "2073404995614038625",
+        "title": "Java Angular Fullstack Developer-Bangalore/Pune/Chennai/Kolkata/Noida/Mumbai",
+        "company": "LTIMindtree",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T17:54:34.273938+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355798442",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8168935399069418406",
         "title": "Full Stack React Developer (React & NodeJS))",
         "company": "Synechron",
@@ -1337,48 +1351,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-25T18:28:31.061848+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4321470479",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2562656244547170415",
-        "title": "Frontend Developer",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T17:43:04.193608+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355710871",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7495561545206983594",
-        "title": "Web Developer",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T17:43:04.193608+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355820830",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5950177735757922690",
-        "title": "Python Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T17:43:04.193608+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355730835",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
