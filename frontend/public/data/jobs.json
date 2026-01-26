@@ -1,5 +1,103 @@
 [
     {
+        "id": "-275855072206547444",
+        "title": "Full stack backend developer - Associate 2",
+        "company": "PwC Acceleration Center India",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4350130093",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3259289516916035879",
+        "title": "Frontend Developer",
+        "company": "Hiring Today",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365825596",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6944449093296620277",
+        "title": "Fullstack Developer (React + Python)",
+        "company": "SAS",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1707305393640449081",
+        "title": "Software Engineer, Front-End - X Delivery",
+        "company": "Boston Consulting Group (BCG)",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4302772875",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5773557424366677984",
+        "title": "Full Stack Developer",
+        "company": "Picarro",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4226842980",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8097862295485043423",
+        "title": "Trainee RWD Software Engineer",
+        "company": "Gallagher",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4151673062",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5324722340715141110",
+        "title": "Front End Developer",
+        "company": "Shure India",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T12:44:00.459182+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330085376",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "9157930847059718450",
         "title": "Frontend Software Engineer",
         "company": "DealHub.io",
@@ -1379,104 +1477,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-25T13:31:57.528677+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4347060241",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8372886624018049898",
-        "title": "Consultant - Apps Full Stack Engineer",
-        "company": "Microsoft",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365665601",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2293017922298657652",
-        "title": "Front-End Developer",
-        "company": "LSEG",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4191899132",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2694951566465727967",
-        "title": "Full Stack Developer Intern (MERN Stack)",
-        "company": "PTN Events",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365709699",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8851672702703893092",
-        "title": "Full Stack Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355740838",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3528380158982714908",
-        "title": "Full-stack app developer (Part-time, Equity only - No pay until funding)",
-        "company": "PD Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321338639",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6704147613647862833",
-        "title": "Full Stack Engineer",
-        "company": "Artus",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363389851",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3644943000609953957",
-        "title": "Software Full Stack Developer \u2014 AI & Ads Tech",
-        "company": "Alttred Miinds",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T12:39:07.221790+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321398175",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
