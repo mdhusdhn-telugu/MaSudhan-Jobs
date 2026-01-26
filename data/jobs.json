@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6767697267403239342",
+        "title": "Freelance Software Engineer (Frontend / Backend)",
+        "company": "Fynd AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T11:19:57.385063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321444536",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1957215545976492627",
+        "title": "Sr Java Fullstack Developer (Core java + React)",
+        "company": "WONDRx",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T11:19:57.385063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365812610",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "9081750771418806022",
+        "title": "Freelance Full Stack Developer",
+        "company": "Flexing It\u00ae",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T11:19:57.385063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365799428",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6504090486522006113",
         "title": "front end react developer",
         "company": "MIRAMASA",
