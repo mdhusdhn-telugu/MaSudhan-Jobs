@@ -1,5 +1,47 @@
 [
     {
+        "id": "-780486835340188884",
+        "title": "Frontend Developer - NextJS",
+        "company": "Expert Hire",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T09:56:32.654886+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4311859071",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2153191928937109494",
+        "title": "AI / ML Engineer",
+        "company": "Accenture in India",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T09:56:32.654886+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-301871415858371804",
+        "title": "Web Application Frontend Developer (m/f/x)",
+        "company": "BAUER Group",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T09:56:32.654886+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321474067",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6176033411585279982",
         "title": "Full Stack Developer (JavaScript + Python) (Remote, Full-Time), India [U001]",
         "company": "Smart Working",
