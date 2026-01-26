@@ -1,5 +1,33 @@
 [
     {
+        "id": "2928668957861944667",
+        "title": "React Js Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "2026-01-25",
+        "found_at": "2026-01-26T07:26:58.095861+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321531812",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1532159146472476246",
+        "title": "Frontend Developer",
+        "company": "VectorShift",
+        "location": "",
+        "date_posted": "2026-01-25",
+        "found_at": "2026-01-26T07:26:58.095861+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321358006",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1121279248833430859",
         "title": "Frontend Developer \u2013 React (Intern)",
         "company": "LearnRush LMS",
@@ -1127,160 +1155,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-25T07:42:24.159339+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4355763532",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2710024104065091486",
-        "title": "React Js Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T07:23:21.990824+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321531812",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1289744545928741695",
-        "title": "Frontend Developer",
-        "company": "VectorShift",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T07:23:21.990824+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321358006",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6064568325834417060",
-        "title": "Web Developer Intern",
-        "company": "WEBBOOST SOLUTION IT SERVICES",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T07:23:21.990824+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365681491",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2831547465241140096",
-        "title": "Front-End Developer (Fresher)",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363378245",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3360829945950553886",
-        "title": "Frontend Developer Intern",
-        "company": "goatdevelopers.com",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321364862",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6888140056603343124",
-        "title": "Web Developer - Fresher",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321344866",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7278074595637217847",
-        "title": "Python Software Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363448475",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "979530611626059972",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321307051",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5899185678857672163",
-        "title": "Full Stack Engineer",
-        "company": "Deloitte",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355692663",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6906956505130062588",
-        "title": "Backend Developer @ Gnani.ai",
-        "company": "Aviate",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362791283",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8265359300706650905",
-        "title": "Full Stack Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T06:57:37.503714+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363479001",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
