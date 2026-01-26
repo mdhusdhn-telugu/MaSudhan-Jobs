@@ -1,5 +1,47 @@
 [
     {
+        "id": "6504090486522006113",
+        "title": "front end react developer",
+        "company": "MIRAMASA",
+        "location": "Vadodara, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:52:48.242063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321504389",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7285347440762199981",
+        "title": "Front-End Web Developer",
+        "company": "Aptino, Inc.",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:52:48.242063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355746716",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7947964686041036773",
+        "title": "Backend Platform Engineer (SaaS)",
+        "company": "izmo ltd",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-26T10:52:48.242063+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366126156",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8298239164687694953",
         "title": "Full Stack Engineer",
         "company": "Luxoft",
@@ -1351,48 +1393,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-25T11:39:29.708143+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4355883164",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2338786190731000572",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-25T10:46:48.959524+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321339521",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7450435927479065122",
-        "title": "SOA Developer",
-        "company": "Cummins India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T10:46:48.959524+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4323573044",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3353281954794419826",
-        "title": "Full Stack Developer (SDE - 1) at Gobblecube.ai",
-        "company": "Jack & Jill",
-        "location": "",
-        "date_posted": "2026-01-24",
-        "found_at": "2026-01-25T10:46:48.959524+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351074722",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
