@@ -1,5 +1,19 @@
 [
     {
+        "id": "-826438370650546942",
+        "title": "Apprentice - Backend Engineer",
+        "company": "Cowbell",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T11:45:56.367882+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365972170",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3149304758916090840",
         "title": "Javascript Developer",
         "company": "NopAdvance LLP",
@@ -945,90 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-26T12:44:00.459182+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4330085376",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9157930847059718450",
-        "title": "Frontend Software Engineer",
-        "company": "DealHub.io",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366120544",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6714934488529467216",
-        "title": "Frontend Engineer",
-        "company": "Calyptus",
-        "location": "New Delhi, Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366133327",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8995729595271320770",
-        "title": "Software Development Engineer, Amazon Smart Vehicles",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4312929636",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4929007511448822669",
-        "title": "DEVELOPER INTERNSHIP",
-        "company": "ZenzHub",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321445914",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9110006191679883721",
-        "title": "C#.NET Full Stack Developer",
-        "company": "Gainwell Technologies",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4290700774",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2533442172206392191",
-        "title": "Backend Software Engineer",
-        "company": "DealHub.io",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T11:43:01.260923+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366127440",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
