@@ -1,5 +1,117 @@
 [
     {
+        "id": "-5446372806315413867",
+        "title": "Full stack backend developer - Associate 2",
+        "company": "PwC Acceleration Center India",
+        "location": "Andhra Pradesh, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4350130093",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1741095989034246338",
+        "title": "Consultant - Apps Full Stack Engineer A2",
+        "company": "Microsoft",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366350154",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8759668783141445721",
+        "title": "Front End Developer",
+        "company": "Shure India",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4330085376",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7822122129464956533",
+        "title": "Frontend Engineer - React.js (1-2yrs)",
+        "company": "Wisemonk",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365967545",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8193439386472249147",
+        "title": "Front End Developer - Entry",
+        "company": "Equifax",
+        "location": "Trivandrum, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365970380",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "558018728744685669",
+        "title": "Web Developer",
+        "company": "Radancy",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4331623760",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1808363392555637749",
+        "title": "Trainee RWD Software Engineer",
+        "company": "Gallagher",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4151673062",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7324961463667828282",
+        "title": "Fullstack Developer (React + Python)",
+        "company": "SAS",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-01-27T12:45:04.042666+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-826438370650546942",
         "title": "Apprentice - Backend Engineer",
         "company": "Cowbell",
@@ -861,104 +973,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-26T13:43:30.169522+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4321546353",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-275855072206547444",
-        "title": "Full stack backend developer - Associate 2",
-        "company": "PwC Acceleration Center India",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4350130093",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3259289516916035879",
-        "title": "Frontend Developer",
-        "company": "Hiring Today",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365825596",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6944449093296620277",
-        "title": "Fullstack Developer (React + Python)",
-        "company": "SAS",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1707305393640449081",
-        "title": "Software Engineer, Front-End - X Delivery",
-        "company": "Boston Consulting Group (BCG)",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4302772875",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5773557424366677984",
-        "title": "Full Stack Developer",
-        "company": "Picarro",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4226842980",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8097862295485043423",
-        "title": "Trainee RWD Software Engineer",
-        "company": "Gallagher",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4151673062",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5324722340715141110",
-        "title": "Front End Developer",
-        "company": "Shure India",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T12:44:00.459182+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4330085376",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
