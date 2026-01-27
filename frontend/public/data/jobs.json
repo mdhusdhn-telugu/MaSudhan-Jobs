@@ -1,5 +1,19 @@
 [
     {
+        "id": "7460118588692638718",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T10:56:09.362010+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4313254449",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1016935536563647688",
         "title": "Full-Stack Python Developer",
         "company": "Adobe",
@@ -1043,118 +1057,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-26T11:19:57.385063+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4365799428",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6504090486522006113",
-        "title": "front end react developer",
-        "company": "MIRAMASA",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:52:48.242063+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321504389",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7285347440762199981",
-        "title": "Front-End Web Developer",
-        "company": "Aptino, Inc.",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:52:48.242063+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355746716",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7947964686041036773",
-        "title": "Backend Platform Engineer (SaaS)",
-        "company": "izmo ltd",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:52:48.242063+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366126156",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8298239164687694953",
-        "title": "Full Stack Engineer",
-        "company": "Luxoft",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:26:24.234153+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366127051",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1618306067523733601",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:26:24.234153+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355695543",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4116200330215402943",
-        "title": "Backend Software Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T10:26:24.234153+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4265419132",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7175023235929416644",
-        "title": "Full Stack Platform Engineer",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T10:26:24.234153+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4324743693",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "21834773394243492",
-        "title": "Software Engineer III - Java Full Stack",
-        "company": "Walmart Global Tech India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T10:26:24.234153+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4255729977",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
