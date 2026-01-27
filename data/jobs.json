@@ -1,5 +1,19 @@
 [
     {
+        "id": "-926609990957128641",
+        "title": "Javascript Developer - Remote Work",
+        "company": "BairesDev",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-01-27T20:47:32.029433+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365864901",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9187033556088464910",
         "title": "Frontend Engineer (React+ Javascript)",
         "company": "Apple",
@@ -893,76 +907,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 57
-        }
-    },
-    {
-        "id": "-5869251811661915504",
-        "title": "React JS Developer",
-        "company": "UST",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T20:25:55.090724+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351984868",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "850092642528432540",
-        "title": "Frontend Engineer (React.js) Developer III - Software Engineering",
-        "company": "UST",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T20:25:55.090724+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354000017",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6712628555466335057",
-        "title": "ReactJS, React SPA, Redux Developer",
-        "company": "UST",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "2026-01-25",
-        "found_at": "2026-01-26T20:25:55.090724+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355312274",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1225092098415479374",
-        "title": "UI Developer /Frontend developer",
-        "company": "Clearwater",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T20:25:55.090724+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4344034163",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1485498695439475035",
-        "title": "Javascript Developer - Remote Work",
-        "company": "BairesDev",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T20:25:55.090724+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365867691",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
         }
     }
 ]
