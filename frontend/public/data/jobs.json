@@ -1,5 +1,75 @@
 [
     {
+        "id": "-371763939335959466",
+        "title": "React and Node JS Developer",
+        "company": "Infosys",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T21:17:31.825992+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365987293",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8172065472470351862",
+        "title": "Full Stack Developer ( React )",
+        "company": "Vertis",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T21:17:31.825992+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356173808",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2387938965669182146",
+        "title": "Frontend Engineer",
+        "company": "Sporty Group",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T21:17:31.825992+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343617323",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5737772571322945915",
+        "title": "Node.js Developer",
+        "company": "Weekday AI (YC W21)",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T21:17:31.825992+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366337322",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3619837432746678157",
+        "title": "Full stack Developer (Java+React) and (Python+ React)",
+        "company": "Fractal",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T21:17:31.825992+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/3964259507",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-926609990957128641",
         "title": "Javascript Developer - Remote Work",
         "company": "BairesDev",
@@ -893,20 +963,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 50
-        }
-    },
-    {
-        "id": "-4754441619762038549",
-        "title": "Frontend Devloper Internship",
-        "company": "Springer Capital",
-        "location": "India",
-        "date_posted": "2026-01-11",
-        "found_at": "2026-01-26T20:50:46.126282+00:00",
-        "job_url": "https://www.adzuna.in/details/5537390925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 57
         }
     }
 ]
