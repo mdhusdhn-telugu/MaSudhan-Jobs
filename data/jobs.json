@@ -1,5 +1,33 @@
 [
     {
+        "id": "-1016935536563647688",
+        "title": "Full-Stack Python Developer",
+        "company": "Adobe",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T10:26:41.822640+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4325624162",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2379592032004697578",
+        "title": "Frontend Developer",
+        "company": "Siemens Gamesa",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T10:26:41.822640+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365961388",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7773039690151715812",
         "title": "Web Developer - SDE 1",
         "company": "Groww",
@@ -1127,48 +1155,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-26T10:26:24.234153+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4255729977",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-780486835340188884",
-        "title": "Frontend Developer - NextJS",
-        "company": "Expert Hire",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T09:56:32.654886+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4311859071",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2153191928937109494",
-        "title": "AI / ML Engineer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T09:56:32.654886+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-301871415858371804",
-        "title": "Web Application Frontend Developer (m/f/x)",
-        "company": "BAUER Group",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-26T09:56:32.654886+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321474067",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
