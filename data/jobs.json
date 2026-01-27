@@ -1,5 +1,19 @@
 [
     {
+        "id": "-806681870124720531",
+        "title": "Entry-Level Full Stack Developer",
+        "company": "Getege EdTech Pvt. Ltd.",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-27T22:47:07.471068+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366066630",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "546404132181457398",
         "title": "Custom Software Engineer",
         "company": "Accenture services Pvt Ltd",
