@@ -1034,47 +1034,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "546404132181457398",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-01-26",
-        "found_at": "2026-01-27T21:43:19.540742+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365881336",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6192397688449829376",
-        "title": "AI / ML Engineer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-27T21:43:19.540742+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6567961243137073837",
-        "title": "Junior Full Stack Engineer (Node.JS & React)",
-        "company": "Global Software Solutions Group",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-27T21:43:19.540742+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366364280",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
