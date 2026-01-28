@@ -1132,19 +1132,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-926609990957128641",
-        "title": "Javascript Developer - Remote Work",
-        "company": "BairesDev",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "2026-01-26",
-        "found_at": "2026-01-27T20:47:32.029433+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365864901",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
