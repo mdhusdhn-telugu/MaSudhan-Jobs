@@ -1,5 +1,47 @@
 [
     {
+        "id": "-4077245369445027814",
+        "title": "Frontend Developer",
+        "company": "Siemens Gamesa",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-27",
+        "found_at": "2026-01-28T10:55:50.861488+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4365961388",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3283733888084652406",
+        "title": "UI/UX & Front-End Developer",
+        "company": "LPU Online",
+        "location": "Jalandhar, Punjab, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-28T10:55:50.861488+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366435952",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5927724321973452101",
+        "title": "Full Stack Developer",
+        "company": "Skild AI",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-28T10:55:50.861488+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4118095186",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1239203640568603597",
         "title": "Frontend Developer",
         "company": "Deloitte",
@@ -917,34 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-27T10:56:09.362010+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4313254449",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1016935536563647688",
-        "title": "Full-Stack Python Developer",
-        "company": "Adobe",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-27T10:26:41.822640+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4325624162",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2379592032004697578",
-        "title": "Frontend Developer",
-        "company": "Siemens Gamesa",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-27T10:26:41.822640+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365961388",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
