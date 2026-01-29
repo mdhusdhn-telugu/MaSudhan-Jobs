@@ -1,5 +1,47 @@
 [
     {
+        "id": "860456448324879353",
+        "title": "Frontend Developer",
+        "company": "HCLSoftware",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T16:00:58.035951+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367168362",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5571297843938543307",
+        "title": "Frontend Developer",
+        "company": "Startup India concepthub",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T16:00:58.035951+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366860751",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6858079508958729265",
+        "title": "Full stack Software Developer \u2013 Product Development",
+        "company": "IBM",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T16:00:58.035951+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4344540838",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6801541522321874766",
         "title": "Python Developer Jobs",
         "company": "Various Companies",
@@ -1393,90 +1435,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-28T16:35:29.897077+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4356500888",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8333142151600209675",
-        "title": "Frontend React Developer",
-        "company": "Vertex Agility",
-        "location": "",
-        "date_posted": "2026-01-27",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356221817",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3775493645703613981",
-        "title": "React JS Developer",
-        "company": "Viraaj HR Solutions Private Limited",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366486136",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2157630188890774094",
-        "title": "React js developer",
-        "company": "Tata Consultancy Services",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366444956",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5999582316800937791",
-        "title": "Jr. Fullstack Developer",
-        "company": "Skai Lama",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356630479",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8084936371467540800",
-        "title": "Software Engineering Intern, Apple Ads (Machine Learning)",
-        "company": "Apple",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366495131",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7922266438254333813",
-        "title": "SDE Intern \u2013 Founding Engineering Track (Founder\u2019s Office)",
-        "company": "Enablerz \u2013 AI-Native Coaching for Enterprises",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T15:39:18.131009+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356590786",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
