@@ -1160,47 +1160,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "3008387499233892141",
-        "title": "Frontend Developer",
-        "company": "Raabyt",
-        "location": "Kerala, India",
-        "date_posted": "2026-01-27",
-        "found_at": "2026-01-28T07:47:59.436087+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365937709",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6516651633572164100",
-        "title": "React js developer",
-        "company": "Arting Digital",
-        "location": "Bangalore North Rural, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T07:25:11.324357+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366706185",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3702060059272996671",
-        "title": "Web Developer",
-        "company": "EFICYENT",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T07:25:11.324357+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366419772",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
