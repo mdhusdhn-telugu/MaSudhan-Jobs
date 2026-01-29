@@ -1,5 +1,19 @@
 [
     {
+        "id": "5550515911545187391",
+        "title": "React Application Developer",
+        "company": "Tata Consultancy Services",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T04:07:22.765744+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366482915",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1110565505355103593",
         "title": "React, Angular Developer",
         "company": "Infosys",
@@ -1057,34 +1071,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-28T04:42:57.485294+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366699056",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7108314305846149892",
-        "title": "React.Js Developer",
-        "company": "Ingrain Systems Inc",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T03:44:05.694667+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366307408",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7537767819302527772",
-        "title": "Software Dev Engineer II, Amazon Business",
-        "company": "Amazon",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T03:44:05.694667+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366684003",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
