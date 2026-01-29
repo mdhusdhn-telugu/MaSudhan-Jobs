@@ -1468,19 +1468,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-8330296320762594778",
-        "title": "Entry-Level Full Stack Developer",
-        "company": "Getege EdTech Pvt. Ltd.",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "2026-01-27",
-        "found_at": "2026-01-28T22:54:56.367559+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366066630",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
