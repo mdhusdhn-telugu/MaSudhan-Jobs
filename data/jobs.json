@@ -1,5 +1,117 @@
 [
     {
+        "id": "8179732934548784266",
+        "title": "Frontend Developer",
+        "company": "InCred Financial Services",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366583652",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3959908164414968188",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366589382",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2285589457961333110",
+        "title": "Frontend Engineer",
+        "company": "Hirenza",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366961212",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6500987179657512996",
+        "title": "Full Stack Dot Net Engineer",
+        "company": "POST A RESUME",
+        "location": "Vadodara, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356642852",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7419925185504505461",
+        "title": "Web Developer Intern",
+        "company": "Zenithbyte",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366585575",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5089231455187839322",
+        "title": "Full Stack Developer (TypeScript/React/Nest.js)",
+        "company": "BruntWork",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366501471",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1121567159579525925",
+        "title": "Node.js Backend Developer",
+        "company": "Staffing Folks",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356422370",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8661465919985939414",
+        "title": "Frontend UI Developer",
+        "company": "Hirenza",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-29T06:06:43.583899+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366944993",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "547689672268504629",
         "title": "Frontend Developer",
         "company": "Hirenza",
@@ -1001,104 +1113,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-28T06:34:38.771271+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366701246",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-643604234728564419",
-        "title": "Frontend Developer",
-        "company": "L&T Technology Services",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366430546",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2246805910299643881",
-        "title": "Frontend Developer (Reactjs & typescript)",
-        "company": "Tesslogs IT Solutions",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356243956",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2857364919080083999",
-        "title": "Frontend Developer",
-        "company": "Driffle",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366432316",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5760411718230501211",
-        "title": "java fullstack Developer",
-        "company": "People Prime Worldwide",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366427533",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7509009533603463073",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-27",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365924783",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2842711961268920486",
-        "title": "Python Software Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "2026-01-27",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365933598",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7764276363986268701",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-28T05:53:08.389676+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366422588",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
