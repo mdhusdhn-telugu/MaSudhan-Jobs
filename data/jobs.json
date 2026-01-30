@@ -1,5 +1,47 @@
 [
     {
+        "id": "-5222885427387032411",
+        "title": "Python Intern",
+        "company": "Devnagri AI",
+        "location": "Dadri, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T12:52:16.064618+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367213985",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1979214267543168579",
+        "title": "Fullstack Developer (React + Python)",
+        "company": "SAS",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-01-29",
+        "found_at": "2026-01-30T12:52:16.064618+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "555934959492690330",
+        "title": "Data Engineer",
+        "company": "Accenture in India",
+        "location": "Indore, Madhya Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T12:52:16.064618+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4283499179",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3712835671637328154",
         "title": "Software Developer (React)",
         "company": "Vagaro",
@@ -1211,90 +1253,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T12:57:42.753741+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366598483",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1756463437678764800",
-        "title": "Front End Developer-1",
-        "company": "Sabre Corporation",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4327113176",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1592008217708057516",
-        "title": "React JS Front-end developer - SC - 1",
-        "company": "Capco",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4331893807",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2185544879394277844",
-        "title": "Front-End Developer",
-        "company": "Rockwell Automation",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366834908",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2417914814923609574",
-        "title": "Software Engineer Intern",
-        "company": "CM.com",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366715981",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8559936948926962166",
-        "title": "Software Developer Intern (Web Development)",
-        "company": "TC CONSULTING SERVICES",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366807332",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3070110495502369772",
-        "title": "Fullstack Developer (React + Python)",
-        "company": "SAS",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T11:57:07.984643+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
