@@ -1,5 +1,33 @@
 [
     {
+        "id": "-2477126299307065445",
+        "title": "Full Stack Engineer",
+        "company": "KPMG",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T13:55:45.615674+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356710547",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3095818745026461791",
+        "title": "Frontend Web Developer Intern",
+        "company": "Recruit Forge",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T13:55:45.615674+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356657936",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5222885427387032411",
         "title": "Python Intern",
         "company": "Devnagri AI",
@@ -1085,174 +1113,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T14:01:22.508111+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4367168022",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6028438218725995284",
-        "title": "Full Stack Developer",
-        "company": "LSEG",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4323677765",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1058277162099837402",
-        "title": "Software Engineer, Commerce Frontend",
-        "company": "Docusign",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4324323848",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1543899506944653468",
-        "title": "Java Developer VOIS",
-        "company": "VOIS",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361171824",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3609438704606833291",
-        "title": "Software Development Engineer",
-        "company": "Accenture in India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4347573061",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "502047119346573187",
-        "title": "Software Engineer, Backend (5-7) - BFSI",
-        "company": "PhonePe",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366739215",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2147625192455937131",
-        "title": "Software Development Engineer - Intern",
-        "company": "SuperProcure",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366855346",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2602043228173430840",
-        "title": "Full-Stack Software Engineer - Front-End (Angular, React, NodeJS)",
-        "company": "Cisco",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4336606556",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7110260991726668668",
-        "title": "Software Engineer, Backend- Platform",
-        "company": "Coinbase",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4095195699",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7196673908464559588",
-        "title": "Software Engineer, Backend (India)",
-        "company": "Glean",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4195254610",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6304509814140097810",
-        "title": "Full Stack Developer-PLSQL /Java",
-        "company": "Oracle",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4281292612",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2780792476475171787",
-        "title": "Java Full Stack Developer",
-        "company": "Capgemini",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364251027",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1091364530310992510",
-        "title": "Front End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T12:57:42.753741+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366598483",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
