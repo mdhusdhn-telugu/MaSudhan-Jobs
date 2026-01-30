@@ -1,5 +1,47 @@
 [
     {
+        "id": "675572991795893315",
+        "title": "Front-End SW Engineer",
+        "company": "Semtech",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T18:40:03.756251+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367242670",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8652052747726010205",
+        "title": "Software Development Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T18:40:03.756251+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367418353",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-991152774977630895",
+        "title": "Full Stack Developer",
+        "company": "GeekSoft Consulting",
+        "location": "Bangalore North Rural, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T18:40:03.756251+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367200453",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9028965317230557952",
         "title": "Web Developer",
         "company": "Accenture in India",
@@ -861,20 +903,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T18:42:29.568295+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366902011",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2691973683513980701",
-        "title": "React.js Developer",
-        "company": "Innefu Labs",
-        "location": "Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T17:36:24.109933+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366861036",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
