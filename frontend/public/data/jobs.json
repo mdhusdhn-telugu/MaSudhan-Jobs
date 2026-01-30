@@ -1,5 +1,75 @@
 [
     {
+        "id": "2538038300392646058",
+        "title": "Frontend Developer",
+        "company": "Flexiple",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T09:37:04.340322+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367394692",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6797288992814358673",
+        "title": "Frontend Developer",
+        "company": "Talentoindia - Jobs & Hiring Platform",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T09:37:04.340322+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367090203",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1488252194442565982",
+        "title": "Web Developer",
+        "company": "moneyhubsolution",
+        "location": "Vapi, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T09:37:04.340322+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367224027",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8719372622570566684",
+        "title": "Software Engineer Intern \u2013 C# / .NET (ASP.NET MVC)",
+        "company": "Quick Dry Cleaning Software",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T09:37:04.340322+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367099940",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1291944243371199575",
+        "title": "Fullstack Engineers (Python,fast API, React)",
+        "company": "Fractal",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T09:37:04.340322+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4136626524",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6253706404129876465",
         "title": "Data Engineer - Python, Snowflake, Fivetran, Dbt, SaaS",
         "company": "Nasuni",
@@ -1127,76 +1197,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T09:40:56.367463+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366812223",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7967216472343781091",
-        "title": "Application Developer-Google Cloud FullStack",
-        "company": "IBM",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "2026-01-28",
-        "found_at": "2026-01-29T08:55:19.535601+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356215975",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7298086112171891199",
-        "title": "Full Stack Engineer",
-        "company": "Deloitte",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T08:55:19.535601+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356494668",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8332608331281162072",
-        "title": "Frontend Developer",
-        "company": "Wisemonk",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T08:55:19.535601+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366806348",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3323820888641449000",
-        "title": "Frontend Developer",
-        "company": "MyRemoteTeam Inc",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T08:55:19.535601+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366979867",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7242877942941822880",
-        "title": "Web Developer",
-        "company": "iTransparity",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T08:55:19.535601+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356593878",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
