@@ -1,5 +1,19 @@
 [
     {
+        "id": "-82780843888233128",
+        "title": "Node.js Backend Developer (NestJs AWS MongoDB)",
+        "company": "Haparz",
+        "location": "Warangal, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T06:44:53.791998+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367095489",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-7573143828517790208",
         "title": "Frontend Developer (React.js)",
         "company": "wherewework Bulgaria",
@@ -1197,118 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T07:14:19.569599+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366458210",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8179732934548784266",
-        "title": "Frontend Developer",
-        "company": "InCred Financial Services",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366583652",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3959908164414968188",
-        "title": "Front-End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366589382",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2285589457961333110",
-        "title": "Frontend Engineer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366961212",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6500987179657512996",
-        "title": "Full Stack Dot Net Engineer",
-        "company": "POST A RESUME",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356642852",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7419925185504505461",
-        "title": "Web Developer Intern",
-        "company": "Zenithbyte",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366585575",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5089231455187839322",
-        "title": "Full Stack Developer (TypeScript/React/Nest.js)",
-        "company": "BruntWork",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366501471",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1121567159579525925",
-        "title": "Node.js Backend Developer",
-        "company": "Staffing Folks",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356422370",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8661465919985939414",
-        "title": "Frontend UI Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T06:06:43.583899+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366944993",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
