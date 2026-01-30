@@ -1,5 +1,33 @@
 [
     {
+        "id": "-4483417426600729064",
+        "title": "Full Stack Developer Role (Java + React)",
+        "company": "Fractal",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T10:32:22.038818+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332251441",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3361008152464952201",
+        "title": "Software Engineer - Backend Development",
+        "company": "smallcase",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-30T10:32:22.038818+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367215427",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "2538038300392646058",
         "title": "Frontend Developer",
         "company": "Flexiple",
@@ -1183,20 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-29T10:35:35.715627+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366599379",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5555370837776858311",
-        "title": "Software Engineer Intern",
-        "company": "dopplr.digital",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-29T09:40:56.367463+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366812223",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
