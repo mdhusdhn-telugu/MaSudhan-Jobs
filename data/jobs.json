@@ -1216,19 +1216,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "628742095773335748",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-30T07:39:41.831217+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367086530",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
