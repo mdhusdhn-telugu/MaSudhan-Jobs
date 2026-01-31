@@ -1006,19 +1006,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-7441534227363985360",
-        "title": "Python Fullstack Developer -Hyderabad/Bengaluru",
-        "company": "Deloitte",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-30T16:38:09.876785+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367246306",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
