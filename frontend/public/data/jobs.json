@@ -1,5 +1,89 @@
 [
     {
+        "id": "3361379585529361232",
+        "title": "React Js Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367561763",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1701830547377973900",
+        "title": "Full Stack Developer- Python, ReactJs, FastAPI",
+        "company": "Emerson",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4305574976",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8083700237823069359",
+        "title": "Java React Developer",
+        "company": "Persistent Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356932620",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "611103985541514917",
+        "title": "Thought Frameworks - Junior Full Stack Developer",
+        "company": "Thought Frameworks",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367655876",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5731235099318944260",
+        "title": "Frontend Engineer, Docs Platform",
+        "company": "Cloudflare",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4293935596",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8690861733093497046",
+        "title": "Full Stack Developer-PLSQL /Java",
+        "company": "Oracle",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T13:40:51.840701+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4281296195",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7126314864477972288",
         "title": "ENGINEER - FRONT END DEV",
         "company": "Sasken Technologies Limited",
@@ -931,48 +1015,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-30T13:55:45.615674+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4356657936",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5222885427387032411",
-        "title": "Python Intern",
-        "company": "Devnagri AI",
-        "location": "Dadri, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-30T12:52:16.064618+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367213985",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1979214267543168579",
-        "title": "Fullstack Developer (React + Python)",
-        "company": "SAS",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-01-29",
-        "found_at": "2026-01-30T12:52:16.064618+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "555934959492690330",
-        "title": "Data Engineer",
-        "company": "Accenture in India",
-        "location": "Indore, Madhya Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-30T12:52:16.064618+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4283499179",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
