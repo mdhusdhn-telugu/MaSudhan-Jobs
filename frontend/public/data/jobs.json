@@ -1,5 +1,61 @@
 [
     {
+        "id": "133708199492985381",
+        "title": "Full Stack Developer (Fresher)",
+        "company": "enParadigm",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T15:21:41.272296+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4357022378",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8141381946964172594",
+        "title": "React.js Developer (MUI & Enterprise Systems)",
+        "company": "MeltX Software Solutions Pvt. Ltd.",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T15:21:41.272296+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4356951991",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2837498334167153961",
+        "title": "Associate Software Engineer - Full Stack",
+        "company": "Priceline",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T15:21:41.272296+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321127540",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8936975014627398864",
+        "title": "Full Stack Web Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T15:21:41.272296+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367563776",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7155341528090152982",
         "title": "Full Stack Developer - React.js/Vue.js",
         "company": "WAISL Limited",
