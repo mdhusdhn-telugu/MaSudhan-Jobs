@@ -1,5 +1,19 @@
 [
     {
+        "id": "328297206205949250",
+        "title": "Frontend Platform Engineer (Design Systems)",
+        "company": "Efficienza Business Solutions Pvt. Ltd",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-01-31T19:42:11.046887+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367910717",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3633006728583415128",
         "title": "React Developer",
         "company": "Persistent Systems",
@@ -973,20 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-01-30T20:28:44.324125+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4367011647",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1223742523102917709",
-        "title": "Trainee - Frontend Developer",
-        "company": "Kitron Group",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-30T19:31:36.884524+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367265984",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
