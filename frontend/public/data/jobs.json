@@ -1258,19 +1258,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "8207580823060080253",
-        "title": "Full Stack Product Engineer - React.js/Ruby Programming",
-        "company": "Awign",
-        "location": "Itanagar, Arunachal Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-31T23:46:04.968839+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367646937",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
