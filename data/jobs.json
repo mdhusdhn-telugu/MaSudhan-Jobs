@@ -1230,19 +1230,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "3995601560385032217",
-        "title": "Software Engineer Intern",
-        "company": "Venomware solutions",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-31T21:44:54.399621+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367598322",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
