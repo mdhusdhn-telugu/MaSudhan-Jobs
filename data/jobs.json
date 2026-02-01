@@ -1244,19 +1244,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "8544395323172548205",
-        "title": "Web Developer",
-        "company": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-01-31T17:49:15.378787+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4345181683",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
