@@ -1,5 +1,271 @@
 [
     {
+        "id": "7634683742383945454",
+        "title": "Frontend Developer",
+        "company": "SourcingXPress",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368365532",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1721115323045740869",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368388998",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5551045438715141317",
+        "title": "Software Engineering \u2013 Intern",
+        "company": "FICO",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368374930",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5635449255916440740",
+        "title": "Junior Fullstack Developer (Java + Typescript)",
+        "company": "BMW TechWorks India",
+        "location": "India",
+        "date_posted": "2026-01-30",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.shine.com/jobs/junior-fullstack-developer-java-typescript/bmw-techworks-india/18513876?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28
+        }
+    },
+    {
+        "id": "5050907687748293398",
+        "title": "Software Engineer III Full Stack Developer",
+        "company": "Thales",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "2026-01-30",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.shine.com/jobs/software-engineer-iii-full-stack-developer/thales/18513279?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "4977904482942311561",
+        "title": "Full Stack Developer (3 Month Contractual)",
+        "company": "MINDTEL GLOBAL",
+        "location": "India",
+        "date_posted": "2026-01-27",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/full-stack-developer-3-month-contractual-at-mindtel-global-4368016807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "-7202758106678527188",
+        "title": "Dotnet Developer/ MysQL DBA (Remote/ Noida)",
+        "company": "Argus Consulting (India)",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "2026-01-25",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/dotnet-developer-mysql-dba-remote-noida-at-argus-consulting-india-4367891987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-1973056013343099922",
+        "title": "Full-Stack Developer (React, NestJS, TypeScript, Azure)",
+        "company": "Kodely",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "2026-01-24",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-nestjs-typescript-azure-at-kodely-4368305801?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 48
+        }
+    },
+    {
+        "id": "8331543759996342494",
+        "title": "Full Stack Developer (React)",
+        "company": "KPG99 INC",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-24",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/full-stack-developer-react-at-kpg99-inc-4368306900?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62
+        }
+    },
+    {
+        "id": "1092961182721453327",
+        "title": "Full-Stack Java Developer \u2013 Microservices, Angular, Cloud & Security",
+        "company": "Synechron",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "2026-01-23",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/full-stack-java-developer-%E2%80%93-microservices-angular-cloud-security-at-synechron-4367886944?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "2666743116581416615",
+        "title": "Full-stack Developer Internship",
+        "company": "Propall AI",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-01-21",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/full-stack-developer-internship-at-propall-ai-4367749149?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-823965605689870557",
+        "title": "Jave Full Stack Engineer _ReactJS experience is a MUST (product based industry experience)",
+        "company": "Avensys Consulting",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "2026-01-16",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.linkedin.com/jobs/view/jave-full-stack-engineer-reactjs-experience-is-a-must-product-based-industry-experience-at-avensys-consulting-4368159296?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62
+        }
+    },
+    {
+        "id": "-4388811918252945906",
+        "title": "Looking for a mobile-first full stack engineer who can build, ship, and own product features end-to-end.",
+        "company": "Indikoz",
+        "location": "Haryana, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.recruit.net/job/looking-mobile-first-full-stack-jobs/C09126B31A80F89B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28
+        }
+    },
+    {
+        "id": "4726294656042588972",
+        "title": "Full Stack - Web Application Developer",
+        "company": "ZEST LEARNING & CONSULTING LLP",
+        "location": "Kochi, Kerala, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.talent.com/view?id=1e8c934bfa44&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 57
+        }
+    },
+    {
+        "id": "-6962205048429904114",
+        "title": "Python + React Fullstack Developer - Remote Work",
+        "company": "BairesDev",
+        "location": "Lucknow, Uttar Pradesh, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://www.foundit.in/job/python-react-fullstack-developer-remote-work-bairesdev-lucknow-44142301?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 91
+        }
+    },
+    {
+        "id": "-5078775399457628117",
+        "title": "Full Stack Developer Wanted",
+        "company": "beBeeSoftware",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.bebee.com/job/99e62cdb3ed292aa428b7fd3dcfa6056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 42
+        }
+    },
+    {
+        "id": "-8383858886332816237",
+        "title": "Junior Java Developer",
+        "company": "Freyr Solutions",
+        "location": "Telangana, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.talent.com/view?id=8214e494f8eb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 71
+        }
+    },
+    {
+        "id": "-5862855168618634394",
+        "title": ".Net Fullstack Engineer",
+        "company": "LPL Global Business Services",
+        "location": "Telangana, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.talent.com/view?id=f97f0e496712&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 28
+        }
+    },
+    {
+        "id": "-4675745919401264871",
+        "title": "Python Fullstack Developer",
+        "company": "GBIT (Global Bridge InfoTech Inc)",
+        "location": "Telangana, India",
+        "date_posted": "2026-01-10",
+        "found_at": "2026-02-02T23:27:19.394409+00:00",
+        "job_url": "https://in.talent.com/view?id=a2829eeb7544&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 62
+        }
+    },
+    {
         "id": "-6623729711867872304",
         "title": "React Js Developer",
         "company": "Tata Consultancy Services",
@@ -1267,132 +1533,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-02T02:00:04.999262+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4367772252",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5888569310381659718",
-        "title": "Full stack developer - Remote - React.js and Node.js",
-        "company": "LettFaktura",
-        "location": "",
-        "date_posted": "2026-01-31",
-        "found_at": "2026-02-01T22:52:04.521678+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4356953059",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-205662148619945604",
-        "title": "Front-End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T22:22:47.596860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367759950",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-741934133109434623",
-        "title": "Angular Developer",
-        "company": "CGI",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T22:22:47.596860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368134038",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4466563933439017431",
-        "title": "Backend Support Engineer (Node.js & MongoDB)",
-        "company": "Uplers",
-        "location": "Faridabad, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T22:22:47.596860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4334862928",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4063911384590258652",
-        "title": "Full Stack Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T22:22:47.596860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367761006",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1767924328706038329",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T21:21:43.759814+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367768053",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-106132577834466014",
-        "title": "LLM Model Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T21:21:43.759814+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367763917",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3107872015472554593",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T21:21:43.759814+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367764875",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2828554166074952472",
-        "title": "Frontend Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Kolkata, West Bengal, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-01T19:23:12.564739+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367745735",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
