@@ -1,5 +1,61 @@
 [
     {
+        "id": "750427555270825490",
+        "title": "Front-End Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-03T10:38:34.202537+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368205763",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4361595232468905245",
+        "title": "Frontend Developer Intern",
+        "company": "The Delta Group",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-03T10:38:34.202537+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368092688",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5004171543323047780",
+        "title": "Internship Program - AI Engineer (Global)",
+        "company": "CruvixAI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-03T10:38:34.202537+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368099736",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8197142489752704429",
+        "title": "Support Engineer III, Payment Services",
+        "company": "Amazon",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-03T10:38:34.202537+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368629042",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-4962567513994251987",
         "title": "Front-End Developer Intern",
         "company": "Inficore Soft",
@@ -1631,76 +1687,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-02T10:42:45.939557+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4368184194",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7353243243534477238",
-        "title": "Frontend Developer",
-        "company": "Miamin Systems",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T09:45:53.320525+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367837016",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4360943987818598007",
-        "title": "Frontend Developer",
-        "company": "iTouchVision",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T09:45:53.320525+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357541746",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5620536725079309358",
-        "title": "Web Developer Intern",
-        "company": "Webs IT Solution",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T09:45:53.320525+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368124699",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1477357685734144355",
-        "title": "Full Stack Developer",
-        "company": "HYrEzy Tech Solutions",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T09:45:53.320525+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367807532",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2188726199859155299",
-        "title": "Mern Stack Developer (upto 6LPA)",
-        "company": "YMinds.AI",
-        "location": "Kozhikode, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T09:45:53.320525+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357381296",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
