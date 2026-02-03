@@ -1328,33 +1328,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "6490302682666513901",
-        "title": "Frontend Developer",
-        "company": "GoodScore",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T17:37:03.505726+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357353552",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-429011520151280176",
-        "title": "Junior Full Stack Developer",
-        "company": "ServQual - Security",
-        "location": "Kalyan Dombivli, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-02T17:37:03.505726+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368359016",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
