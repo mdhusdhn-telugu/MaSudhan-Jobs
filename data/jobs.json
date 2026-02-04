@@ -1,5 +1,243 @@
 [
     {
+        "id": "4040121731893808820",
+        "title": "Shopify Frontend & Performance Engineer",
+        "company": "BrandLoom Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358051061",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "393569257984357397",
+        "title": "React JS Developer - New Delhi (4-7 years)",
+        "company": "Tata Consultancy Services",
+        "location": "New Delhi, Delhi, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368202996",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3549254682098010498",
+        "title": "Remote JavaScript Developer",
+        "company": "Turing",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368617809",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6220835488969949191",
+        "title": "Remote Software Engineer (JavaScript)",
+        "company": "Turing",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368635586",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7508074695339814975",
+        "title": "Web Developer",
+        "company": "Accenture in India",
+        "location": "Nagpur, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4345912660",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1782445109177650478",
+        "title": "Developer IV(React)",
+        "company": "RealPage India",
+        "location": "Serilingampalli, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368826291",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6742246970452867127",
+        "title": "HTML, CSS & JavaScript Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369047945",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8401630285130895426",
+        "title": "React Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368591986",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5098061537169826686",
+        "title": "Engineer, Software [T500-22386]",
+        "company": "TMUS Global Solutions",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361664608",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4352976654153044685",
+        "title": "Engineer, Software [T500-22387]",
+        "company": "TMUS Global Solutions",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4362311690",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1033692200631960151",
+        "title": "Software Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369051881",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2592678090192875595",
+        "title": "Software Developer Python (Unpaid Internship)",
+        "company": "WorkshopEdge",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368597733",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6570332404215004448",
+        "title": "Internship Program - AI Engineer (Global)",
+        "company": "CruvixAI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368705185",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4476363113339442855",
+        "title": "Jr/Sr Engineer- Full stack Development",
+        "company": "Emerson",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4250298414",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6324421506837839221",
+        "title": "Javascript Developer",
+        "company": "Recro",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368579409",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7513302206196365367",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368704587",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7936161107540375266",
+        "title": "Front-End Developer Intern (JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T11:32:33.515056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368653039",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3121843074133923420",
         "title": "Full Stack Developer with React & Python",
         "company": "Capgemini",
@@ -739,62 +977,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 14
-        }
-    },
-    {
-        "id": "750427555270825490",
-        "title": "Front-End Developer",
-        "company": "Scoutit",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T10:38:34.202537+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368205763",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4361595232468905245",
-        "title": "Frontend Developer Intern",
-        "company": "The Delta Group",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T10:38:34.202537+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368092688",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5004171543323047780",
-        "title": "Internship Program - AI Engineer (Global)",
-        "company": "CruvixAI",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T10:38:34.202537+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368099736",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8197142489752704429",
-        "title": "Support Engineer III, Payment Services",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T10:38:34.202537+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368629042",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
         }
     }
 ]
