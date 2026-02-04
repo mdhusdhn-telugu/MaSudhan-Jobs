@@ -1,5 +1,33 @@
 [
     {
+        "id": "-6641862907861316450",
+        "title": "Frontend Developer \u2013 HTML/CSS (Freelancer)",
+        "company": "Soul AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T17:14:50.171875+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369228372",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1617626616191553737",
+        "title": "Full Stack Developer",
+        "company": "Bit Canny technologies Pvt. Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T17:14:50.171875+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358826479",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "2234849246423320758",
         "title": "Front End Developer",
         "company": "SYNAPTICA TECH",
@@ -1001,34 +1029,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-03T17:28:54.923069+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361333706",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-327593741646448533",
-        "title": "Full Stack Software Engineer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T16:12:37.847686+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368232996",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8985030512811735190",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T16:12:37.847686+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368217879",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
