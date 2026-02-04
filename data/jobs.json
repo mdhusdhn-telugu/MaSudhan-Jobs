@@ -1,5 +1,61 @@
 [
     {
+        "id": "-3849503670517834428",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T08:39:22.865985+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368572822",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "467931749517688917",
+        "title": "Software Engineer",
+        "company": "Zetheta Algorithms Private Limited",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T08:39:22.865985+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368568205",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8853754700289690988",
+        "title": "React and Node JS Developer",
+        "company": "Infosys",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "2026-02-03",
+        "found_at": "2026-02-04T08:39:22.865985+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368099179",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1155965273930537861",
+        "title": "Front End Software Developer (Mid-level) (Remote, Full-Time) [HR132]",
+        "company": "Smart Working",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T08:39:22.865985+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358871748",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6264111183437155042",
         "title": "Frontend Developer",
         "company": "Wisemonk",
@@ -735,90 +791,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-03T09:39:31.608153+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4368096457",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8044250197039372179",
-        "title": "React and Node JS Developer",
-        "company": "Infosys",
-        "location": "Chandigarh, Chandigarh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T08:35:29.098784+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368099179",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6122586599150729572",
-        "title": "UI Developer - ReactJS/NextJS",
-        "company": "Teamware Solutions",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T08:35:29.098784+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368307800",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2024945255293200716",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T08:35:29.098784+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368610365",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7927750312861712160",
-        "title": "Software Developers (Java/Python/React/Grafana)",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T07:42:15.022918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351893556",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3715024945480655432",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T07:42:15.022918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368454344",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4904157701342384679",
-        "title": "Angular Developer",
-        "company": "Capgemini Engineering",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T07:42:15.022918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357377446",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
