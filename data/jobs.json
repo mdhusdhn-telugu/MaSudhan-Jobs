@@ -1,5 +1,33 @@
 [
     {
+        "id": "6264111183437155042",
+        "title": "Frontend Developer",
+        "company": "Wisemonk",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T07:43:05.125181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368578856",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4005015978716231737",
+        "title": "ReactJS Developer",
+        "company": "Synechron",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T07:43:05.125181+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358061062",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1399600738721474821",
         "title": "React Developer",
         "company": "Recro",
@@ -791,132 +819,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-03T07:42:15.022918+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4357377446",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4980249465951712299",
-        "title": "Frontend Developer",
-        "company": "CleverTap",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357721915",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7042786559088799414",
-        "title": "Frontend Developer",
-        "company": "Capco",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368070854",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2984774057634457538",
-        "title": "Front End Developer",
-        "company": "Growel Softech Pvt Ltd",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368474637",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8133130279713364389",
-        "title": "React Js Developer",
-        "company": "CodeGama",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368478696",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6845215109909985046",
-        "title": "Front-End Developer Intern (JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368479590",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1607515535247192377",
-        "title": "Software Development Engineer Intern",
-        "company": "GreenStitch.io",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368067950",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-735871798924162094",
-        "title": "Software Engineer Intern",
-        "company": "tinyslash",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368478632",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3641044782275310781",
-        "title": "Backend Developer Intern",
-        "company": "SOS 42 - the Adulting app",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357367485",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7026434116912712695",
-        "title": "Web Developer",
-        "company": "INDmoney",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T06:48:46.129518+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368607101",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
