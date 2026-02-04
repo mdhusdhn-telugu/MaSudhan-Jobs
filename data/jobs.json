@@ -1076,19 +1076,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "2697660402516484263",
-        "title": "React.js developer",
-        "company": "ZettaMine Labs Pvt. Ltd.",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T19:27:08.824745+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368220971",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
