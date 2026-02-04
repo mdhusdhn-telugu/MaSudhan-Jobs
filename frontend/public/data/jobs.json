@@ -1,5 +1,89 @@
 [
     {
+        "id": "5234298019775246418",
+        "title": "Backend Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368730044",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1768367548061250672",
+        "title": "FRONT END DEVELOPER",
+        "company": "Wipro",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369061708",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3461493436776158918",
+        "title": "Front-End Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368704779",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5071037349310319874",
+        "title": "Javascript Developer-Reactjs",
+        "company": "ValueLabs",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368703941",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4583240907986186111",
+        "title": "Front-End Developer",
+        "company": "Durapid Technologies Private Limited",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368723144",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5762920625703351873",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-04T12:56:07.626490+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358852214",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "4040121731893808820",
         "title": "Shopify Frontend & Performance Engineer",
         "company": "BrandLoom Consulting",
@@ -907,76 +991,6 @@
         "analysis": {
             "is_suitable": true,
             "match_score": 50
-        }
-    },
-    {
-        "id": "-4241750405112612719",
-        "title": "Software Developers (Java/Python/ReactJS/Atlassian JIRA)",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T11:33:52.464818+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354410802",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5239877334697064665",
-        "title": "Frontend Developer",
-        "company": "Vegam Solutions",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T11:33:52.464818+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4357437338",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3871023664883044090",
-        "title": "Frontend Developer",
-        "company": "Solvitech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-03T11:33:52.464818+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368621271",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4725404804681184440",
-        "title": "CTO - Architect Python AI/ML",
-        "company": "Wipro Limited",
-        "location": "India",
-        "date_posted": "2026-01-20",
-        "found_at": "2026-02-03T11:33:52.464818+00:00",
-        "job_url": "https://www.shine.com/jobs/cto-architect-python-ai-ml/wipro-limited/18518227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 34
-        }
-    },
-    {
-        "id": "4408432730799284546",
-        "title": "Github SME",
-        "company": "Wipro Limited",
-        "location": "India",
-        "date_posted": "2026-01-19",
-        "found_at": "2026-02-03T11:33:52.464818+00:00",
-        "job_url": "https://www.shine.com/jobs/github-sme/wipro-limited/18514347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "site": "google",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 14
         }
     }
 ]
