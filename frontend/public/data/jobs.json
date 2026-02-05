@@ -1132,47 +1132,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "47459219511486198",
-        "title": "System Development Engineer-II, Amazon",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-04T04:10:58.652938+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368894651",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8556368936515384432",
-        "title": "Intern Software Developer \u2013 .NET | HTML | MS SQL",
-        "company": "4th Quarter Technologies Pvt. Ltd.",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-04T04:10:58.652938+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368567139",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8905672368827394649",
-        "title": "Frontend Developer - Javascript/TypeScript",
-        "company": "Customertimes",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-04T04:10:58.652938+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368882587",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
