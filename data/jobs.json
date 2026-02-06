@@ -1,5 +1,19 @@
 [
     {
+        "id": "8646308436956195708",
+        "title": "Frontend Developer",
+        "company": "Indian Startup News",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-06T19:13:32.620841+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369562117",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3807095995564578988",
         "title": "Front End Developer",
         "company": "Getege EdTech Pvt. Ltd.",
@@ -973,34 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-05T19:13:26.589586+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4369136779",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6847990388059132284",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-05T18:10:45.383658+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369129796",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8274928329382968364",
-        "title": "Full Stack Developer, Associate",
-        "company": "Deutsche Bank",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-05T18:10:45.383658+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369634652",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
