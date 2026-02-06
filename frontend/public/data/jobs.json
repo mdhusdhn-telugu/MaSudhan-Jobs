@@ -1,5 +1,33 @@
 [
     {
+        "id": "-8286596291170187409",
+        "title": "Front-End Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-06T06:53:09.112217+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369324980",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1801284613835277195",
+        "title": "Full Stack Developer",
+        "company": "Molex",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-06T06:53:09.112217+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4350185918",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8904846916323714525",
         "title": "Front End Developer - ReactJs",
         "company": "Leegality",
@@ -1141,20 +1169,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-05T06:57:34.235614+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4368958812",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3715557668146952047",
-        "title": "ReactJS, React SPA, Redux Developer",
-        "company": "UST",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-05T05:37:13.083475+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360560098",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
