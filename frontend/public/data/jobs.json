@@ -880,19 +880,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "1918899809641226702",
-        "title": "Engineer DevOps",
-        "company": "Empower India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-05T22:25:21.378312+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369680902",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
