@@ -1,5 +1,47 @@
 [
     {
+        "id": "2485143950980741786",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T01:51:15.811908+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369970163",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "436537282808522319",
+        "title": "Operations Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T01:51:15.811908+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361039551",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "884296161933214465",
+        "title": "Software Engineer III, Full Stack, Core",
+        "company": "Google",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T01:51:15.811908+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361017349",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2913874417104337020",
         "title": "Next JS Developer",
         "company": "Capgemini",
