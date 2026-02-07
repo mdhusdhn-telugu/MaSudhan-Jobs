@@ -1,5 +1,47 @@
 [
     {
+        "id": "-1329144725008336283",
+        "title": "Full Stack Engineer",
+        "company": "DataQuotes",
+        "location": "Tirupati, Andhra Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T15:23:23.572414+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370018675",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8628861141906776713",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "ArGo Intern",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T15:23:23.572414+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370012170",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "262652321144337090",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T15:23:23.572414+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370039028",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7572335689476710567",
         "title": "Frontend Developer",
         "company": "Scoutit",
@@ -917,76 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T16:04:49.465004+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361072475",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5652459982615373605",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "ArGo Intern",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T15:08:04.605204+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369325896",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4124733594858247718",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T15:08:04.605204+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369511712",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9154545319168024625",
-        "title": "Fullstack Developer",
-        "company": "Fractal",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T15:08:04.605204+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/3631867155",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3942446288497800745",
-        "title": "FRESHER Software Developer \u2013 .NET | MS SQL",
-        "company": "4th Quarter Technologies Pvt. Ltd.",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T15:08:04.605204+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369544346",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5934489893892871107",
-        "title": "Junior Front-end Developer - IoT + Workplace Tech (Remote)",
-        "company": "Power Workplace",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T15:08:04.605204+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369537447",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
