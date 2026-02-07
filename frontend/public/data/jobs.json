@@ -1,5 +1,33 @@
 [
     {
+        "id": "4036125401622630839",
+        "title": "Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T16:27:41.311252+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361486325",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6096846874174037948",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T16:27:41.311252+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361734527",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1329144725008336283",
         "title": "Full Stack Engineer",
         "company": "DataQuotes",
@@ -889,76 +917,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T17:12:03.081200+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363556115",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-799805974124031196",
-        "title": "Application Developer-Google Cloud FullStack",
-        "company": "IBM",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T16:04:49.465004+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351159490",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4544476736006030736",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T16:04:49.465004+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369692288",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2139130714793021347",
-        "title": "Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T16:04:49.465004+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361028190",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5592414203756974684",
-        "title": "Python Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T16:04:49.465004+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360599043",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8547098034469902669",
-        "title": "Developer - NodeJS/JavaScript (3-8 years)",
-        "company": "SAP",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T16:04:49.465004+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361072475",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
