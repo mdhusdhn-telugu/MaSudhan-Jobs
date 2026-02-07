@@ -1,5 +1,47 @@
 [
     {
+        "id": "7572335689476710567",
+        "title": "Frontend Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T14:52:41.311195+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370021575",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5610448980131246567",
+        "title": "Web Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T14:52:41.311195+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370005663",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5143856345995767644",
+        "title": "Web Developer",
+        "company": "Konecranes",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T14:52:41.311195+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4340488489",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3578549926909131678",
         "title": "Web Developer ( Figma Design to Figma Site)",
         "company": "Infowave Systems, Inc",
