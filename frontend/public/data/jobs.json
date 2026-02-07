@@ -1,5 +1,33 @@
 [
     {
+        "id": "-8815299786957127162",
+        "title": "Front-End Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T05:26:29.052315+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361083505",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5329500742665169046",
+        "title": "Technical Test Engineer",
+        "company": "Accenture in India",
+        "location": "Kochi, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T05:26:29.052315+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369952961",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "619416693756310796",
         "title": "Frontend Developer",
         "company": "Veeam Software",
@@ -763,76 +791,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T06:53:09.112217+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4350185918",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8904846916323714525",
-        "title": "Front End Developer - ReactJs",
-        "company": "Leegality",
-        "location": "Gurgaon, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T04:14:31.237564+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369326121",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "101448984351619803",
-        "title": "Front-End Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T04:14:31.237564+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359833976",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2856559758086112624",
-        "title": "Frontend Software Engineer (Web)",
-        "company": "YouTrip",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T04:14:31.237564+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4365468375",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6964497336306906469",
-        "title": "Frontend Developer ($25K - $40K)",
-        "company": "CodeRound AI",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T04:14:31.237564+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359823305",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-776337295451916470",
-        "title": "Intern Software Developer \u2013 .NET | HTML | MS SQL",
-        "company": "4th Quarter Technologies Pvt. Ltd.",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T04:14:31.237564+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369325112",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
