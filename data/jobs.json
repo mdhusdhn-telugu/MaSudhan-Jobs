@@ -1,5 +1,19 @@
 [
     {
+        "id": "1370674262657789460",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T10:23:59.626624+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370003703",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6605948475703091219",
         "title": "Front-End Developer Intern",
         "company": "Unistack Advisory Pvt Ltd",
@@ -777,76 +791,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T10:37:59.257109+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4341099735",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5230516777915901892",
-        "title": "Frontend Developer",
-        "company": "Avyro",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T09:41:05.315817+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369347102",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2483484255498948666",
-        "title": "React JS Developer",
-        "company": "Canvendor",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T09:41:05.315817+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369366320",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5934529216911332569",
-        "title": "SDE I - Frontend Engineer (Reactjs, Nextjs, Tailwind CSS)",
-        "company": "Astra Security",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T09:41:05.315817+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369364456",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6559653977327494430",
-        "title": "React Developer",
-        "company": "Vandey Global Services",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T09:41:05.315817+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369476558",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2218811369696725252",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T09:41:05.315817+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369335267",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
