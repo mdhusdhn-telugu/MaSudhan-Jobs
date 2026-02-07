@@ -1,5 +1,19 @@
 [
     {
+        "id": "-1779798583049447566",
+        "title": "JavaScript Developer",
+        "company": "Umanist NA",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T07:08:25.291197+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370001307",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8815299786957127162",
         "title": "Front-End Developer Intern",
         "company": "Skillzenloop",
@@ -763,34 +777,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T07:45:55.830691+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4359073095",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8286596291170187409",
-        "title": "Front-End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T06:53:09.112217+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369324980",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1801284613835277195",
-        "title": "Full Stack Developer",
-        "company": "Molex",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T06:53:09.112217+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4350185918",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
