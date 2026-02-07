@@ -1,5 +1,19 @@
 [
     {
+        "id": "-4669572602279929453",
+        "title": "Operations Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T08:59:17.784309+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369896853",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8672581919989029026",
         "title": "Junior Angular Developer",
         "company": "ShepHertz Technologies",
@@ -805,34 +819,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T09:41:05.315817+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4369335267",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7087622987429942644",
-        "title": "Frontend Developer",
-        "company": "Wisemonk",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T08:39:53.671150+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369100276",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8154990280910135685",
-        "title": "Associate Developer - Node.JS/JavaScript (1-3 years)",
-        "company": "SAP",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T08:39:53.671150+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4359589884",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
