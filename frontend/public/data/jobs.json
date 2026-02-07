@@ -1,5 +1,145 @@
 [
     {
+        "id": "-8476510868832303704",
+        "title": "Full Stack Software Engineer",
+        "company": "Barclays",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-02-06",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361009298",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5320759384245778549",
+        "title": "Staff Frontend Engineer - Reatjs",
+        "company": "CAW",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361743618",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1214991917959418904",
+        "title": "Full Stack Web Developer Intern",
+        "company": "Unified Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370169748",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1827766802077037769",
+        "title": "Java Angular/UI Developer",
+        "company": "Citi",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369816864",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6662119338179925682",
+        "title": "Application Developer-Cloud FullStack",
+        "company": "IBM",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4348594441",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4670644417915090158",
+        "title": "Full Stack Engineer",
+        "company": "SourcingXPress",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369444549",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1075405138986172075",
+        "title": "Full Stack Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370009567",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2164120214318881409",
+        "title": "Full stack Developer (React JS)",
+        "company": "Tata Consultancy Services",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370007999",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3340308968093216879",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370040279",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5565469252585782381",
+        "title": "Fullstack Developer | $70/hr Remote",
+        "company": "Crossing Hurdles",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-07T20:52:39.727462+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4369899854",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "4195694409715686101",
         "title": "Frontend Developer Intern",
         "company": "IHM Connect",
@@ -973,20 +1113,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-06T22:22:07.572096+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4367116623",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8973980907711706580",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-06T20:32:13.831728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369812568",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
