@@ -1,5 +1,89 @@
 [
     {
+        "id": "6226943480514156337",
+        "title": "Python Trainer & Developer",
+        "company": "Operations Cognizants",
+        "location": "New Delhi, Delhi, India",
+        "date_posted": "2026-02-05",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3942&job-name=Python+Trainer+&+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "4913641568755065454",
+        "title": "Python Developer Jobs",
+        "company": "Various Companies",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "2026-02-02",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://www.djobbuzz.com/skill/job-by-skill/15/python-developer-jobs?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
+        "id": "-5992882521001044138",
+        "title": "Python / Django Developer",
+        "company": "Operations Cognizants",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "2026-01-26",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://activejob.in/job-detail?job-id=3868&job-name=Python+/+Django+Developer&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
+        "id": "-1470689077970827961",
+        "title": "Full Stack Developer (Angular & Node.js)",
+        "company": "Interaction Labs",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370019897",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1755421630966107051",
+        "title": "Nodejs developer",
+        "company": "McLaren Strategic Solutions (MSS)",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4339426886",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1210503799041166145",
+        "title": "Back End Staff Software Engineer (Bangkok based, Relocation provided)",
+        "company": "Agoda",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-08T15:50:20.428161+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4299772471",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "2074640508914761002",
         "title": "React Developer",
         "company": "Scoutit",
