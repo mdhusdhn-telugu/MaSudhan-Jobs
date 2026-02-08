@@ -1,5 +1,61 @@
 [
     {
+        "id": "6610980938199096361",
+        "title": "Frontend Developer (Next.js) \u2014 New Opportunity",
+        "company": "HiJob.work",
+        "location": "",
+        "date_posted": "2026-02-07",
+        "found_at": "2026-02-08T13:43:30.212809+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4361427205",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8541338557158096597",
+        "title": "Web Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-08T13:43:30.212809+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370337449",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6606622958851285453",
+        "title": "Software Engineer",
+        "company": "Zetheta Algorithms Private Limited",
+        "location": "",
+        "date_posted": "2026-02-07",
+        "found_at": "2026-02-08T13:43:30.212809+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370022431",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7045657324330553975",
+        "title": "Software Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-08T13:43:30.212809+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370350081",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8472714136035984384",
         "title": "Remote Fullstack Engineer",
         "company": "Turing",
@@ -931,146 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-07T14:24:41.695131+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4360825510",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-415676536820008522",
-        "title": "Full Stack Engineer",
-        "company": "Meril",
-        "location": "Vapi, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4332561764",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8351816393510816599",
-        "title": "React JS Developer",
-        "company": "Mr.Biller",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370009928",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1071305022387623303",
-        "title": "React js+Node JS developer",
-        "company": "Tata Consultancy Services",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370014357",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8074835059763500623",
-        "title": "Web Developer",
-        "company": "Enerpac Tool Group",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360026398",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1945616738416833678",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370022431",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "17480203534553408",
-        "title": "Web Developer",
-        "company": "Gallagher",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4342217857",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7358599751556667072",
-        "title": "Frontend Developer (Next.js) \u2014 New Opportunity",
-        "company": "HiJob.work",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361427205",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1322157688264922598",
-        "title": "Fullstack Developer - Associate - Software Engineering",
-        "company": "Morgan Stanley",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369541921",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8986250481374264558",
-        "title": "Full Stack Web Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370006913",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5108492620377458176",
-        "title": "Remote Full-Stack Developer",
-        "company": "Turing",
-        "location": "Delhi, Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T13:42:42.112088+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4346248369",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
