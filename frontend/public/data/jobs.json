@@ -1202,33 +1202,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-8805209149533518380",
-        "title": "FRONTEND DEVELOPER INTERN",
-        "company": "Idea Usher",
-        "location": "",
-        "date_posted": "2026-02-06",
-        "found_at": "2026-02-07T10:53:06.253730+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369388680",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1586583800567364859",
-        "title": "Frontend Developer",
-        "company": "Hiring Today",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-07T10:53:06.253730+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370010640",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
