@@ -1,5 +1,89 @@
 [
     {
+        "id": "-1595465214792092843",
+        "title": "Front-End Developer - Landing Pages (Pardot)",
+        "company": "AMETEK",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364370952",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5525610106314055757",
+        "title": "Web Developer",
+        "company": "VoilaWex",
+        "location": "Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370224946",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4031882104862993322",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "Bhubaneswar, Odisha, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370246112",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "496289934392396163",
+        "title": "Packaged/SaaS Application Engineer",
+        "company": "Accenture in India",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370399544",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7893712961362285138",
+        "title": "Mid-Level Software Engineer (Full Stack)",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4261158323",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6962540920250207435",
+        "title": "Full Stack Developer (React and C#)",
+        "company": "Cytel",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T10:01:34.523070+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4342307098",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9106577689402302466",
         "title": "Full Stack Engineer",
         "company": "Deloitte",
@@ -917,62 +1001,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-08T10:25:01.051432+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370022220",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3588461991355062602",
-        "title": "React developer",
-        "company": "Tech Yantra",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T09:55:17.902269+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361707947",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-399310110823710931",
-        "title": "Front-End Developer Intern",
-        "company": "Unistack Advisory Pvt Ltd",
-        "location": "",
-        "date_posted": "2026-02-07",
-        "found_at": "2026-02-08T09:55:17.902269+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369893916",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7129143432956502980",
-        "title": "React & Node.js Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T09:29:14.771860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361487961",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8583745089661220184",
-        "title": "Frontend Developer \u2014 New Opportunity (Next.js, React.js, HTML, CSS)",
-        "company": "HiJob.work",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T09:29:14.771860+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361437970",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
