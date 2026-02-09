@@ -1,5 +1,89 @@
 [
     {
+        "id": "383256153347541228",
+        "title": "Frontend Developer",
+        "company": "Hirenza",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370360671",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1187255805926624835",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370213860",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1647525611338013846",
+        "title": "Alliances Field Engineer",
+        "company": "Canonical",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370382300",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2261770246303603602",
+        "title": "Software Engineer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370222252",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8601430326279539576",
+        "title": "Full-Stack Developer",
+        "company": "Capgemini",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370387044",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7733770981195774039",
+        "title": "Full Stack Developer",
+        "company": "Advith ITeC Private Limited",
+        "location": "Udupi, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T06:06:57.552094+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360955809",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7589202550465274088",
         "title": "React Developer",
         "company": "Best Job Tool",
@@ -735,62 +819,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-08T06:12:34.141086+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361089068",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2029022621740395077",
-        "title": "Frontend Developer (React.js)",
-        "company": "wherewework Bulgaria",
-        "location": "Bora Pochampalli, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T05:02:27.621517+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370322170",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6882163277225997712",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T05:02:27.621517+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370010564",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7946263476796887166",
-        "title": "Frontend Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T05:02:27.621517+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370301236",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3116208396942610533",
-        "title": "Javascript Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T05:02:27.621517+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370186740",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
