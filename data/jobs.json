@@ -1,5 +1,19 @@
 [
     {
+        "id": "-680130443460637987",
+        "title": "Frontend Developer",
+        "company": "Sthyra",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-09T21:05:42.401593+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368702649",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "5418485783631706307",
         "title": "Front-End Developer Intern",
         "company": "Skillzenloop",
@@ -1071,48 +1085,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-08T21:25:16.430849+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370099168",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7122215179618628158",
-        "title": "Back End Developer",
-        "company": "Raabyt",
-        "location": "Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T20:52:37.669701+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370208011",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2083966696223289842",
-        "title": "React Developer Intern",
-        "company": "Nexa Solutions LLC",
-        "location": "Aligarh, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T20:52:37.669701+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370200232",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3808303214168229929",
-        "title": "Full Stack .Net Developer",
-        "company": "Deloitte",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-08T20:24:58.045550+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361708681",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
