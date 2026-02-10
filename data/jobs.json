@@ -1,5 +1,47 @@
 [
     {
+        "id": "-788907114974444573",
+        "title": "ReactJS developer",
+        "company": "Capgemini",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T10:30:12.722036+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370973023",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7515887711362658137",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T10:30:12.722036+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370652083",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5170571290582932836",
+        "title": "Web Developer (SDE 2)",
+        "company": "Groww",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T10:30:12.722036+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370638571",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6309875200193883740",
         "title": "Front End Developer",
         "company": "Zensoft Services",
@@ -805,90 +847,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-09T11:25:35.359406+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4361881562",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1595465214792092843",
-        "title": "Front-End Developer - Landing Pages (Pardot)",
-        "company": "AMETEK",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364370952",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5525610106314055757",
-        "title": "Web Developer",
-        "company": "VoilaWex",
-        "location": "Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370224946",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4031882104862993322",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Bhubaneswar, Odisha, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370246112",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "496289934392396163",
-        "title": "Packaged/SaaS Application Engineer",
-        "company": "Accenture in India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370399544",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7893712961362285138",
-        "title": "Mid-Level Software Engineer (Full Stack)",
-        "company": "eBay",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4261158323",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6962540920250207435",
-        "title": "Full Stack Developer (React and C#)",
-        "company": "Cytel",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T10:01:34.523070+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4342307098",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
