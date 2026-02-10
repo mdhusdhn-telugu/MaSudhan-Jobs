@@ -1,5 +1,61 @@
 [
     {
+        "id": "-5353148677007674785",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T06:43:52.355420+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370610947",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1821569507397555565",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T06:43:52.355420+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370296551",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6510549807239278117",
+        "title": "Software Engineer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T06:43:52.355420+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370406292",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "548147871814662303",
+        "title": "Frontend Developer",
+        "company": "Flexiple",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T06:43:52.355420+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370943034",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3814943705128743805",
         "title": "React.js Developer",
         "company": "Concentrix",
@@ -931,90 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-09T07:37:55.401625+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370234154",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "383256153347541228",
-        "title": "Frontend Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370360671",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1187255805926624835",
-        "title": "Front-End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370213860",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1647525611338013846",
-        "title": "Alliances Field Engineer",
-        "company": "Canonical",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370382300",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2261770246303603602",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370222252",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8601430326279539576",
-        "title": "Full-Stack Developer",
-        "company": "Capgemini",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370387044",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7733770981195774039",
-        "title": "Full Stack Developer",
-        "company": "Advith ITeC Private Limited",
-        "location": "Udupi, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T06:06:57.552094+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4360955809",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
