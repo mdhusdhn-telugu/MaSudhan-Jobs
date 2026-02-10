@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6216979127320818705",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "ArGo Intern",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T15:09:42.635082+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370618789",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-78773514508790370",
+        "title": "Software Development Engineer II, Global Logistics, Global Logistics",
+        "company": "Amazon",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T15:09:42.635082+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371002585",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3737195449520488717",
+        "title": "Software Engineer - React / Fullstack",
+        "company": "UBS",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T15:09:42.635082+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360439400",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-99360457050024922",
         "title": "Data Engineer (python, pyspark)",
         "company": "LexisNexis Risk Solutions",
@@ -693,34 +735,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-09T15:55:03.075580+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370420435",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3693628436724838565",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "ArGo Intern",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T14:50:48.201672+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361749249",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2327161493601121910",
-        "title": "Front-End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T14:50:48.201672+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370518549",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
