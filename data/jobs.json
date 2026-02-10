@@ -1,5 +1,19 @@
 [
     {
+        "id": "5372151435312683446",
+        "title": "Full Stack Developer in Dharwad",
+        "company": "SAJRE EDUTECH PRIVATE LIMITED",
+        "location": "Dharwad, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T07:59:05.144711+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370874965",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5353148677007674785",
         "title": "Frontend Developer Internship",
         "company": "Wake Up Whistle",
@@ -875,118 +889,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-09T08:50:23.449898+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4362220055",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7019200939382642447",
-        "title": "Frontend Developer",
-        "company": "Unifynd Labs (U.LABS)",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370213993",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9140566724147874617",
-        "title": "React JS Developer",
-        "company": "CodeGama",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4369330642",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8929145609322250375",
-        "title": "Front End Developer",
-        "company": "Smart IMS Inc.",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370226443",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1680399604771722305",
-        "title": "Frontend Developer - 6 months Contract",
-        "company": "Net2Source (N2S)",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370380801",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1760996055763368136",
-        "title": "Reactjs+Nodejs/Nexts js Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370206991",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1682145522461338863",
-        "title": "Software Engineer Internship",
-        "company": "eDAS - Eureka Digitisation and Automation Services",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361757373",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7614643500234505431",
-        "title": "Full Stack Software Engineer",
-        "company": "hackajob",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370209600",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3022982583648148073",
-        "title": "Fullstack Engineer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T07:37:55.401625+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370234154",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
