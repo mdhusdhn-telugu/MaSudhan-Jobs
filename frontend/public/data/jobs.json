@@ -1,5 +1,61 @@
 [
     {
+        "id": "-3958204300571892207",
+        "title": "Software Engineer - Frontend Developer",
+        "company": "Moody's Corporation",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T11:30:39.200725+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4360836041",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4939900140569585734",
+        "title": "Software Engineer",
+        "company": "osmAPI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T11:30:39.200725+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370618143",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "963929562180525056",
+        "title": "Engineer Intern",
+        "company": "The Edu Edge",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T11:30:39.200725+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370616997",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-9048509430958997106",
+        "title": "Web Developer",
+        "company": "Webkit24",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T11:30:39.200725+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370658037",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-788907114974444573",
         "title": "ReactJS developer",
         "company": "Capgemini",
@@ -721,132 +777,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-09T12:03:10.295483+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370510652",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2013745493884202587",
-        "title": "Python and React Developer",
-        "company": "Octet Design Studio",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370231431",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5671154228155027522",
-        "title": "React Developer",
-        "company": "JUSPAY",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370240414",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8044183313330593639",
-        "title": "Web Developer Interns (Remote) \ud83d\ude80",
-        "company": "Bulwarkers",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366855098",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-661752473078746348",
-        "title": "Front-End Developer (AI-Enabled SaaS)",
-        "company": "Koonei",
-        "location": "Bidhannagar, West Bengal, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370360407",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-27741524244799744",
-        "title": "Full Stack Engineer",
-        "company": "Avaloq",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361738852",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3178749842345137565",
-        "title": "Software Engineer",
-        "company": "Accenture",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370238970",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "104537517156010246",
-        "title": "Friends and Family: EIC Software Engineer Intern",
-        "company": "Ciena",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370255103",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1362027520690205912",
-        "title": "Software Engineer - Trainee",
-        "company": "RM Technology",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361758030",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2177872309448564569",
-        "title": "Software Engineer- Frontend Developer- (HTML, CSS and JavaScript)",
-        "company": "TraceLink",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-09T11:25:35.359406+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361881562",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
