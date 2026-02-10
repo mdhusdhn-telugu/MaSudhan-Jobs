@@ -1,5 +1,33 @@
 [
     {
+        "id": "-4540199342516150914",
+        "title": "Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T18:00:30.540788+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363064295",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6704946405750705447",
+        "title": "Python Software Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-10T18:00:30.540788+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363092146",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1048729875662042135",
         "title": "Frontend Developer",
         "company": "Scoutit",
