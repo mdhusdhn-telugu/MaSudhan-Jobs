@@ -1,5 +1,47 @@
 [
     {
+        "id": "4408875773185451288",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "ArGo Intern",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T21:32:54.103151+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371300760",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "975479713665503957",
+        "title": "Front End Developer - Offshore",
+        "company": "Satwic Inc",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T21:32:54.103151+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4236133457",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1521758902211027777",
+        "title": "Software Engineering Intern - Voice Agent",
+        "company": "Lokam.ai",
+        "location": "",
+        "date_posted": "2026-02-10",
+        "found_at": "2026-02-11T21:32:54.103151+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370729675",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1649534526956785764",
         "title": "React / NextJS Developer",
         "company": "Web Spiders",
@@ -1183,34 +1225,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-10T22:06:58.646607+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4358611798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5093551746936796711",
-        "title": "Software Engineer Intern",
-        "company": "Redsafe",
-        "location": "Bengaluru South, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T21:09:38.783581+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370735321",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3996274740579037766",
-        "title": "Software Engineering Intern - Voice Agent",
-        "company": "Lokam.ai",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T21:09:38.783581+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370729675",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
