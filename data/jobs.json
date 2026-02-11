@@ -1,5 +1,19 @@
 [
     {
+        "id": "6981443770383996962",
+        "title": "Backend Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T19:34:39.227739+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371137134",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7359623339584964732",
         "title": "React Developer",
         "company": "Persistent Systems",
@@ -1197,20 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-10T20:08:16.623405+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370713764",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8985325773522935108",
-        "title": "Python Software Development Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T19:20:20.133469+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370714238",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
