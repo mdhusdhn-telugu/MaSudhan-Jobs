@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6388618699755241179",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T07:55:49.010743+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370787918",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5065616816714090089",
+        "title": "React Js Developer",
+        "company": "Tata Consultancy Services",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T07:55:49.010743+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4370788320",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6085090886782371057",
+        "title": "Front-End Developer Intern (JavaScript, React))",
+        "company": "Skillfied Mentor Jobs",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-11T07:55:49.010743+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371251487",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1098595490510179782",
         "title": "Custom Software Engineer",
         "company": "Accenture in India",
@@ -903,62 +945,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-10T07:59:05.144711+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370874965",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5353148677007674785",
-        "title": "Frontend Developer Internship",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T06:43:52.355420+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370610947",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1821569507397555565",
-        "title": "Front-End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T06:43:52.355420+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370296551",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6510549807239278117",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T06:43:52.355420+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370406292",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "548147871814662303",
-        "title": "Frontend Developer",
-        "company": "Flexiple",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-10T06:43:52.355420+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370943034",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
