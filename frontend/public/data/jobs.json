@@ -1,5 +1,33 @@
 [
     {
+        "id": "5884800246124175832",
+        "title": "Front-End Developer \u2013 SCG India",
+        "company": "SCG",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T04:35:35.991808+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4298394472",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1457683825716942905",
+        "title": "Java full stack developer+ Angular",
+        "company": "People Prime Worldwide",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T04:35:35.991808+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363108464",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6799551438416254059",
         "title": "Front-End Web Developer",
         "company": "RADcube",
@@ -1015,34 +1043,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-11T05:27:02.496844+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4370673339",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3722263283621169751",
-        "title": "Junior Software Developer (PHP / Laravel)",
-        "company": "E-CARET SOLUTIONS",
-        "location": "Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T03:34:25.885394+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370773746",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2707997595151059363",
-        "title": "Support Engineer III, Payment Services",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T03:34:25.885394+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371240313",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
