@@ -1,5 +1,33 @@
 [
     {
+        "id": "-3744308804223174294",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T22:31:11.960319+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363153456",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8980514364801924169",
+        "title": "Backend Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T22:31:11.960319+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371398518",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2510921055411004955",
         "title": "Front-End Developer Intern (JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
@@ -833,76 +861,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T02:01:13.857152+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4362540323",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2645783600122278288",
-        "title": "React JS Developer",
-        "company": "UST",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T22:28:09.661176+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361042784",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5639232815893301493",
-        "title": "AI / ML Engineer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T22:28:09.661176+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4358611798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4408875773185451288",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "ArGo Intern",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T21:32:54.103151+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371300760",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "975479713665503957",
-        "title": "Front End Developer - Offshore",
-        "company": "Satwic Inc",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T21:32:54.103151+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4236133457",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1521758902211027777",
-        "title": "Software Engineering Intern - Voice Agent",
-        "company": "Lokam.ai",
-        "location": "",
-        "date_posted": "2026-02-10",
-        "found_at": "2026-02-11T21:32:54.103151+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370729675",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
