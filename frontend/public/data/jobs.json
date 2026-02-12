@@ -1,5 +1,47 @@
 [
     {
+        "id": "1923975895023074817",
+        "title": "Frontend Developer - React JS with AI Integration",
+        "company": "UST",
+        "location": "Trivandrum, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T13:03:45.818877+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4358069867",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3904812366032125227",
+        "title": "Frontend Developer",
+        "company": "Grid Dynamics",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T13:03:45.818877+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371392582",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5106546977595960669",
+        "title": "Full Stack Developer (L2)",
+        "company": "NTT DATA, Inc.",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T13:03:45.818877+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4299239657",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7915069369826799536",
         "title": "Front End developer - CSS",
         "company": "NCS Group",
@@ -777,104 +819,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-11T13:05:55.110616+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363182491",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8105974385395131063",
-        "title": "Software Development Engineer 2 (FrontEnd)",
-        "company": "Adobe",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362094889",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8424708386315301875",
-        "title": "HCL Tech || AEM Frontend Developer || Chennai/ Bangalore/Hyderabad",
-        "company": "HCLTech",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362289182",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5474111204707708128",
-        "title": "React & Node.js Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4361869204",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5328782300543526697",
-        "title": "Front End Developer (f/m/d)",
-        "company": "Thinkproject",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363084998",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-841894010477643789",
-        "title": "Software Engineer",
-        "company": "osmAPI",
-        "location": "",
-        "date_posted": "2026-02-10",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370618143",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2943695793800141144",
-        "title": "Full Stack Developer",
-        "company": "Easebuzz",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363114641",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "438213160560286874",
-        "title": "Web Developer ( Ghaziabad)",
-        "company": "Naukripay group",
-        "location": "Ghaziabad, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T11:43:50.544857+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371129366",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
