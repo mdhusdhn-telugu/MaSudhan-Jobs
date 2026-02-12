@@ -1,5 +1,47 @@
 [
     {
+        "id": "8876093909130720188",
+        "title": "Testing Engineer Intern",
+        "company": "Fix4Ever",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T10:43:47.268722+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371392317",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-46000522514354522",
+        "title": "Web Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T10:43:47.268722+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371396094",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1975880433327727724",
+        "title": "React Native Developer - SDE 2",
+        "company": "Groww",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T10:43:47.268722+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371818324",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "5119483681287544782",
         "title": "Frontend Developer",
         "company": "Aditi Consulting",
@@ -973,118 +1015,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-11T10:49:11.686479+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363110817",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9017518889224766885",
-        "title": "Junior React Developer (Remote)",
-        "company": "Apexso Technologies",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363038811",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5859087235949696062",
-        "title": "Frontend Developer",
-        "company": "Nova Techset Ltd.",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370688060",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-826236725139924100",
-        "title": "Frontend Developer",
-        "company": "The Factual Holding co",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362287969",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "552485080831920473",
-        "title": "Software Engineer Trainee \u2013 Next-Gen Product Engineering",
-        "company": "KainSkep",
-        "location": "Jaipur, Rajasthan, India",
-        "date_posted": "2026-02-10",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370656006",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4478470883640706824",
-        "title": "Full Stack Developer",
-        "company": "PUMA Group",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371040662",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2599739435653398667",
-        "title": "FRONT END SOFTWARE ENGINEER (ANGULAR)",
-        "company": "Wipro",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371241998",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2372867903630945853",
-        "title": "Web Developer",
-        "company": "CareerXperts Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363200429",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "216607466964561114",
-        "title": "Frontend Engineer II",
-        "company": "HackerRank",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T09:52:45.589859+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4354142004",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
