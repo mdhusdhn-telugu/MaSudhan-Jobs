@@ -1,5 +1,33 @@
 [
     {
+        "id": "-3831887810524007730",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T06:04:31.692464+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371800510",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-694512134999308871",
+        "title": "Operations Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-12T06:04:31.692464+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371278989",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "5884800246124175832",
         "title": "Front-End Developer \u2013 SCG India",
         "company": "SCG",
@@ -987,62 +1015,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-11T06:40:42.650704+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363171523",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1050976659836911167",
-        "title": "React Js Developer",
-        "company": "Villagers Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T05:27:02.496844+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370782645",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7639979748222952403",
-        "title": "Java Backend Developer",
-        "company": "People Prime Worldwide",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T05:27:02.496844+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370785487",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8664261960967865300",
-        "title": "Operations Engineer",
-        "company": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T05:27:02.496844+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371257000",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5515805197712036800",
-        "title": "Software Engineer Intern",
-        "company": "Karpine",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-11T05:27:02.496844+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370673339",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
