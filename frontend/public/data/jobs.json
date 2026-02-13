@@ -1,5 +1,47 @@
 [
     {
+        "id": "-6927815968973478331",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T07:05:33.520905+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371732555",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2991592151089961243",
+        "title": "React.js Developer",
+        "company": "Kumaran Systems",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T07:05:33.520905+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371364970",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6525106359385560045",
+        "title": "Frontend Developer",
+        "company": "Leadbug OMT",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T07:05:33.520905+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371736309",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8749046773979410601",
         "title": "Frontend Developer Intern",
         "company": "VedhaAI",
@@ -875,34 +917,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T07:35:15.234510+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4371818296",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3831887810524007730",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T06:04:31.692464+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371800510",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-694512134999308871",
-        "title": "Operations Engineer",
-        "company": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T06:04:31.692464+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371278989",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
