@@ -1,5 +1,19 @@
 [
     {
+        "id": "-3792022100595191601",
+        "title": "Angular Developer",
+        "company": "Capgemini",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T02:04:32.502520+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363245789",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3744308804223174294",
         "title": "Frontend Developer",
         "company": "GoodSpace AI",
@@ -791,76 +805,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T04:35:35.991808+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363108464",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6799551438416254059",
-        "title": "Front-End Web Developer",
-        "company": "RADcube",
-        "location": "Shaikpet, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T02:01:13.857152+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371638956",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1612471732023612585",
-        "title": "Interesting Job Opportunity: Frontend Developer - React.js",
-        "company": "GRK Info Services Pvt Ltd",
-        "location": "Bawana, Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T02:01:13.857152+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371625911",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7745163374211946878",
-        "title": "FrontEnd Developer - R11803",
-        "company": "CoffeeBeans",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T02:01:13.857152+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371326404",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2076395069287683972",
-        "title": "React Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T02:01:13.857152+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363183478",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5675774467896816235",
-        "title": "Intern, Software Engineering",
-        "company": "Lowe's India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T02:01:13.857152+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4362540323",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
