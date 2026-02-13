@@ -1,5 +1,19 @@
 [
     {
+        "id": "-473105702813418633",
+        "title": "React.js Developer",
+        "company": "Concentrix",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T23:55:47.747830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364426229",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1238251682050521983",
         "title": "Backend Developer",
         "company": "IBM",
