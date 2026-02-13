@@ -1,5 +1,61 @@
 [
     {
+        "id": "1807649728541877828",
+        "title": "Full Stack Developer (5+ yrs | ReactJS + .NET/Python)",
+        "company": "Tetrifox",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T08:04:13.508698+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371687941",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8790144455779984979",
+        "title": "Java Backend Developer",
+        "company": "People Prime Worldwide",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T08:04:13.508698+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371731022",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5276152618177690864",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T08:04:13.508698+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371876991",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7712705713917883319",
+        "title": "Frontend Developer",
+        "company": "CredX",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T08:04:13.508698+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364162459",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6927815968973478331",
         "title": "Front-End Developer Intern",
         "company": "Dexter's Tech",
@@ -805,118 +861,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T08:43:33.791417+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363157698",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2709034174203464417",
-        "title": "Full Stack Developer (5+ yrs | ReactJS + .NET/Python)",
-        "company": "Tetrifox",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371687941",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7581715856763222325",
-        "title": "Frontend Developer",
-        "company": "DotPe",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371803668",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2056581094006780398",
-        "title": "Frontend Developer",
-        "company": "Zaggle",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363990159",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5300793277306770927",
-        "title": "\ud83d\ude80 Frontend Developer Internship | PearlThoughts | Remote",
-        "company": "PearlThoughts",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371801504",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7919117313934586013",
-        "title": "Java Backend Developer",
-        "company": "People Prime Worldwide",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371366832",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6897505556061930711",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371618377",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5515385798772771703",
-        "title": "Software Engineer Intern",
-        "company": "WFYI Technology",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371805696",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8691214424496913150",
-        "title": "Software Engineer Intern",
-        "company": "CredHive",
-        "location": "Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T07:35:15.234510+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371818296",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
