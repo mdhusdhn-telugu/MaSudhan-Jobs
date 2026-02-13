@@ -1,5 +1,89 @@
 [
     {
+        "id": "-2028372894323519853",
+        "title": "Application Developer-ReactJS",
+        "company": "IBM",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363914253",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8541134645004369631",
+        "title": "Front End Engineer 2 (FEE2), Paragon",
+        "company": "Amazon",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372719541",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4686115018669358051",
+        "title": "Software Development Engineer II, Global Logistics",
+        "company": "Amazon",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372720525",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1414931173015192636",
+        "title": "Software Engineer - NodeJs & React Fullstack",
+        "company": "Societe Generale Global Solution Centre",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4341712316",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7370034893761285428",
+        "title": "Backend - Node JS Developer",
+        "company": "GeekSoft Consulting",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371775436",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8527067581863778964",
+        "title": "Backend Developer",
+        "company": "Nisum",
+        "location": "Kondapur, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T15:09:21.544081+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372297866",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8807640030791037923",
         "title": "Frontend Engineer [T500-23352]",
         "company": "Marriott Tech Accelerator",
@@ -987,90 +1071,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T15:52:12.017119+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4371379884",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5202638005489873672",
-        "title": "Software Front-End Engineer (React.js)",
-        "company": "Light & Wonder",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371875595",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6753797204077809424",
-        "title": "Application Developer-ReactJS",
-        "company": "IBM",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363914253",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3387406171509867797",
-        "title": "Web Developer",
-        "company": "Accenture in India",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4275323061",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3772761016117040497",
-        "title": "Software Engineer - NodeJs & React Fullstack",
-        "company": "Societe Generale Global Solution Centre",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4336839908",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5683913970456902987",
-        "title": "Fullstack Developer (React + Python)",
-        "company": "SAS",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4343594564",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6506066936472161521",
-        "title": "Frontend Developer",
-        "company": "Prognova",
-        "location": "Coimbatore South, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T14:31:47.113804+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371506549",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
