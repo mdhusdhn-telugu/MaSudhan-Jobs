@@ -1,5 +1,61 @@
 [
     {
+        "id": "8071178722753585529",
+        "title": "Frontend Developer",
+        "company": "algoleap",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T11:08:37.876198+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363948551",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7885722795983228310",
+        "title": "Web Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T11:08:37.876198+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371751266",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7635869736301188060",
+        "title": "Full Stack Developer - Apple Ads",
+        "company": "Apple",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T11:08:37.876198+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371527586",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7677911181640645528",
+        "title": "Full Stack Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-13T11:08:37.876198+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4363227580",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6139524953927763967",
         "title": "Frontend Developer - React",
         "company": "Talentgigs",
@@ -945,48 +1001,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-12T11:39:01.035188+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4371501561",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8876093909130720188",
-        "title": "Testing Engineer Intern",
-        "company": "Fix4Ever",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T10:43:47.268722+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371392317",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-46000522514354522",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T10:43:47.268722+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371396094",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1975880433327727724",
-        "title": "React Native Developer - SDE 2",
-        "company": "Groww",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-12T10:43:47.268722+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371818324",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
