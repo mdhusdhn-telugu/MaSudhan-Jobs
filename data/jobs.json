@@ -1,5 +1,47 @@
 [
     {
+        "id": "-713627261884245996",
+        "title": "Web Developer",
+        "company": "Accenture in India",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T19:22:36.610353+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4343432404",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7976210682556296791",
+        "title": "Software Developer (React)",
+        "company": "RWS Group",
+        "location": "Indore, Madhya Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T19:22:36.610353+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364751803",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "213436831862832655",
+        "title": "Front End Developer",
+        "company": "InvoiceCloud, Inc.",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T19:22:36.610353+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355500407",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-9120694932613864438",
         "title": "Frontend Developer",
         "company": "Scoutit",
@@ -595,48 +637,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-13T20:42:21.422225+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4356510449",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8005840194553047589",
-        "title": "Application Developer-Google Cloud FullStack",
-        "company": "IBM",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T19:15:01.823332+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351159490",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9115942427456401053",
-        "title": "Frontend Developer \u2013 HTML/CSS (Freelancer)",
-        "company": "Deccan AI Experts",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T19:15:01.823332+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372758618",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-411700175969143928",
-        "title": "Junior Software Engineer (Fresher \u2013 Computer Science Graduate)",
-        "company": "Xcoders Technologies OPC Pvt. Ltd.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T19:15:01.823332+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372761398",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
