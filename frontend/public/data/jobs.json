@@ -1,5 +1,19 @@
 [
     {
+        "id": "2376162254732805957",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T07:10:24.694926+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372068117",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8177970433647236484",
         "title": "Front End Software Developer",
         "company": "Nasdaq",
@@ -889,48 +903,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-13T08:04:13.508698+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4364162459",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6927815968973478331",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T07:05:33.520905+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371732555",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2991592151089961243",
-        "title": "React.js Developer",
-        "company": "Kumaran Systems",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T07:05:33.520905+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371364970",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6525106359385560045",
-        "title": "Frontend Developer",
-        "company": "Leadbug OMT",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T07:05:33.520905+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371736309",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
