@@ -1,5 +1,47 @@
 [
     {
+        "id": "-749804874278815553",
+        "title": "Frontend Developer",
+        "company": "AdMax Local",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T10:25:30.107323+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4371765404",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "130688914766687503",
+        "title": "Back End Developer",
+        "company": "Lalit Dalmia Official",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T10:25:30.107323+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368591573",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7653700415457500870",
+        "title": "Back End Developer",
+        "company": "Easebuzz",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T10:25:30.107323+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364419967",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "6346304577603774348",
         "title": "React Developer",
         "company": "hackajob",
@@ -721,160 +763,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-13T11:08:37.876198+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4363227580",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6139524953927763967",
-        "title": "Frontend Developer - React",
-        "company": "Talentgigs",
-        "location": "Coimbatore, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371760282",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-332155315060880739",
-        "title": "Front End Engineer",
-        "company": "Radancy",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372227290",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5210896109799256129",
-        "title": "Frontend Developer",
-        "company": "Saras AI Institute",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364461148",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8397893816647284715",
-        "title": "Frontend UI Developer",
-        "company": "CGI",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372132775",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7170175233790731647",
-        "title": "Web Developer",
-        "company": "BCE Global Tech",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371571997",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8800932794862244560",
-        "title": "Frontend Engineer with Full-stack Experience (India)",
-        "company": "Genios AI",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371749120",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9192071106405761004",
-        "title": "Software Engineer Intern",
-        "company": "Sphurix Consulting Pvt. Ltd.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371748884",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1032880310432666687",
-        "title": "Full Stack Engineer - AVP",
-        "company": "Deutsche Bank",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372185272",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5871124785866265563",
-        "title": "Web Developer",
-        "company": "Markiverse Media",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371513932",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8207819856019406109",
-        "title": "Backend Engineer",
-        "company": "Flexton Inc.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370995376",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6834360927762967584",
-        "title": "MERN Stack Developer Intern (MongoDB, Express, React, Node.js)",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T10:08:06.756619+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371568532",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
