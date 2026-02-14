@@ -1,5 +1,33 @@
 [
     {
+        "id": "1471325374264825551",
+        "title": "Interesting Job Opportunity: Wobot.ai - Frontend Developer - React.js",
+        "company": "Wobot AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T05:29:45.351555+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372935396",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "9179570196431780301",
+        "title": "React Developer",
+        "company": "Hirenza",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-14T05:29:45.351555+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372922881",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6925801156587549415",
         "title": "Interesting Job Opportunity: Trendlyne - Software Frontend Developer - React.js",
         "company": "Trendlyne.com",
@@ -903,90 +931,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-13T05:58:47.006851+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4372189837",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6106107362123573845",
-        "title": "Junior Front End Developer in Palghar, Thane, Mumbai",
-        "company": "SaffireTech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372191212",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5024386033080372246",
-        "title": "React Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372188674",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9025159451240212813",
-        "title": "React JS Front-end developer",
-        "company": "myGwork - LGBTQ+ Business Community",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364190225",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8916687849246882691",
-        "title": "Frontend Developer",
-        "company": "Windmark",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371718131",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "546179256774661762",
-        "title": "Frontend Developer",
-        "company": "Dimensionless Technologies",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363196698",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4099746522515104802",
-        "title": "Custom Software Engineering Associate",
-        "company": "Accenture in India",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-13T04:33:46.151768+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4363248840",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
