@@ -964,19 +964,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "3702680404039750519",
-        "title": "Web Developer (Design + Frontend)",
-        "company": "Desapex",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T21:22:38.398620+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372088077",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
