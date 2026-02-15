@@ -1,5 +1,33 @@
 [
     {
+        "id": "2352362250753924340",
+        "title": "Full stack engineer",
+        "company": "EXL",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-15T11:45:26.440697+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373285093",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5718881173346922395",
+        "title": "Fullstack Developer",
+        "company": "Virtusa",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "2026-02-14",
+        "found_at": "2026-02-15T11:45:26.440697+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4355308915",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3542412913424251739",
         "title": "Frontend Developer \u2014 Opportunity (Next.js, React.js, HTML, CSS)",
         "company": "HiJob.work",
@@ -735,34 +763,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-14T11:45:38.151356+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4344540838",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8032027032368494067",
-        "title": "Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T11:21:30.474934+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364486888",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7832518185509498232",
-        "title": "Fullstack Developer",
-        "company": "Virtusa",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T11:21:30.474934+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355308915",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
