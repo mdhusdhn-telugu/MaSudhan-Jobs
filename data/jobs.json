@@ -712,47 +712,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-749804874278815553",
-        "title": "Frontend Developer",
-        "company": "AdMax Local",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T10:25:30.107323+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371765404",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "130688914766687503",
-        "title": "Back End Developer",
-        "company": "Lalit Dalmia Official",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T10:25:30.107323+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4368591573",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7653700415457500870",
-        "title": "Back End Developer",
-        "company": "Easebuzz",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T10:25:30.107323+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364419967",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
