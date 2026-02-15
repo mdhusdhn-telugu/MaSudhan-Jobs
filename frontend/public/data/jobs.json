@@ -670,33 +670,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "1471325374264825551",
-        "title": "Interesting Job Opportunity: Wobot.ai - Frontend Developer - React.js",
-        "company": "Wobot AI",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T05:29:45.351555+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372935396",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9179570196431780301",
-        "title": "React Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T05:29:45.351555+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372922881",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
