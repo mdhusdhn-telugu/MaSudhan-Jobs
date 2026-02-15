@@ -950,47 +950,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-713627261884245996",
-        "title": "Web Developer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T19:22:36.610353+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4343432404",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7976210682556296791",
-        "title": "Software Developer (React)",
-        "company": "RWS Group",
-        "location": "Indore, Madhya Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T19:22:36.610353+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364751803",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "213436831862832655",
-        "title": "Front End Developer",
-        "company": "InvoiceCloud, Inc.",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-14T19:22:36.610353+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355500407",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
