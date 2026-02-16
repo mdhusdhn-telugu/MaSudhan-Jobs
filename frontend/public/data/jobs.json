@@ -1,5 +1,103 @@
 [
     {
+        "id": "-1381197939557673835",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "ArGo Intern",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372388007",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1879982632686809430",
+        "title": "Front End Developer",
+        "company": "Ceyone Marketing Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364578467",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8705334615666456892",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4313247678",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7800949377372160226",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372381558",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4845791720991569154",
+        "title": "Software Engineer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372366500",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4561876955812733110",
+        "title": "Python Software Development Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372365965",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4464835131656318283",
+        "title": "Frontend Developer",
+        "company": "Sonata Software",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T12:59:06.365445+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372501959",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2956659754464028630",
         "title": "Node React Deveoper",
         "company": "Infosys",
@@ -819,174 +917,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-15T13:44:19.517292+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4372334240",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4210905391017053731",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "ArGo Intern",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372332228",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7353078559952489338",
-        "title": "Frontend Developer",
-        "company": "Wisemonk",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372320362",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3315469219812553086",
-        "title": "Frontend Developer-ReactJs",
-        "company": "Solytics Partners",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364566881",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3383289170505814754",
-        "title": "FULL STACK ENGINEER- BUSINESS BANKING",
-        "company": "OakNorth in India",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372339072",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7345939956959473802",
-        "title": "Node.js Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372337169",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5915662996448344569",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372328046",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-872577166245006040",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372318732",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1365861625496098330",
-        "title": "Python Software Development Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372339134",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5140751535124278855",
-        "title": "Software Engineer Intern (AI/ML & Full-Stack)",
-        "company": "CreativeArc Services Pvt. Ltd.",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371902141",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7060846015350768112",
-        "title": "MERN Stack Developer Intern (MongoDB, Express, React, Node.js)",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T12:45:56.804000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372076407",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2352362250753924340",
-        "title": "Full stack engineer",
-        "company": "EXL",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T11:45:26.440697+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373285093",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5718881173346922395",
-        "title": "Fullstack Developer",
-        "company": "Virtusa",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "2026-02-14",
-        "found_at": "2026-02-15T11:45:26.440697+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4355308915",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
