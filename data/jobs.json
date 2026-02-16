@@ -1,5 +1,89 @@
 [
     {
+        "id": "-4445993148028604299",
+        "title": "Fresher FullStack Engineer",
+        "company": "Unico Connect",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372532260",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5907549274779303914",
+        "title": "Frontend Developer \u2013 Power Apps",
+        "company": "EXL",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373581271",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1139044855606035707",
+        "title": "Software Engineer Intern",
+        "company": "IBM",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4364726738",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8811890052503865483",
+        "title": "Trainee RWD Software Engineer",
+        "company": "Gallagher",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4151673062",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-459898999398283282",
+        "title": "Backend Developer for WK",
+        "company": "EXL",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373568980",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1319951858539423060",
+        "title": "Full stack Developer",
+        "company": "L&T Technology Services",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T14:08:04.052733+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372508733",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1381197939557673835",
         "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
         "company": "ArGo Intern",
@@ -903,20 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-15T14:54:03.457997+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4372337161",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6660992547852124414",
-        "title": "Front End Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T13:44:19.517292+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372334240",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
