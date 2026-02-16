@@ -1,5 +1,61 @@
 [
     {
+        "id": "3529794670548266146",
+        "title": "Web Developer",
+        "company": "Sulzer",
+        "location": "Navi Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T10:01:00.554532+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372386549",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6367573344686543781",
+        "title": "Java full stack developer",
+        "company": "People Prime Worldwide",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T10:01:00.554532+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372384624",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2275160857757425111",
+        "title": "Backend Software Engineer",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T10:01:00.554532+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4265419132",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4020960280127173383",
+        "title": "Full Stack Platform Engineer",
+        "company": "eBay",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-16T10:01:00.554532+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4324743693",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8470991727439998456",
         "title": "Trainee Software Engineer",
         "company": "eReleGo Technologies Pvt Ltd (ETPL)",
@@ -903,90 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-15T11:21:31.614392+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4372302223",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-773482431309071808",
-        "title": "Software Engineer III- Java FullStack",
-        "company": "JPMorganChase",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373210549",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1309909929694581098",
-        "title": "React Native Developer (3\u20135 YOE) | Bangalore | Immediate Joiners",
-        "company": "Alive",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372071404",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5171156243169025389",
-        "title": "Intermediate Applications Developer - Java, GCP, Angular",
-        "company": "UPS",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4264475614",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-367233585832246886",
-        "title": "Software and Website Developer (Vibe Coding)",
-        "company": "TestHiring",
-        "location": "Surat, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372312995",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5202123552109493360",
-        "title": "Full Stack Developer Intern",
-        "company": "CallDash",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372086061",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1034185755901995230",
-        "title": "Full Stack Engineer",
-        "company": "66degrees",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-15T09:29:48.183020+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4321386025",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
