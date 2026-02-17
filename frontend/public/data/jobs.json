@@ -1,5 +1,47 @@
 [
     {
+        "id": "-3382231751064389418",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-17T19:46:32.173398+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372856351",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6760827141689601877",
+        "title": "Frontend Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-17T19:46:32.173398+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372855351",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-853728535830447795",
+        "title": "Software Engineer Intern (On-Site \u2013 Pune)",
+        "company": "Alpha Developers",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-17T19:46:32.173398+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372562774",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "198858386936718902",
         "title": "Frontend Developer Internship",
         "company": "Wake Up Whistle",
@@ -1001,34 +1043,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-16T20:28:54.530199+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4364588092",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1374757049028189332",
-        "title": "Frontend Developer",
-        "company": "Scoutit",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-16T19:10:19.177389+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372378843",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7657920420637144457",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-16T19:10:19.177389+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372393048",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
