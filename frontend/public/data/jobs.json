@@ -1,5 +1,33 @@
 [
     {
+        "id": "7815069778629718932",
+        "title": "Frontend Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T20:37:30.639549+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373314225",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2307076203078744713",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T20:37:30.639549+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373323124",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "489192033216890341",
         "title": "Software Engineer Intern",
         "company": "IBM",
@@ -861,146 +889,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-17T22:29:59.071204+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373025328",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4526328873273630347",
-        "title": "Remote JavaScript Engineer",
-        "company": "Turing",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373997566",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1681372317547644539",
-        "title": "Full Stack Engineer",
-        "company": "Proofpoint",
-        "location": "Bangalore Urban, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373927154",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "215992136279962130",
-        "title": "Java Angular Developer",
-        "company": "Capgemini",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374109070",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8854014695819642117",
-        "title": "FULL STACK DEVELOPER",
-        "company": "Wipro",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373963825",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7562917297626300585",
-        "title": "NodeJS Developer",
-        "company": "Scoutit",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372853278",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4748218599530997819",
-        "title": "Full Stack Developer, VP",
-        "company": "Deutsche Bank",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367605064",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5715553949351678962",
-        "title": "Full Stack Engineer - AS",
-        "company": "Deutsche Bank",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T20:35:48.354733+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367489271",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3382231751064389418",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T19:46:32.173398+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372856351",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6760827141689601877",
-        "title": "Frontend Developer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T19:46:32.173398+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372855351",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-853728535830447795",
-        "title": "Software Engineer Intern (On-Site \u2013 Pune)",
-        "company": "Alpha Developers",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T19:46:32.173398+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372562774",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
