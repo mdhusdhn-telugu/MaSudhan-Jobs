@@ -1,5 +1,61 @@
 [
     {
+        "id": "-9108229360953414751",
+        "title": "Front End Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T23:03:20.377598+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375047033",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8664520727071765680",
+        "title": "React Developer Intern",
+        "company": "Skillzenloop",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T23:03:20.377598+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373347633",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8781112350612215119",
+        "title": "React Developer",
+        "company": "Edstruments",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T23:03:20.377598+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373086319",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1985468060871919725",
+        "title": "Full Stack Developer",
+        "company": "Skild AI",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T23:03:20.377598+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4118095186",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8412526449405883448",
         "title": "Frontend Developer Internship",
         "company": "Wake Up Whistle",
