@@ -1,5 +1,61 @@
 [
     {
+        "id": "-2950731241394958694",
+        "title": "Fullstack Developer ( Java + React )",
+        "company": "Deloitte",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T17:52:12.226921+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372612448",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5985444101761821610",
+        "title": "LLM Model Developer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T17:52:12.226921+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372619138",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-35462585535977074",
+        "title": "Software Engineer",
+        "company": "Zetheta Algorithms Private Limited",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T17:52:12.226921+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373082481",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7743814402173366777",
+        "title": "Software Engineer, Backend- Platform",
+        "company": "Coinbase",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T17:52:12.226921+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4095195699",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5533811919326798406",
         "title": "Software Engineer Intern",
         "company": "Sharpener",
@@ -945,90 +1001,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-17T18:56:11.328660+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4302768905",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6534415233178737119",
-        "title": "Frontend Developer (React)",
-        "company": "MaxIQ",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351315164",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7828793318680438567",
-        "title": "React Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371985388",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2367170636847492766",
-        "title": "Software Engineering Intern",
-        "company": "NOV",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4371982449",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6540162605946773529",
-        "title": "Intern - Application Engineer (CFD)",
-        "company": "MESSEN LABS",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373005595",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1349707997171939262",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372807924",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8629782135452847792",
-        "title": "Web Developer",
-        "company": "Scoutit",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T17:35:10.317328+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372858184",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
