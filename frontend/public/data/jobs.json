@@ -1,5 +1,47 @@
 [
     {
+        "id": "-4627615775763787533",
+        "title": "Software Development Engineer II, Seller Fulfillment Technology",
+        "company": "Amazon",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T15:12:52.590566+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374746973",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3204644038744843845",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-02-17",
+        "found_at": "2026-02-18T15:12:52.590566+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373974971",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5902617601320886831",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T15:12:52.590566+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373090974",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8087183016665870438",
         "title": "Front End Developer-1",
         "company": "Sabre Corporation",
@@ -1015,104 +1057,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-17T15:13:43.672065+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4371965889",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8308827658731261274",
-        "title": "Consultant - Apps Full Stack Engineer A2",
-        "company": "Microsoft",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366350154",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3810776262405453648",
-        "title": "Front End Developer",
-        "company": "Navsoft",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372853479",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "505832711707397957",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4313254449",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2341848681161888087",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372832923",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6332134419546313036",
-        "title": "Software Engineer Intern",
-        "company": "IBM",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4364726738",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1059131004628722826",
-        "title": "Hiring for Software Developer Intern (.NET) (unpaid internship) from delhi NCR only",
-        "company": "DocIndia.org",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372880088",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7892385593252861305",
-        "title": "FullStack Software Engineer (Java/ Python)",
-        "company": "Procter & Gamble",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T14:10:33.248095+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4260383909",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
