@@ -1,5 +1,75 @@
 [
     {
+        "id": "6069035607199021609",
+        "title": "React Developer",
+        "company": "Docdort",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-02-17",
+        "found_at": "2026-02-18T07:56:25.954830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372836274",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1016106265018731649",
+        "title": "Frontend Developer (React)",
+        "company": "More Retail Private Limited",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T07:56:25.954830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372462369",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6565979022369224457",
+        "title": "Frontend Developer",
+        "company": "AAFT Online",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T07:56:25.954830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373080846",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7009968470782285489",
+        "title": "Software Engineering Intern",
+        "company": "Epiq",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T07:56:25.954830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373302264",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "464909973500909768",
+        "title": "Software developer intern",
+        "company": "Arutis Technologies",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-18T07:56:25.954830+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373088841",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2037421742009409643",
         "title": "Frontend Developer (React)",
         "company": "Quvor",
@@ -1043,62 +1113,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-17T08:42:42.515071+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4372824049",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3818538814217558536",
-        "title": "Full Stack web Developer",
-        "company": "SuperBotics MultiTech Private Limited",
-        "location": "Virudhunagar, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T07:52:15.621458+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372821890",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3849392443818190592",
-        "title": "React Developer",
-        "company": "Docdort",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T07:52:15.621458+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372836274",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2584637259112549103",
-        "title": "Frontend Developer",
-        "company": "Flexiple",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T07:52:15.621458+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373915678",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4843864238418162712",
-        "title": "Backend Engineer",
-        "company": "ixigo",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-17T07:52:15.621458+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373932074",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
