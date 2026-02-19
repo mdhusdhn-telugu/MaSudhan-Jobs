@@ -1,5 +1,61 @@
 [
     {
+        "id": "686378626097706229",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T19:57:26.461189+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372604482",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1609207504375757138",
+        "title": "React Developer",
+        "company": "SupportFinity\u2122",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T19:57:26.461189+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373630461",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6501228143805619503",
+        "title": "Software Engineer Intern",
+        "company": "IBM",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-02-18",
+        "found_at": "2026-02-19T19:57:26.461189+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372613998",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1673465880420704676",
+        "title": "Angular Developer",
+        "company": "Scoutit",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T19:57:26.461189+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373677183",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3591635709503235216",
         "title": "Frontend Developer",
         "company": "iVoyant",
@@ -1337,132 +1393,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-18T20:37:30.639549+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373323124",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "489192033216890341",
-        "title": "Software Engineer Intern",
-        "company": "IBM",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372613998",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8398291596102480053",
-        "title": "Full Stack Engineer",
-        "company": "Datavid",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373317660",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8568625391842998635",
-        "title": "Software Engineer (Full Stack)",
-        "company": "VectorStack",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373312798",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2351444950721509450",
-        "title": "Back End Developer",
-        "company": "CapitalXB",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374728718",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9013443188391847373",
-        "title": "Frontend Developer",
-        "company": "GoodSpace AI",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372604482",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2471181334414978292",
-        "title": "Web Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373088029",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6914867907169438959",
-        "title": "Back End Developer",
-        "company": "Jivi AI",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373343347",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "863668721004137587",
-        "title": "Frontend Developer",
-        "company": "MobileFirst Applications | Fintegration",
-        "location": "Ahmedabad, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372456406",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8204499832700297775",
-        "title": "Angular Developer",
-        "company": "Scoutit",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T19:47:10.443895+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373305942",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
