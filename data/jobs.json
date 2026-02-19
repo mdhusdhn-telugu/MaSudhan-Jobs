@@ -1,5 +1,187 @@
 [
     {
+        "id": "-1967449405420607819",
+        "title": "Frontend Developer",
+        "company": "Keenai Global",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373670469",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2819060911648705270",
+        "title": "React Developer",
+        "company": "Blue Spire Inc",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375128230",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8581546027297181526",
+        "title": "Frontend Developer",
+        "company": "Gushwork",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373669296",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2151443645968411195",
+        "title": "Frontend Developer",
+        "company": "Aditi Consulting",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373667331",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2168161710132084112",
+        "title": "Front End Developer-Fresher",
+        "company": "SparkNovaTechSolutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373664976",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5720650318302184259",
+        "title": "Front End Developer-Fresher",
+        "company": "COGNIVIEW.IN",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373689146",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8160835094430211954",
+        "title": "Front End Developer-Fresher",
+        "company": "Skill Hive Hub",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373667826",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7486920031923454022",
+        "title": "Software Development Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373674671",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2745359080260920387",
+        "title": "Intern - Application Engineer (CFD)",
+        "company": "MESSEN LABS",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373687054",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1947697312239518971",
+        "title": "Software Engineer, Backend (5-7) - BFSI",
+        "company": "PhonePe",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4366739215",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-116746768669781035",
+        "title": "Front End Developer-Fresher",
+        "company": "SYNAPTICA TECH",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373662974",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2798640509857700385",
+        "title": "Intermediate Applications Developer(Chennai) - Java, Angular, Sql, Db2, Ejb, Spring MVC",
+        "company": "UPS",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4351684161",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7338693417187122855",
+        "title": "FullStack Software Engineer (Java/ Python)",
+        "company": "Procter & Gamble",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T10:42:01.649206+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4260383909",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-6175210694847924736",
         "title": "React.js Developer",
         "company": "VAYUZ Technologies",
@@ -1029,20 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-18T10:42:41.556658+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373092940",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "294363421249984991",
-        "title": "Software Engineer Intern",
-        "company": "Libra AI",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T09:45:03.638174+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373085742",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
