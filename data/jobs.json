@@ -1,5 +1,61 @@
 [
     {
+        "id": "-851596551988386389",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T22:40:34.685448+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373686025",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1002292065939412423",
+        "title": "FrontEnd Software Engineer (Remote)",
+        "company": "Nexus Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T22:40:34.685448+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375172251",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6133080934210809651",
+        "title": "Frontend Developer",
+        "company": "Valiance Solutions",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T22:40:34.685448+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375132577",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3487560735211960763",
+        "title": "Full Stack Developer (React)",
+        "company": "NARBA",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T22:40:34.685448+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374032514",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5348062435334815834",
         "title": "React Developer",
         "company": "Scalability Engineers",
@@ -1421,62 +1477,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-18T23:03:20.377598+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4118095186",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8412526449405883448",
-        "title": "Frontend Developer Internship",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T22:31:22.191000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373399772",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5345016191939703970",
-        "title": "Software Engineer - E5 (Frontend)",
-        "company": "Whatfix",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T22:31:22.191000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373335021",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1655988154556185726",
-        "title": "Web Developer",
-        "company": "Scoutit",
-        "location": "Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T22:31:22.191000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373318578",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3816064647374689915",
-        "title": "Junior React Developer",
-        "company": "Enlighten Hacks - Community for Growth",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T22:31:22.191000+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373328637",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
