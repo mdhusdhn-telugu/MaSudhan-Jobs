@@ -1,5 +1,61 @@
 [
     {
+        "id": "-6175210694847924736",
+        "title": "React.js Developer",
+        "company": "VAYUZ Technologies",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T09:43:42.758761+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372681766",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5099913456997722062",
+        "title": "Interesting Job Opportunity: Orahi - React.js/Frontend Developer - HTML/CSS/Javascript",
+        "company": "phonon, automating outcomes",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T09:43:42.758761+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375056842",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8059211800281496896",
+        "title": "Java React Developer",
+        "company": "Persistent Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T09:43:42.758761+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372683307",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8760274106400847614",
+        "title": "NodeJs Developer",
+        "company": "Virtusa",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T09:43:42.758761+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4344219997",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-2743800318056043525",
         "title": "Frontend Developer (React)",
         "company": "MaxIQ",
@@ -987,20 +1043,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-18T09:45:03.638174+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373085742",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9009606949687306720",
-        "title": "Front-End Developer Intern (JavaScript, React))",
-        "company": "Skillfied Mentor Jobs",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T08:42:59.056141+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374470728",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
