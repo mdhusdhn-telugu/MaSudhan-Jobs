@@ -1,5 +1,201 @@
 [
     {
+        "id": "-1358728764970366699",
+        "title": "Full Stack MERN Developer Intern",
+        "company": "NARBA",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373659668",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4610945465638967262",
+        "title": "Frontend Developer (React, React Native, TypeScript)",
+        "company": "OMEGA Solutions",
+        "location": "Trivandrum, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373664050",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6291540494656656597",
+        "title": "React Angular Developer",
+        "company": "Persistent Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372677685",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8356957230945437389",
+        "title": "Web Developer ( Figma Design to Figma Site)",
+        "company": "Infowave Systems, Inc",
+        "location": "Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372615186",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3309105605070171710",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-02-18",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374761751",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3898192025590927460",
+        "title": "Custom Software Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373672767",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5701492080966466336",
+        "title": "Python Fullstack Engineer - Remote Work",
+        "company": "BairesDev",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "2026-02-18",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373339768",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "11472566977056225",
+        "title": "Full Stack Developer",
+        "company": "Persistent Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372694016",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5203023534559911015",
+        "title": "Junior Angular.js Developer in Panchkula",
+        "company": "Bursys",
+        "location": "Panchkula, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375063504",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8311014995450567021",
+        "title": "Full Stack Developer",
+        "company": "OP",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372625562",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8255705615523315913",
+        "title": "Full stack developer",
+        "company": "Setoo",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373658346",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5697341413816400662",
+        "title": "Frontend Developer",
+        "company": "Talentoindia - Jobs & Hiring Platform",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373655234",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6040103930160226888",
+        "title": ".Net with Angular Developer",
+        "company": "Allime Tech Solutions",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375101525",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2191095640534846995",
+        "title": "Backend Engineer - Python/Django",
+        "company": "Shine.com",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-19T15:25:50.105359+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375070463",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7569530703951288745",
         "title": "Python Developer",
         "company": "ArcelorMittal Digital Consulting",
@@ -1169,48 +1365,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-18T16:32:08.273156+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373358003",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4627615775763787533",
-        "title": "Software Development Engineer II, Seller Fulfillment Technology",
-        "company": "Amazon",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T15:12:52.590566+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374746973",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3204644038744843845",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-02-17",
-        "found_at": "2026-02-18T15:12:52.590566+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373974971",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5902617601320886831",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-18T15:12:52.590566+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373090974",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
