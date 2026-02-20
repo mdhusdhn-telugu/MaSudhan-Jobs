@@ -978,19 +978,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-1741933444401290970",
-        "title": "React Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T23:28:43.690617+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374039454",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
