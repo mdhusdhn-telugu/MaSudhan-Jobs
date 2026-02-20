@@ -1,5 +1,61 @@
 [
     {
+        "id": "-6940193746038087481",
+        "title": "Software Engineer - Frontend (Immediate Joiners)",
+        "company": "Whatfix",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T06:54:39.105535+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374353388",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5412216272670001871",
+        "title": "Software Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T06:54:39.105535+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375632648",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8513206603075244429",
+        "title": "Software Developer Intern",
+        "company": "Pragmatic Techsoft Pvt Ltd",
+        "location": "Patna, Bihar, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T06:54:39.105535+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373410592",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1544462108259147939",
+        "title": "Back End Developer",
+        "company": "Whatfix",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T06:54:39.105535+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374350407",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8001396542664573782",
         "title": "Frontend Developer (React)",
         "company": "Binated",
@@ -1449,62 +1505,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-19T06:58:40.502272+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4354629915",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8193293137092059751",
-        "title": "React Developer",
-        "company": "Arcitech",
-        "location": "Navi Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T05:43:29.575711+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372481390",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7338819310814938416",
-        "title": "Software Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T05:43:29.575711+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375102862",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6761863790622511626",
-        "title": "Back End Developer",
-        "company": "L&T Technology Services",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "2026-02-18",
-        "found_at": "2026-02-19T05:43:29.575711+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372450254",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2828372269844183969",
-        "title": "Software Engineer (Java / SQL / React / Fullstack)",
-        "company": "Crisil",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T05:43:29.575711+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373316255",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
