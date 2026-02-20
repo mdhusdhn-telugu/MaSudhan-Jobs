@@ -1,5 +1,61 @@
 [
     {
+        "id": "-5074842805932210900",
+        "title": "Front End Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T08:39:02.934735+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375634628",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1561019168344305715",
+        "title": "Frontend Developer",
+        "company": "Gamemano",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T08:39:02.934735+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373427537",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5966893373488440901",
+        "title": "Backend Developer Intern",
+        "company": "SkilloVilla",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T08:39:02.934735+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374346912",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4072745517881060820",
+        "title": "Backend Developer (NodeJS / Python)",
+        "company": "Ventura",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T08:39:02.934735+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373427566",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5117849154717672525",
         "title": "Frontend Developer",
         "company": "Wisemonk",
@@ -1421,62 +1477,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-19T08:41:47.979647+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373656915",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3262238911569894490",
-        "title": "Fresher Software Engineer",
-        "company": "Scalix Enterprise Solution LLP",
-        "location": "Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T07:52:10.190421+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373388227",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4554090105330367886",
-        "title": "React Developer",
-        "company": "Luxoft",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T07:52:10.190421+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375128315",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8353104197360728239",
-        "title": "Frontend Developer",
-        "company": "Tagshaw Consulting Limited",
-        "location": "Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T07:52:10.190421+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373663391",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7741888170418285398",
-        "title": "Software Engineer Intern",
-        "company": "Remotohire",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T07:52:10.190421+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4372688289",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
