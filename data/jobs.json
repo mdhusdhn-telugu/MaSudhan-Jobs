@@ -1,5 +1,19 @@
 [
     {
+        "id": "-6644334009982574371",
+        "title": "Front End Developer - Intermediate",
+        "company": "Equifax",
+        "location": "Trivandrum, Kerala, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T04:14:40.205442+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374000933",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-904134238715114326",
         "title": "Full Stack Web Developer - India",
         "company": "hackajob",
@@ -1449,34 +1463,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-19T04:26:37.969684+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4375065932",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7348151147152137181",
-        "title": "Frontend Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T02:00:13.008728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375075270",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7776973854436082116",
-        "title": "HTML, CSS & JavaScript Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T02:00:13.008728+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375036388",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
