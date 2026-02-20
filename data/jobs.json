@@ -1,5 +1,33 @@
 [
     {
+        "id": "-7453157263486268370",
+        "title": "Software Engineer Intern",
+        "company": "CausalFunnel",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T17:36:48.850195+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374619118",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8082356241667993364",
+        "title": "Software Engineering Intern",
+        "company": "Brightly Software",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-20T17:36:48.850195+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374094520",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8902262860175701740",
         "title": "Front-End Developer Intern",
         "company": "Dexter's Tech",
@@ -1141,62 +1169,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-19T18:12:58.848685+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373629374",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9147063662289244482",
-        "title": "ReactJS developer",
-        "company": "Capgemini",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T17:29:32.118557+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4370973023",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3877227367098788480",
-        "title": "Software Engineering Intern",
-        "company": "Brightly Software",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T17:29:32.118557+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374058330",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3425621397934098626",
-        "title": "Software Developer Intern",
-        "company": "Skillzenloop",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T17:29:32.118557+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374031620",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8002742273432151075",
-        "title": "Backend Developer in Noida",
-        "company": "InstaAstro",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-19T17:29:32.118557+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375066374",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
