@@ -1,5 +1,19 @@
 [
     {
+        "id": "-830884480032481280",
+        "title": "Front-End Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T05:27:43.785831+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374902298",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5279841202757250886",
         "title": "Frontend Engineer (India)",
         "company": "VectorShift",
@@ -973,20 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T05:36:18.358445+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374326987",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6644334009982574371",
-        "title": "Front End Developer - Intermediate",
-        "company": "Equifax",
-        "location": "Trivandrum, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T04:14:40.205442+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374000933",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
