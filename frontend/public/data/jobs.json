@@ -1,5 +1,19 @@
 [
     {
+        "id": "-2522287542210830166",
+        "title": "Software Engineer Intern",
+        "company": "CausalFunnel",
+        "location": "",
+        "date_posted": "2026-02-20",
+        "found_at": "2026-02-21T17:51:31.587252+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374619118",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1034096832423761115",
         "title": "Packaged/SaaS Application Engineer",
         "company": "Accenture in India",
@@ -889,34 +903,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T18:43:40.439696+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373487415",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7453157263486268370",
-        "title": "Software Engineer Intern",
-        "company": "CausalFunnel",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T17:36:48.850195+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374619118",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8082356241667993364",
-        "title": "Software Engineering Intern",
-        "company": "Brightly Software",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T17:36:48.850195+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374094520",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
