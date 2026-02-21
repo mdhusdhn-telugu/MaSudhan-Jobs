@@ -894,47 +894,5 @@
             "is_suitable": true,
             "match_score": 50
         }
-    },
-    {
-        "id": "-5117849154717672525",
-        "title": "Frontend Developer",
-        "company": "Wisemonk",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T07:47:30.258232+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373694252",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5873995534046348642",
-        "title": "Java Backend Developer",
-        "company": "People Prime Worldwide",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T07:47:30.258232+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374343622",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2000579184674007478",
-        "title": "Full Stack Developer",
-        "company": "Ventura",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T07:47:30.258232+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373407878",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
     }
 ]
