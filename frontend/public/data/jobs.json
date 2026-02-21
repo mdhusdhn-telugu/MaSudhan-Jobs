@@ -1,5 +1,47 @@
 [
     {
+        "id": "3207716876366115387",
+        "title": "React Developer",
+        "company": "VAYUZ Technologies",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-02-20",
+        "found_at": "2026-02-21T11:45:10.040321+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373447566",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5766665878858449752",
+        "title": "React, Angular Developer",
+        "company": "Infosys",
+        "location": "Chandigarh, Chandigarh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T11:45:10.040321+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367273571",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5535291282265632091",
+        "title": "Web Developer",
+        "company": "ArchiPal Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T11:45:10.040321+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375018424",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "7717954632965545161",
         "title": "Frontend Developer (React) | Remote",
         "company": "Crossing Hurdles",
@@ -875,48 +917,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T11:58:23.468566+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4347882533",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5480205421522960051",
-        "title": "React Developer",
-        "company": "VAYUZ Technologies",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T11:31:16.122016+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373447566",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7598722728392878998",
-        "title": "Full Stack Engineer",
-        "company": "Samsung Electronics",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T11:31:16.122016+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373451176",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1038147330832299964",
-        "title": "Junior Full Stack Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T11:31:16.122016+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374336970",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
