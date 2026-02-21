@@ -1,5 +1,47 @@
 [
     {
+        "id": "4492934734939813758",
+        "title": "Front-End Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T16:27:19.864763+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374937328",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1483363323942523236",
+        "title": "Frontend Developer Intern fresher",
+        "company": "Unistack Advisory Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T16:27:19.864763+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374925846",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2595519004222773242",
+        "title": "Custom Software Engineer",
+        "company": "Accenture in India",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T16:27:19.864763+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4293703080",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1227074754430607287",
         "title": "Frontend Developer",
         "company": "RAY AND MARTIN",
@@ -861,48 +903,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T17:36:48.850195+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374094520",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8902262860175701740",
-        "title": "Front-End Developer Intern",
-        "company": "Dexter's Tech",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T16:01:08.386672+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374612110",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1951704491292074122",
-        "title": "Custom Software Engineer",
-        "company": "Accenture in India",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T16:01:08.386672+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4293499809",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4412011143040734673",
-        "title": "Custom Software Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T16:01:08.386672+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374361872",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
