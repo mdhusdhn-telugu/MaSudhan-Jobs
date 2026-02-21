@@ -1,5 +1,33 @@
 [
     {
+        "id": "-9149269332740564237",
+        "title": "React Developer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T07:07:27.818082+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374690572",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6911526412387932531",
+        "title": "Software Developer Intern",
+        "company": "Infrabyte Consulting",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T07:07:27.818082+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376151876",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1141586045646476732",
         "title": "Frontend Developer (React)",
         "company": "Binated",
@@ -903,62 +931,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T07:47:30.258232+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4373407878",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6940193746038087481",
-        "title": "Software Engineer - Frontend (Immediate Joiners)",
-        "company": "Whatfix",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T06:54:39.105535+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374353388",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5412216272670001871",
-        "title": "Software Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T06:54:39.105535+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375632648",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8513206603075244429",
-        "title": "Software Developer Intern",
-        "company": "Pragmatic Techsoft Pvt Ltd",
-        "location": "Patna, Bihar, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T06:54:39.105535+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373410592",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1544462108259147939",
-        "title": "Back End Developer",
-        "company": "Whatfix",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T06:54:39.105535+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374350407",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
