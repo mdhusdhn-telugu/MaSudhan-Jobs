@@ -1,5 +1,33 @@
 [
     {
+        "id": "-1141586045646476732",
+        "title": "Frontend Developer (React)",
+        "company": "Binated",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T06:02:53.996035+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374689669",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8820600042157616441",
+        "title": "Software Engineer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-21T06:02:53.996035+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374908166",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-830884480032481280",
         "title": "Front-End Developer Intern",
         "company": "Inficore Soft",
@@ -931,62 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-20T06:54:39.105535+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374350407",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8001396542664573782",
-        "title": "Frontend Developer (React)",
-        "company": "Binated",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T05:36:18.358445+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374329890",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6907459064728642996",
-        "title": "Software Developer Intern(MERN STACK)",
-        "company": "Codequery Technology",
-        "location": "Patna, Bihar, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T05:36:18.358445+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374348264",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3652985387321204121",
-        "title": "Full Stack Developer",
-        "company": "Meril",
-        "location": "Vapi, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T05:36:18.358445+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374335948",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3503715400880703930",
-        "title": "Full Stack Developer \u2013 Fresher",
-        "company": "Collabifyspace",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-20T05:36:18.358445+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374326987",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
