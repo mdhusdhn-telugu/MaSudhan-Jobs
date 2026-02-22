@@ -1,5 +1,33 @@
 [
     {
+        "id": "-6506406286617638345",
+        "title": "Full stack developer - Remote - React and Node",
+        "company": "LettFaktura",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T19:23:04.204700+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4373795942",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8945685788898897976",
+        "title": "Software Engineer ( Must Understand Astrology )",
+        "company": "Graho",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T19:23:04.204700+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374206818",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3643508695259010932",
         "title": "Software Engineer Intern",
         "company": "CausalFunnel",
@@ -1267,90 +1295,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-21T19:22:57.213740+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374934293",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5260364535918786988",
-        "title": "Sr Platform Engineer, JavaScript Fmwk",
-        "company": "myGwork - LGBTQ+ Business Community",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373749374",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7199307261681009110",
-        "title": "Fullstack Software Development Engineer II - Remitly Business",
-        "company": "Remitly",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367628195",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7954321126959598736",
-        "title": "Backend Developer [32895]",
-        "company": "Stealth Startup",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373720752",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-457562009731925868",
-        "title": "Back End Developer",
-        "company": "CLR3",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376165180",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3007508588459450618",
-        "title": "Python Fullstack Developer -Hyderabad/Bengaluru",
-        "company": "Deloitte",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4367237699",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7230863177832113344",
-        "title": "Software Engineer III - Full stack developer",
-        "company": "hackajob",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T18:32:50.784044+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4366475732",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
