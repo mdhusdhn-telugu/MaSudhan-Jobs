@@ -1,5 +1,61 @@
 [
     {
+        "id": "3702534446548198381",
+        "title": "Full Stack Developer Role (Java + React)",
+        "company": "Fractal",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "2026-02-21",
+        "found_at": "2026-02-22T10:52:09.200056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4332251441",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8314774194331369290",
+        "title": "Frontend Developer Internship",
+        "company": "Wake Up Whistle",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T10:52:09.200056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374971352",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7105579338914980817",
+        "title": "Frontend Developer",
+        "company": "GoodSpace AI",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T10:52:09.200056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4372604482",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4610547261591759091",
+        "title": "Full Stack Developer-PLSQL /Java",
+        "company": "Oracle",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T10:52:09.200056+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4281296195",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-944033882867225148",
         "title": "Software Developer Intern",
         "company": "Infrabyte Consulting",
@@ -903,118 +959,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-21T10:52:39.274642+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4331920078",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7272039508501619197",
-        "title": "FrontEnd Software Engineer (Remote)",
-        "company": "Nexus Consulting",
-        "location": "",
-        "date_posted": "2026-02-20",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375684118",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7204862724655778528",
-        "title": "Frontend Developer Internship",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374915059",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8404044229206274318",
-        "title": "Frontend Engineer E3 - Web Experience",
-        "company": "BitGo",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4337768086",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "414144821052962519",
-        "title": "Front End Developer",
-        "company": "Barclays",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373704052",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4247234212403969063",
-        "title": "Operations Engineer",
-        "company": "Accenture in India",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373463750",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5291502706054564893",
-        "title": "Software Engineer Intern",
-        "company": "Wastefull Insights",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373761099",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7588521746548803018",
-        "title": "Full Stack Developer Role (Java + React)",
-        "company": "Fractal",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4332251441",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8475652497315138675",
-        "title": "Web Developer",
-        "company": "CometChat",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T10:24:23.182681+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374664823",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
