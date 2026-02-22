@@ -1,5 +1,19 @@
 [
     {
+        "id": "3643508695259010932",
+        "title": "Software Engineer Intern",
+        "company": "CausalFunnel",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T18:33:24.763557+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374944594",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1045418495269892526",
         "title": "Full stack  Developer",
         "company": "Siemens",
@@ -1337,20 +1351,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-21T18:32:50.784044+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4366475732",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2522287542210830166",
-        "title": "Software Engineer Intern",
-        "company": "CausalFunnel",
-        "location": "",
-        "date_posted": "2026-02-20",
-        "found_at": "2026-02-21T17:51:31.587252+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374619118",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
