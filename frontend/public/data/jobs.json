@@ -1,5 +1,61 @@
 [
     {
+        "id": "1534649246684948468",
+        "title": "Frontend Developer (React) | Remote",
+        "company": "Crossing Hurdles",
+        "location": "",
+        "date_posted": "2026-02-21",
+        "found_at": "2026-02-22T11:44:38.438976+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374915770",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "80442758854162519",
+        "title": "Packaged/SaaS Application Engineer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T11:44:38.438976+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374988062",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2229288168432472796",
+        "title": "Software Engineer III - Fullstack, ITC",
+        "company": "Nike",
+        "location": "Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T11:44:38.438976+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4367631238",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6207387856894014341",
+        "title": "Full Stack Developer",
+        "company": "Integrated SoftTech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T11:44:38.438976+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374915925",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3828878097952798573",
         "title": "Web Developer",
         "company": "Accenture in India",
@@ -917,34 +973,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-21T11:45:10.040321+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4375018424",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7717954632965545161",
-        "title": "Frontend Developer (React) | Remote",
-        "company": "Crossing Hurdles",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T11:20:47.477991+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374915770",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8403918004993605071",
-        "title": "Robotics Software Engineer",
-        "company": "Wastefull Insights",
-        "location": "Vadodara, Gujarat, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T11:20:47.477991+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373759286",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
