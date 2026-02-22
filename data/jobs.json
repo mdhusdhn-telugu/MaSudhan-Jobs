@@ -1,5 +1,47 @@
 [
     {
+        "id": "1382236552397625408",
+        "title": "Web Developer",
+        "company": "Accenture services Pvt Ltd",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T14:52:43.420428+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374977835",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "9009586741636371131",
+        "title": "Junior Full Stack Developer",
+        "company": "Binated",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T14:52:43.420428+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374968385",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7093385185285141008",
+        "title": "Angular Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T14:52:43.420428+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374995343",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8552801780963679215",
         "title": "Junior Frontend Developer",
         "company": "UniSouk",
@@ -1057,62 +1099,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-21T14:52:59.938074+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374935494",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7553786968695273131",
-        "title": "Full Stack Engineer",
-        "company": "VareonApps",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T14:24:51.911075+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4373471569",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7447030952763711408",
-        "title": "Frontend Developer - SDE-2(React JS)",
-        "company": "SiteRecon",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T14:24:51.911075+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374937119",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2065418030986770213",
-        "title": "Junior Full Stack Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T14:24:51.911075+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374903337",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1422574266837252006",
-        "title": "Javascript Developer (React/Vue/Angular) | Remote",
-        "company": "Crossing Hurdles",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T14:24:51.911075+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374925393",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
