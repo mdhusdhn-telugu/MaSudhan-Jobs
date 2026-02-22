@@ -1,5 +1,19 @@
 [
     {
+        "id": "-7238265914316718361",
+        "title": "Fresher Software Engineer",
+        "company": "Scalix Enterprise Solution LLP",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-22T07:34:58.322608+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374965814",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-7136098153538972456",
         "title": "Frontend Developer (React)",
         "company": "Binated",
@@ -931,34 +945,6 @@
         "date_posted": "2026-02-20",
         "found_at": "2026-02-21T08:57:54.567870+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374346912",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9149269332740564237",
-        "title": "React Developer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T07:07:27.818082+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374690572",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6911526412387932531",
-        "title": "Software Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-21T07:07:27.818082+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376151876",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
