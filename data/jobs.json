@@ -1,5 +1,47 @@
 [
     {
+        "id": "5107660589155603642",
+        "title": "Angular JS Developer",
+        "company": "Persistent Systems",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T15:26:09.511675+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4205910087",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1419736869177263950",
+        "title": "Junior Full Stack Developer",
+        "company": "Binated",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T15:26:09.511675+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375331591",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8646165284702211731",
+        "title": "Web Developer",
+        "company": "Scoutit",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T15:26:09.511675+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375364215",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-5375595770030065331",
         "title": "Frontend Developer",
         "company": "Ed Astra",
@@ -1281,118 +1323,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-22T15:49:01.445783+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4376395122",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2619045152192330008",
-        "title": "Web Developer",
-        "company": "Scoutit",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T15:23:33.896918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374997230",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4634237215536405107",
-        "title": "Adobe AEM Frontend Developer",
-        "company": "Volvo Group",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T15:23:33.896918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4339480283",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1821144405101846698",
-        "title": "Back End Developer",
-        "company": "RAY AND MARTIN",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T15:23:33.896918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374928848",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8137391257331626595",
-        "title": "Full Stack Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T15:23:33.896918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374968972",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1465070373508835433",
-        "title": "Web Developer",
-        "company": "Anslation",
-        "location": "Betul, Madhya Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T15:23:33.896918+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374948373",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1382236552397625408",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T14:52:43.420428+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374977835",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9009586741636371131",
-        "title": "Junior Full Stack Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T14:52:43.420428+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374968385",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7093385185285141008",
-        "title": "Angular Developer",
-        "company": "Scoutit",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T14:52:43.420428+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374995343",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
