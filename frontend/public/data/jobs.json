@@ -1,5 +1,33 @@
 [
     {
+        "id": "8980497259060957945",
+        "title": "Frontend Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T22:39:02.506219+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375356469",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8800583058914749723",
+        "title": "React Developer",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T22:39:02.506219+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375357192",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "3456806845323626251",
         "title": "React Developer IRC281788",
         "company": "GlobalLogic",
@@ -1141,48 +1169,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-22T22:51:28.155018+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374993552",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3514679821905215984",
-        "title": "Frontend Developer",
-        "company": "Scoutit",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T22:22:45.999373+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375307039",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-354745980352391287",
-        "title": "React Developer",
-        "company": "Scoutit",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T22:22:45.999373+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374996294",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5794355368958187873",
-        "title": "Frontend Developer \u2013React.Js & Angular",
-        "company": "Samin TekMindz",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T22:22:45.999373+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375307544",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
