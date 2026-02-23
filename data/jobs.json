@@ -1,5 +1,145 @@
 [
     {
+        "id": "6887279670381432522",
+        "title": "Frontend Developer (React)",
+        "company": "Binated",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375335027",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-325288212463713455",
+        "title": "Javascript Developer (HTML, CSS)",
+        "company": "KAAPRO",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375337238",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1568837469536598360",
+        "title": "Frontend Developer Intern",
+        "company": "Querybe",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374239020",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-679649485252118686",
+        "title": "Front-End Developer Intern",
+        "company": "UM IT Solutions",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376535794",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5644989519592950155",
+        "title": "Frontend Reactjs Developer",
+        "company": "Amantra",
+        "location": "Indore, Madhya Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374237750",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7487059645027936757",
+        "title": "Frontend Developer",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375351038",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7353234137559721641",
+        "title": "Web Developer",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375337327",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7723306723954177636",
+        "title": "Software Engineer Intern",
+        "company": "Inficore Soft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375336147",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1524571175802741921",
+        "title": "Software Engineers - Freshers / Interns only",
+        "company": "Creative Micro Systems",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375342084",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5271028095557560256",
+        "title": "Software Engineer - Backend (3-5 years), Pune",
+        "company": "PhonePe",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-23T07:02:31.529736+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376541468",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "143305715117454914",
         "title": "Frontend Developer",
         "company": "Lorven Technologies Inc.",
@@ -1393,48 +1533,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-22T07:34:58.322608+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374965814",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7136098153538972456",
-        "title": "Frontend Developer (React)",
-        "company": "Binated",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T06:44:38.568964+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374976277",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3842275641395093812",
-        "title": "Software Engineer Intern",
-        "company": "Inficore Soft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T06:44:38.568964+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374969432",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "9100639210543088450",
-        "title": "Full Stack Web Developer - India",
-        "company": "hackajob",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-22T06:44:38.568964+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374958818",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
