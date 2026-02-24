@@ -1,5 +1,33 @@
 [
     {
+        "id": "-1090427865903312751",
+        "title": "Front-End Developer",
+        "company": "Somewhere",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T05:41:48.069057+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375398776",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8121380081281866277",
+        "title": "Java full stack developer+ Angular",
+        "company": "People Prime Worldwide",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T05:41:48.069057+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376024725",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "1766351214217179860",
         "title": "React.js Developer",
         "company": "Ascent Business Solutions",
@@ -1183,76 +1211,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-23T05:50:45.365920+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4376516409",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5412105839249121073",
-        "title": "Front End Developer",
-        "company": "hackajob",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T04:31:02.608459+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375317527",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-6808918541617514816",
-        "title": "Frontend Developer",
-        "company": "Hirenza",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T04:31:02.608459+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376510569",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3648116318757082518",
-        "title": "React Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T04:31:02.608459+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376505941",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3692043376774972707",
-        "title": "FullStack Software Engineer (Java/ Python)",
-        "company": "Procter & Gamble",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T04:31:02.608459+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4260383909",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2874028082005277906",
-        "title": "Web Developer",
-        "company": "Best Job Tool",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T04:31:02.608459+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376519256",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
