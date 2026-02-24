@@ -1,5 +1,47 @@
 [
     {
+        "id": "7571949015194653780",
+        "title": "Front End Developer (React)",
+        "company": "METRO Global Solution Center IN",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T15:56:33.146332+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374804410",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3599352181335916454",
+        "title": "ReactJS / NextJS Developer",
+        "company": "NARBA",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T15:56:33.146332+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376086559",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1328606065769310969",
+        "title": "Software Development Engineer I (Full Stack)",
+        "company": "Learneo",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T15:56:33.146332+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4368497252",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-3353587060651717803",
         "title": "Fresher Full Stack Developer",
         "company": "Parsh Technologies",
@@ -1015,48 +1057,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-23T16:12:51.893295+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4375708762",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5107660589155603642",
-        "title": "Angular JS Developer",
-        "company": "Persistent Systems",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T15:26:09.511675+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4205910087",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1419736869177263950",
-        "title": "Junior Full Stack Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T15:26:09.511675+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375331591",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8646165284702211731",
-        "title": "Web Developer",
-        "company": "Scoutit",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T15:26:09.511675+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375364215",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
