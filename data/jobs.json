@@ -1,5 +1,159 @@
 [
     {
+        "id": "8598962682059909773",
+        "title": "Front-End Developer(React.JS/Svelte.JS) (Contract to Hire) [Immediate Joiner]",
+        "company": "People Prime Worldwide",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376025978",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8899457119304397932",
+        "title": "Backend Engineer - Python - Intern",
+        "company": "Quick Compare",
+        "location": "Bangalore Urban, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376070615",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6173497861324399034",
+        "title": "Java Full Stack Developer",
+        "company": "Techno-Comp Computer Services Pvt. Ltd.",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377066131",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-5899961725500027166",
+        "title": "TypeScript Front-End Developer (Remote, Full-Time) [MR003]",
+        "company": "Smart Working",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374590679",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1005975434511461808",
+        "title": "Back End Developer",
+        "company": "Aditi Consulting",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376035295",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5547561134030568549",
+        "title": "Web Developer Intern",
+        "company": "Zenithbyte",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376073568",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1446295317868434876",
+        "title": "Full Stack Developer",
+        "company": "Talent Corner HR Services Pvt Ltd",
+        "location": "Mumbai, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374592979",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7085576359364377611",
+        "title": "Full Stack Engineer",
+        "company": "Hawk Sense Business Solutions Pvt Ltd (formerly known as Hawk Sense Security Systems Pvt Ltd)",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376035789",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6066335493250888102",
+        "title": "Wipro Walk-in Interview for Freshers at Multiple Locations",
+        "company": "Wipro",
+        "location": "Pune, Maharashtra, India",
+        "date_posted": "2026-02-02",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://foundthejob.com/wipro-walk-in-interview-for-freshers/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "-23988970569665344",
+        "title": "Urgent Hiring in Wipro - Freshers Jobs - Data Entry Cum Back Office",
+        "company": "The Elite Job",
+        "location": "India",
+        "date_posted": "2026-02-02",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://theelitejob.com/job/14089/urgent-hiring-in-wipro-freshers-jobs-data-entry-cum-back-office?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 20
+        }
+    },
+    {
+        "id": "2584019860231355999",
+        "title": "Wipro/Infosys Jobs for Freshers - IT and Non-IT Roles Hiring",
+        "company": "MNC JOBS INFO",
+        "location": "India",
+        "date_posted": "2026-02-02",
+        "found_at": "2026-02-24T21:33:30.964025+00:00",
+        "job_url": "https://theelitejob.com/job/15784/wipro-infosys-jobs-for-freshers-it-and-non-it-roles-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "site": "google",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 34
+        }
+    },
+    {
         "id": "-6176236859306424198",
         "title": "Front-End Developer Intern (JavaScript, React))",
         "company": "Skillfied Mentor Jobs",
@@ -945,20 +1099,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-23T22:39:02.506219+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4375357192",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3456806845323626251",
-        "title": "React Developer IRC281788",
-        "company": "GlobalLogic",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-23T20:57:04.397427+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4325016160",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
