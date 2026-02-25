@@ -1,5 +1,47 @@
 [
     {
+        "id": "764742214807817395",
+        "title": "React JS Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T13:25:04.493662+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376729976",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8972191820159732402",
+        "title": "Software Engineering Explore Intern",
+        "company": "Microsoft",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T13:25:04.493662+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377825940",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2261322465630910327",
+        "title": "Software Engineer (Javascript/Angular/React/Frontend))",
+        "company": "Arista Networks",
+        "location": "Chennai, Tamil Nadu, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T13:25:04.493662+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4374896832",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "470641278471520075",
         "title": "React Developer",
         "company": "Synctric",
@@ -945,76 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-24T14:33:15.728067+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4351530088",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2372028028925185795",
-        "title": "React Developer",
-        "company": "Persistent Systems",
-        "location": "Hyderabad, Telangana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T13:01:46.827355+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4205905672",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6833352268852405956",
-        "title": "Software Developers (Java/Python/React/Grafana)",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T13:01:46.827355+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4351893556",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-658621006960661853",
-        "title": "Computer Aided Design Engineer",
-        "company": "Accenture in India",
-        "location": "Pune, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T13:01:46.827355+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4352636254",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-9090919176656607503",
-        "title": "Software Engineer Intern",
-        "company": "SwasthiQ",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T13:01:46.827355+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374997295",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "7357355401568700181",
-        "title": "Backend Developer - Intern",
-        "company": "SkilloVilla",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T13:01:46.827355+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4377179185",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
