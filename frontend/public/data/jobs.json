@@ -1,5 +1,47 @@
 [
     {
+        "id": "-7292266851404637953",
+        "title": "Frontend Developer",
+        "company": "ArcelorMittal Digital Consulting",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T14:31:36.197887+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377841724",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2283326491642691501",
+        "title": "React.js Developer",
+        "company": "TechNooka",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T14:31:36.197887+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4348175983",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2877489795488809372",
+        "title": "Software Engineer Intern - Cisco Women Internship Program",
+        "company": "Cisco",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T14:31:36.197887+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377846614",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "764742214807817395",
         "title": "React JS Developer",
         "company": "Infosys",
