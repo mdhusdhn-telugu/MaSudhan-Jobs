@@ -1,5 +1,47 @@
 [
     {
+        "id": "980294259874574670",
+        "title": "React + FastAPI Developer",
+        "company": "Synchronics Electronics Pvt. Ltd.",
+        "location": "Vadodara, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T17:17:30.565282+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377816330",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3444714504389762454",
+        "title": "Fullstack Software Engineer",
+        "company": "Sauce Labs",
+        "location": "Gurgaon, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T17:17:30.565282+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4352754729",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "1261608186255351978",
+        "title": "Full Stack Web Developer Intern",
+        "company": "Dexter's Tech",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-25T17:17:30.565282+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377876488",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "247926785001665549",
         "title": "Jr. React Developer",
         "company": "Euphoric Thought Technologies Pvt. Ltd.",
@@ -945,34 +987,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-24T18:15:05.000330+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4376077253",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "619805082444200832",
-        "title": "Software Engineer",
-        "company": "Shreesozo",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T17:05:10.528180+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376401418",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7637565682525525713",
-        "title": "Web Developer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-24T17:05:10.528180+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376042840",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
