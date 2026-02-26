@@ -1,5 +1,33 @@
 [
     {
+        "id": "4326419444618867719",
+        "title": "Junior Frontend Developer (MERN Growth Path) \u2013 Vadodara",
+        "company": "Agnes Creative Design Agency",
+        "location": "Vadodara, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T06:58:45.464344+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375503249",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "390268658640885616",
+        "title": "SOFTWARE DEVELOPER INTERN",
+        "company": "Codequery Technology",
+        "location": "Patna, Bihar, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T06:58:45.464344+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376987586",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-262743074456540041",
         "title": "React Developer",
         "company": "McAfee",
@@ -1015,20 +1043,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-25T08:06:42.847534+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4376702131",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5959117429627226169",
-        "title": "Frontend Developer",
-        "company": "Wisemonk",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T05:59:48.345761+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376479920",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
