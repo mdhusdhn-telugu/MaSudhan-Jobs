@@ -1,5 +1,33 @@
 [
     {
+        "id": "208712225651127589",
+        "title": "Software Developer-Fresher",
+        "company": "Skill Hive Hub",
+        "location": "Hyderabad, Telangana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T19:43:20.134038+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378617149",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "6097485452110424093",
+        "title": "Software Development Engineer I (Full Stack)",
+        "company": "Learneo",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T19:43:20.134038+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378346516",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-174058018892482954",
         "title": "Junior Developers Backend and Frontend",
         "company": "Larsen & Toubro",
