@@ -1,5 +1,61 @@
 [
     {
+        "id": "-8049443393912447089",
+        "title": "Frontend Developer",
+        "company": "Syngenta",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T13:01:58.091200+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378336449",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-4121505750116188871",
+        "title": "Frontend software Engineer, AVP",
+        "company": "Deutsche Bank",
+        "location": "Pune Division, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T13:01:58.091200+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378335316",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6727784857057515312",
+        "title": "Software Engineering INTERN",
+        "company": "Microsoft",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T13:01:58.091200+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378348348",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "2952138241347029614",
+        "title": "Node.JS Developer",
+        "company": "Tata Technologies",
+        "location": "Pune District, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T13:01:58.091200+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378341232",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "967462105029135900",
         "title": "Frontend Developer",
         "company": "Emerson",
@@ -1099,34 +1155,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-25T13:25:04.493662+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4374896832",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "470641278471520075",
-        "title": "React Developer",
-        "company": "Synctric",
-        "location": "Kochi, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T12:00:11.210275+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376724514",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5879580513494582114",
-        "title": "Fullstack Developer",
-        "company": "TELUS Digital",
-        "location": "Noida, Uttar Pradesh, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T12:00:11.210275+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4305055617",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
