@@ -1,5 +1,47 @@
 [
     {
+        "id": "2957376799519979331",
+        "title": "Frontend Developer",
+        "company": "OSLO HQ | B2B Marketing & Technology",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T14:30:52.409557+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376974436",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-3004531994282160650",
+        "title": "Frontend Developer",
+        "company": "Publicis Production",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T14:30:52.409557+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378314718",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-1043750310003754080",
+        "title": "Javascript Developer",
+        "company": "NopAdvance LLP",
+        "location": "Surat, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-26T14:30:52.409557+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375503990",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-8049443393912447089",
         "title": "Frontend Developer",
         "company": "Syngenta",
@@ -1113,48 +1155,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-25T14:31:36.197887+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4377846614",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "764742214807817395",
-        "title": "React JS Developer",
-        "company": "Infosys",
-        "location": "Bengaluru East, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T13:25:04.493662+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376729976",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8972191820159732402",
-        "title": "Software Engineering Explore Intern",
-        "company": "Microsoft",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T13:25:04.493662+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4377825940",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-2261322465630910327",
-        "title": "Software Engineer (Javascript/Angular/React/Frontend))",
-        "company": "Arista Networks",
-        "location": "Chennai, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-25T13:25:04.493662+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4374896832",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
