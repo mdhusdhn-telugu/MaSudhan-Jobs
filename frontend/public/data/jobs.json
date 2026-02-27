@@ -1,5 +1,103 @@
 [
     {
+        "id": "-3673541642597489147",
+        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+        "company": "ArGo Intern",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377256552",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2876547018763069938",
+        "title": "Frontend Developer (React) | Remote",
+        "company": "Crossing Hurdles",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377689500",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-6104537703659951713",
+        "title": "Frontend Developer",
+        "company": "Mantra Digital, LLC",
+        "location": "Ahmedabad, Gujarat, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4378734033",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "3198755056492553063",
+        "title": "Software Development Engineer",
+        "company": "Accenture in India",
+        "location": "Pune City, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375552139",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8119335940395583309",
+        "title": "Software Engineer Intern",
+        "company": "Emmes",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377900039",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "7258878641081368060",
+        "title": "Software Engineer Intern - DevOps",
+        "company": "Emmes",
+        "location": "Bengaluru, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377690375",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-2081647158413657557",
+        "title": "Software Engineer Intern",
+        "company": "PeopleWiz Consulting LLP",
+        "location": "Pune District, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T10:36:07.388573+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377698167",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "8543072468656831803",
         "title": "Frontend Developer (React)",
         "company": "Binated",
@@ -1029,104 +1127,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-26T10:43:50.673699+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4377202652",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5941316597604686725",
-        "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
-        "company": "ArGo Intern",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376976853",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5156183235149806990",
-        "title": "Front End Developer Intern",
-        "company": "Infrabyte Consulting",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4378309548",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8319349464472565964",
-        "title": "Frontend Engineer",
-        "company": "Diligente Technologies",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4340338550",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-8697239536979905380",
-        "title": "Software Development Engineer",
-        "company": "Accenture services Pvt Ltd",
-        "location": "Pune Division, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376991658",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6040816602851716489",
-        "title": "Software Development Engineer",
-        "company": "Accenture in India",
-        "location": "Pune City, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375512177",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-1381187423666763176",
-        "title": "Software Development Engineer Intern",
-        "company": "Recruit Forge",
-        "location": "Coimbatore, Tamil Nadu, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376999483",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "3257161439506626068",
-        "title": "Software Engineer Intern",
-        "company": "Peeyems Systems",
-        "location": "Kannur, Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T09:47:20.978736+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376992805",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
