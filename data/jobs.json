@@ -1,5 +1,61 @@
 [
     {
+        "id": "-2300047680757529366",
+        "title": "Front-End Developer Intern",
+        "company": "MatchToCollege",
+        "location": "Gurugram, Haryana, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T06:52:13.360682+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375909645",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "5893490050666678492",
+        "title": "React Developer - UI",
+        "company": "Scoutit",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T06:52:13.360682+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4376998831",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "4914656325082320474",
+        "title": "Software Engineer",
+        "company": "Zetheta Algorithms Private Limited",
+        "location": "",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T06:52:13.360682+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4377669139",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-8718823566325972915",
+        "title": "Python Fullstack Developer",
+        "company": "Infosys",
+        "location": "Bengaluru East, Karnataka, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T06:52:13.360682+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4359073095",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "724089578801820332",
         "title": "Frontend Software Developer",
         "company": "Scoutit",
@@ -973,132 +1029,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-26T06:58:45.464344+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4376987586",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-262743074456540041",
-        "title": "React Developer",
-        "company": "McAfee",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375276072",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "5612422005623376730",
-        "title": "Frontend Developer",
-        "company": "Alike",
-        "location": "Gurugram, Haryana, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4378002573",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7655508579872656784",
-        "title": "Frontend Developer Intern",
-        "company": "Wake Up Whistle",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376764671",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "6449023362470896221",
-        "title": "Frontend Developer",
-        "company": "Mopid",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4377815712",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-7493032503826164069",
-        "title": "React Front End Engineer, Associate",
-        "company": "BlackRock",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376980259",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-4975609278484315984",
-        "title": "Java Backend Developer",
-        "company": "People Prime Worldwide",
-        "location": "Pune District, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376975658",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "8545386160343937944",
-        "title": "Performance Engineer",
-        "company": "Accenture in India",
-        "location": "Navi Mumbai, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375237253",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "2447202515298972461",
-        "title": "Software Engineer",
-        "company": "Zetheta Algorithms Private Limited",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376986235",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "4365351384005624504",
-        "title": "Junior Full Stack Developer",
-        "company": "Binated",
-        "location": "Bengaluru, Karnataka, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T05:40:14.728590+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4376964589",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
