@@ -1,5 +1,47 @@
 [
     {
+        "id": "-7372673312434292377",
+        "title": "Full Stack AI Developer Intern",
+        "company": "Tezzonix",
+        "location": "Kerala, India",
+        "date_posted": "2026-02-26",
+        "found_at": "2026-02-27T15:59:49.709894+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4375531658",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "-7299098781629752198",
+        "title": "Front End Developer | Noida (WFO)",
+        "company": "CompuGroup Medical SE & Co. KGaA",
+        "location": "Noida, Uttar Pradesh, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T15:59:49.709894+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4321965491",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
+        "id": "8190445136526453034",
+        "title": "Web Developer",
+        "company": "Gallagher",
+        "location": "Pune Division, Maharashtra, India",
+        "date_posted": "Unknown",
+        "found_at": "2026-02-27T15:59:49.709894+00:00",
+        "job_url": "https://www.linkedin.com/jobs/view/4342148216",
+        "site": "linkedin",
+        "analysis": {
+            "is_suitable": true,
+            "match_score": 50
+        }
+    },
+    {
         "id": "-1961031948670415133",
         "title": "Full Stack Developer",
         "company": "Persistent Systems",
@@ -1057,62 +1099,6 @@
         "date_posted": "Unknown",
         "found_at": "2026-02-26T16:30:59.626672+00:00",
         "job_url": "https://www.linkedin.com/jobs/view/4375547553",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1213877083855966055",
-        "title": "Full Stack AI Developer Intern",
-        "company": "Tezzonix",
-        "location": "Kerala, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T15:28:35.584013+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375531658",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-5557428698189928330",
-        "title": "React JS Developer",
-        "company": "Persistent Systems",
-        "location": "Pune District, Maharashtra, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T15:28:35.584013+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4375551022",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "1631605663269099974",
-        "title": "Frontend Developer Intern",
-        "company": "SunsysTechsol Pvt. Ltd.",
-        "location": "",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T15:28:35.584013+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4377258482",
-        "site": "linkedin",
-        "analysis": {
-            "is_suitable": true,
-            "match_score": 50
-        }
-    },
-    {
-        "id": "-3931400527481711372",
-        "title": "Frontend Developer",
-        "company": "BillCut.com",
-        "location": "Delhi, India",
-        "date_posted": "Unknown",
-        "found_at": "2026-02-26T15:28:35.584013+00:00",
-        "job_url": "https://www.linkedin.com/jobs/view/4377263132",
         "site": "linkedin",
         "analysis": {
             "is_suitable": true,
